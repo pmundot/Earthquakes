@@ -1,0 +1,405 @@
+Date (UTC),"Country, Region (Epicenter)",Magnitude,Depth (km),Intensity (MMI),Fatalities,Injuries,Damage level,Tsunami Height
+1/2/2014,"Iran, Hormozgan",5.5,20,VII,1,30,4,--
+1/3/2014,"Iran, Bushehr",4.7,18,,--,--,2,--
+1/5/2014,"Colombia, Choco",5.2,32,VI,--,--,2,--
+1/7/2014,"Chile, Tarapaca",5.2,80,V ,--,--,1,--
+1/7/2014,"India, Maharashtra","[3,2]",,,--,--,1 - 2,--
+1/7/2014,"China, Shandong",4.3,7,,--,--,1,--
+1/8/2014,"USA, Pennsylvania",1.8,,,--,--,1,--
+1/9/2014,"Iran, Hormozgan",5,10,,--,--,1 - 2,--
+1/9/2014,"Colombia, Tolima",4.8,,,--,--,2,--
+1/9/2014,OS Cuba,4.9,,,--,--,1,--
+1/10/2014,"Turkey, Balikesir",4,,,--,--,2,--
+1/13/2014,OS Puerto Rico,6.4,,V,--,--,1 - 2,--
+1/13/2014,"Australia, Victoria",2.8,,,--,--,1,--
+1/14/2014,"China, Yunnan",4.4,11,,--,--,2 - 3,--
+1/15/2014,"USA, California",4.4,3,V ,--,--,1,--
+1/15/2014,"Quetzaltenango, Guatemala",4.1,47,,--,--,1,--
+1/16/2014,"Thailand, Surat Thani",4,,,--,--,1 - 2,--
+1/18/2014,"China, Yunnan",3.5,14,,--,--,1 - 2,--
+1/19/2014,Hungary,4.4,,,--,--,1 - 2,--
+1/20/2014,"New Zealand, Manawatu-Wanganui",6.2,,VIII,--,3,2 - 3,--
+1/20/2014,"Italy, Campania",4.2,11,V ,--,--,2,--
+1/21/2014,"China, Yunnan",3.5,5,,--,--,1,--
+1/23/2014,Saudi Arabia,5.1,,,--,--,1 - 2,--
+1/25/2014,"OS Indonesia, Java",6.5,88,VI,--,2,3,--
+1/25/2014,France,3.9,,,--,--,1,--
+1/26/2014,"Peru, Tumbes",5.4,,VI,--,--,1 - 2,--
+1/26/2014,"Greece, Cephalonia",5.8,16,VII,--,7,2 - 3,--
+follow. days,"Greece, Cephalonia (aftershocks)","< 5,1",,,--,--,2,--
+1/26/2014,"Philippines, Marinduque",4.7,1,,--,--,1,--
+1/28/2014,Bosnia-Herzegowina,4.2,,VI,--,6,2,--
+1/28/2014,"China, Yunnan",4.6,10,,--,--,2 - 3,--
+1/28/2014,"Iran, Chaharmahal and Bakhtiari",5.1,6,,--,--,2 - 3,--
+1/30/2014,Costa Rica,4.6,32,,--,--,1 - 2,--
+2/1/2014,"Malaysia, Borneo",4.8,,,--,--,1,--
+2/1/2014,"Greece, Cephalonia (aftershock)",4.6,3,,--,--,1 - 2,--
+2/2/2014,"Iran, Hormozgan",5.5,8,,--,--,2,--
+2/2/2014,"Iran, East Azerbaijan",3.5,,,--,--,1,--
+2/3/2014,"OS Greece, Cephalonia",5.7,12,,--,16,4,--
+2/4/2014,South Africa,"[2,4]",,,[9],--,1,--
+2/7/2014,"Colombia, Santander",5.5,160,IV,--,--,1,--
+2/9/2014,"USA, Oklahoma","[4,1]",5,,--,--,1,--
+2/10/2014,Azerbaijan,5.4,55,,--,--,2 - 3,--
+2/10/2014,"Indonesia, Nusa Tenggara Timur",5.5,,,--,4,2 - 3,--
+2/11/2014,"China, Xinjiang (forshock)",5.4,11,,--,--,1 - 2,--
+2/11/2014,"Taiwan, Taipeh",4,6,IV,--,--,1,--
+2/12/2014,"China, Xinjiang",7.3,12,IX,--,--,5,--
+2/13/2014,Netherlands,"[3,0]",3,,--,--,2,--
+2/14/2014,"Turkey, Akdeniz",4.5,,,--,--,2,--
+2/15/2014,"USA, Oklahoma","[3,1]",,,--,--,1,--
+2/15/2014,"USA, South Carolina",4.1,5,V,--,--,1 - 2,--
+2/16/2014,"Indonesia, Java",2.7,17,IV,--,--,2 - 3,--
+2/17/2014,"USA, Oklahoma","[3,8]",5,IV,--,--,1,--
+2/17/2014,"OS Philippines, Luzon",5.7,23,V,--,--,1,--
+2/17/2014,"China, Guizhou",2.8,7,,--,--,2 - 3,--
+2/18/2014,OS Barbados,6.7,,V,--,--,1,--
+2/18/2014,"Peru, Ica",5.6,,,--,16,1 - 2,--
+2/18/2014,"Turkey, Van",4.6,,,--,--,2,--
+2/19/2014,"Venezuela, Lara",5.2,3,,--,--,2,--
+2/20/2014,"Iran, Isfahan",4.2,15,,--,--,1 - 2,--
+2/22/2014,"Turkey, Kahramanmaras",4.4,7,,--,--,2,--
+2/22/2014,"Algeria, Boumerdès",4.5,,,--,1,1,--
+2/26/2014,"Australia, Western Australia","[4,6]",,V,--,--,1 - 2,--
+2/26/2014,"Iran, Kerman",4.3,36,,--,--,2,--
+03/2014,"Mexico, Nuevo Leon","[> 4,2]",,,--,--,2,--
+3/2/2014,OS Nicaragua,6.2,71,VI,--,--,2 - 3,--
+3/5/2014,"OS Greece, Cephalonia (aftershock)",4.8,,,--,--,1 - 2,--
+3/9/2014,"Iran, East Azerbaijan",3.5,17,,--,8,--,--
+3/9/2014,"OS Indonesia, Java",5.4,50,,--,--,2,--
+3/10/2014,"OS USA, California",6.9,16,V,--,--,1 - 2,--
+3/11/2014,Morocco,4.5,51,,--,--,2,--
+3/12/2014,Comores,4.7,,,--,--,1,--
+3/12/2014,"USA, Kansas","[3,2]",,,--,--,1,--
+3/13/2014,"OS Japan, Kyushu",6.1,80,JMA 5+,--,21,2 - 3,--
+03/2014,Slovenia,"< 3,8",,,--,--,1 - 2,--
+3/15/2014,"Colombia, Cesar",5.5,130,V,--,--,2,--
+3/15/2014,"OS Peru, Ica",6.2,35,,--,1,--,--
+3/15/2014,"OS Peru, Piura",6.0,,,--,--,2,--
+3/16/2014,Kyrgyztan,5.1,,,--,--,1 - 2,--
+3/16/2014,"Iran, Kerman",4.5,5,,--,--,2,--
+3/16/2014,"OS Peru, Piura (aftershock)",4.2,,,--,--,1 - 2,--
+3/16/2014,"OS Chile, Tarapaca",6.5,,VI,--,--,1,32 cm
+3/17/2014,Poland,"[3,1]",1,,--,--,2,--
+3/17/2014,Austria,3.2,,V,--,--,1,--
+3/18/2014,"Mexico, Nuevo Leon",4.0,,,--,--,1 - 2,--
+3/20/2014,"OS Algeria, Oran",4.3,,,--,12,--,--
+3/23/2014,"Colombia, Cesar",4.4,7,IV,--,--,1,--
+3/23/2014,"OS Chile, Tarapaca",6.2,,,--,--,1,--
+3/24/2014,"Indonesia, Sulawesi Tengah",4.6,,,--,--,1,--
+3/25/2014,Ecuador,5.6,,,--,--,2,--
+3/25/2014,"Peru, Arequipa",4.5,67,,--,--,1,--
+3/26/2014,"Turkey, Malatya",4.1,4,,--,--,1 - 2,--
+3/26/2014,"China, Hubei",4.2,5,,--,--,2,--
+3/28/2014,OS Nicaragua,5.2,,,--,--,1,--
+3/29/2014,"USA, California (Los Angeles Area)",5.1,2,VIII,--,1,2,--
+3/29/2014,"China, Hubei",4.7,5,,--,--,2 - 3,--
+3/29/2014,"USA, California (Los Angeles area, aftershock)",4.1,1,VI,--,--,1,--
+3/30/2014,"USA, Oklahoma",4.3,5,V ,--,--,1,--
+3/30/2014,"Germany, Hessen",3.2,8,,--,--,1,--
+3/30/2014,"China, Xizang",5.5,10,,--,--,2,--
+3/31/2014,"Indonesia, Sumatra",5.4,10,,--,--,2,--
+3/31/2014,Papua New Guinea,5.6,,VII,--,--, 1 - 2,--
+4/1/2014,"Iran, Kerman",4.4,10,VI,--,--,1 - 2,--
+4/1/2014,"OS Chile, Tarapaca",8.2,20,VII,7,28,4 - 5,"2,11 m"
+4/1/2014,"Brazil, Minas Gerais",3.4,,,--,--,1,--
+4/2/2014,"Indonesia, Java",4.5,,,--,--,2,--
+4/2/2014,Poland,"[3,8]",1,,--,3,,--
+4/2/2014,OS Panama,5.8,,V,--,--,1 - 2,--
+4/3/2014,"OS Chile, Tarapaca",7.6,28,VIII,2,,3,74 cm
+4/3/2014,"China, Shandong",4,9,,--,--,1 - 2,--
+4/4/2014,Solomon Islands,6.1,90,VI,--,--,2,--
+4/4/2014,"OS Greece, Peloponnese",5.4,111,,--,--,1 - 2,--
+4/4/2014,"China, Yunnan",5.3,13,VII,--,37,5,--
+4/5/2014,"OS Italy, Calabria",5.0,66,,--,--,1 - 2,--
+4/6/2014,"Brazil, Minas Gerais",4.2,3,,--,1,2,--
+4/6/2014,"Russia, Altai",5.7,,,--,--,2,--
+4/7/2014,"USA, Oregon",3.3,19,IV,--,--,1,--
+4/7/2014,"France, Alpes - Cote d'Azur",5.0,,,--,--,2 - 3,--
+4/8/2014,"Brazil, Minas Gerais",3.2,,,--,--,1,--
+4/10/2014,Nicaragua (Managua Area),6.1,10,VIII,1,266,5,--
+4/11/2014,"China, Sichuan",4.8,17,,--,--,1 - 2,--
+4/11/2014,OS Papua New Guinea,7.3,54,VIII,2,,3 - 4,23 cm
+4/11/2014,Nicaragua,6.6,138,VI ,--,--,3,--
+4/12/2014,OS Solomon Islands,7.6,34,VII ,1,few,3,2 m
+4/13/2014,OS Solomon Islands,7.4,,VII,,,2,16 cm
+4/14/2014,Nicaragua (aftershock),5.6,,,1,4,3,--
+4/17/2014,Austria,4.1,,,--,--,1 - 2,--
+4/18/2014,"Mexico, Guerrero",7.2,24,VII,--,1,4,40 cm
+4/19/2014,OS Papua New Guinea,7.5,,VII,,1,3,1 m?
+4/19/2014,"India, Karnataka",1.4,,,--,--,1,--
+4/19/2014,Nicaragua,4.6,30,,--,--,2,--
+4/20/2014,"China, Anhui",4.3,10,,--,--,2,--
+4/22/2014,"Slovenia,Pivka",4.4,2,V,--,--,1 - 2,--
+4/24/2014,Dominican Republic,,,,--,2,1,--
+4/25/2014,"China, Guangdong",[3.8],,,--,--,1,--
+4/29/2014,"France, Midi-Pyrenees",4.7,,,--,--,1,--
+5/1/2014,"Germany, Lower Saxony","[3,1]",9,,--,--,1,--
+5/1/2014,Turkey,4.2,,,--,--,1 - 2,--
+5/2/2014,"OS Indonesia, Maluku",5.7,,V,--,3,2 - 3,--
+5/3/2014,"USA, Alaska",5.6,10,VI,--,--,1 - 2,--
+5/4/2014,"China, Xinjiang",4.9,,,--,--,2,--
+5/4/2014,"OS Japan, Honshu (Tokyo Area)",6.2,160,JMA 5+,--,17,--,--
+5/5/2014,"Thailand, Chiang Rai",6.3,7,VIII,1,32,4,--
+05/2014,"Thailand, Chiang Rai (aftershocks)","< 5,6",,,--,1,3,--
+5/7/2014,"China, Yunnan",4.7,13,,--,2,2 - 3,--
+5/8/2014,"Mexico, Guerrero",6.6,24,VI,--,--,3,--
+5/8/2014,"Indonesia, Java","< 4,3",5,,--,--,2,--
+5/8/2014,Pakistan,5,15,,2,100,3 - 4,--
+5/12/2014,Morocco,4.3,,,--,--,2,--
+5/13/2015,OS Panama,6.8,,V,--,--,2,--
+5/15/2014,Vietnam,4.7,,,--,--,2,--
+5/15/2014,"Peru, La Libertad",5.8,,,--,2,1,--
+5/16/2014,Pakistan,5.1,78,,--,--,1,--
+5/17/2014,"Germany, Hessen",4.2,5,VI ,--,--,2,--
+5/19/2014,"Albania, Cerrik ",5.2,18,VII,--,--,3,--
+5/20/2014,"Albania, Cerrik (aftershock)",4.5,12,,--,--,2,--
+5/21/2014,"Taiwan, Hualien",5.9,18,CWB 6,--,3,2,--
+5/21/2014,"Mexico, Chiapas",5.8,120,,--,--,1 - 2,--
+5/21/2014,"Iran, Bushehr",5.4,19,,--,--,2,--
+5/21/2014,"OS India, Odisha",6,,,2,250,3,--
+5/22/2014,"Algeria, Mostaganem",5.2,,,--,--,2,--
+5/23/2014,"China, Yunnan",5.6,12,,--,15,3 - 4,--
+5/24/2014,"Mexico, Oaxaca",5.4,12,,--,--,2,--
+5/24/2014,"OS Greece, Lemnos",6.9,24,VII,--,324,3,--
+5/24/2014,Czech Republic,3.9,5,IV,--,--,1,--
+5/24/2014,Jordan/Israel,4.1,10,,--,--,1,--
+5/26/2014,"China, Hubei","[3,4]",5,,--,--,1 - 2,--
+5/27/2014,"China, Hubei",[4],7,,--,--,2,--
+5/28/2014,OS Dominican Republic,5.8,91,V,--,--,2,--
+5/30/2014,"China, Yunnan",6.1,12,VII,--,48,4 - 5,--
+5/30/2014,"USA, Oklahoma","[3,2]",2,,--,--,1,--
+5/31/2014,Czech Republic,4.5,7,,--,--,1 - 2,--
+6/2/2014,"Russia, Chechnya",4.8,,,--,--,2,--
+6/3/2014,"Iran, Kerman",4.9,14,,--,--,2,--
+6/3/2014,"OS Peru, Lima",5.4,,,--,2,1 - 2,--
+6/4/2014,Nigeria,,,,--,--,2,--
+6/6/2014,"China, Xizang",4.4,8,,--,--,1 - 2,--
+6/8/2014,"Argentina, La Rioja",4.9,12,,--,--,2,--
+6/8/2014,"Germany, Hessen",3.2,3,V,--,--,1,--
+6/9/2014,"China, Sichuan",4.8,15,,--,--,2,--
+6/10/2014,"Iran, Tehran",3.6,12,,--,--,2,--
+6/13/2014,"Peru, Piura",4.6,29,,--,--,1 - 2,--
+6/13/2014,Pakistan,5.3,,,--,--,2,--
+6/13/2014,"India, Kashmir",4.6,,,2,1,3,--
+6/13/2014,"India, Gujarat",3.2,,,--,--,1,--
+6/15/2014,"USA, Alaska",5.7,12,,--,--,2,--
+6/16/2014,Guatemala,5.4,14,,--,--,3,--
+6/17/2014,"India, Himachal Pradesh",4.1,,,--,--,1 - 2,--
+6/18/2014,"USA, Oklahoma","[4,1]",3,V,--,--,1 - 2,--
+6/20/2014,"Iran, Bushehr",5.1,11,,--,1,3,--
+6/21/2014,Kazakhstan,4.8,,,--,--,1 - 2,--
+6/22/2014,"OS Indonesia, Java",5.5,12,,--,--,2,--
+6/22/2014,"Peru, Ica",5.5,86,,--,4,,--
+6/23/2014,"Kermadec Islands, New Zealand",6.9,,,--,--,--,13 cm
+6/23/2014,"OS USA, Alaska",7.9,107,VII,--,--,--,17 cm
+6/28/2014,Bolivia,4.6,11,,--,--,2,--
+6/28/2014,"Iran, Chorasan",4.5,10,,--,--,2 - 3,--
+6/29/2014,"USA, Arizona",5.2,5,VI,--,--,1 - 2,--
+6/29/2014,Azerbaijan,5.2,,,--,--,3,--
+6/30/2014,"Iran, Chorasan",4.4,,,--,--,3,--
+7/3/2014,"Turkey, Balikesir",4.5,7,,--,--,2,--
+7/3/2014,"Pakistan, Kashmir",5,,,--,--,3,--
+7/4/2014,"Japan, Honshu",5.8,,JMA 5-,--,1,--,--
+7/5/2014,"Iran, Fars",4.9,19,,--,--,1 - 2,--
+7/5/2014,Bosnia-Herzegowina,3.6,,V,--,--,1,--
+7/5/2014,Poland,"[4,4]",,,--,3,1,--
+7/5/2014,Lebanon,4,,,--,--,1 - 2,--
+7/7/2014,"Mexico, Chiapas",6.9,60,VII,8,410,5,--
+7/7/2014,Vietnam,"[3,6]",6,,--,--,1 - 2,--
+7/8/2014,"Japan, Hokkaido",5.8,5,JMA 5-,--,3,--,--
+7/8/2014,"China, Xinjiang",5.1,8,,--,1,3 - 4,--
+7/9/2014,"Peru, Arequipa",5.3,45,,--,2,--,--
+7/11/2014,"China, Guangdong",[4.2],12,,--,--,2,--
+7/11/2014,"OS UK, Channel Islands",4.8,,V,--,--,1,--
+7/11/2014,"China, Sichuan",3.6,21,,--,--,1,--
+7/11/2014,"OS Japan, Honshu",6.8,,JMA 4,--,3,--,30 cm
+7/13/2014,"Peru, Arequipa",3.9,14,,--,--,3,--
+7/13/2014,"OS Chile, Tarapaca",5.6,,VII,--,--,1,--
+7/14/2014,"OS Indonesia, Java",5.6,,IV,--,--,2,--
+7/14/2014,Bolivia,< 3.8,,,--,--,1 - 2,--
+7/15/2014,"USA, Oklahoma",[3.8],9,IV,--,--,1 - 2,--
+7/15/2014,"Thailand, Chiang Rai (aftershock)",4.3,,,--,--,1 - 2,--
+7/17/2014,"USA, Kansas",[3.6],5,IV,--,--,1,--
+7/18/2014,Bolivia,4.5,,,--,--,2,--
+7/19/2014,Vietnam,4.3,8,,--,--,1 - 2,--
+7/20/2014,"China, Guizhou",2.4,,,--,--,2,--
+7/22/2014,"Iran, Kerman",5,8,,--,--,2 - 3,--
+7/24/2014,Costa Rica,4.6,6,VII,--,--,1 - 2,--
+7/24/2014,Ghana (Accra Area),3.5,,,--,--,1,--
+7/24/2014,"Philippines, Leyte",5.4,7,VI,--,--,2 - 3,--
+7/25/2014,"OS USA, Alaska",5.9,10,VII,--,--,1,8 cm
+7/29/2014,"China, Sichuan",4.9,15,,--,4,2 - 3,--
+7/29/2014,"China, Sichuan (aftershock)",4.6,15,,--,--,1 - 2,--
+7/29/2014,"Mexico, Veracruz",6.4,131,V,1,1,2 - 3,--
+7/31/2014,"Philippines, Leyte (aftershock)",3.8,18,IV,--,--,2,--
+8/1/2014,"OS Algeria, Algiers",5.6,6,VI,6,420,2 - 3,--
+8/3/2014,"China, Yunnan",6.5,12,IX,729,3143,5+,--
+8/3/2014,"Peru, Tumbes",5.8,30,V,--,--,1 - 2,--
+8/3/2014,Czech Republic,3.5,9,V,--,--,1 - 2,--
+8/3/2014,"OS Colombia, Cauca",5,,,--,1,3,--
+8/5/2014,South Africa,5.5,8,VII ,1,38,3 - 4,--
+8/7/2014,"USA, Hawaii",4.5,17,IV,--,--,1,--
+8/9/2014,"Canada, Alberta",4.3,5,,--,--,1,--
+8/12/2014,Ecuador (Quito Area),5.1,5,VI,3,8,2 - 3,--
+8/13/2014,"Mexico, Oaxaca",5.4,,VI,--,--,2,--
+8/14/2014,"Chile, Tarapaca",5.7,46,VI,1,--,1,--
+8/16/2014,Ecuador (Quito Area),4.7,5,,--,13,2,--
+8/16/2014,"China, Yunnan",5,7,,--,21,3,--
+8/16/2014,"Thailand, Chiang Rai (aftershock)",4.1,9,,--,--,1 - 2,--
+08/2014,"Iran, Ilam","5,6 - 6,1",10 - 12,VII,--,462,5,--
+8/19/2014,"USA, Oklahoma",4.2,4,V,--,--,1 - 2,--
+8/21/2014,"China, Yunnan",4.2,12,,--,--,2 - 3,--
+8/21/2014,"India, Himachal Pradesh",5,,,--,--,2 - 3,--
+8/21/2014,"OS Indonesia, Nusa Tenggara Barat",4.3,11,,--,--,1,--
+8/21/2014,South Africa (Johannesburg Area),3.8,,,--,--,1 - 2,--
+8/22/2014,"OS Greece, Chalkidiki",5,,,--,--,1,--
+8/23/2014,"Chile, Valparaiso",6.4,40,VII,--,1,2,--
+8/24/2014,"USA, California",6,11,IX,1,208,3,--
+8/24/2014,Turkey,4.8,7,,--,27,2 - 3,--
+8/24/2014,"Thailand, Chiang Rai (aftershock)",4.8,5,,--,--,2 - 3,--
+8/24/2014,"Peru, Ayacucho",6.6,108,VI ,--,8,3,--
+8/25/2014,"Peru, Arequipa",5.7,56,,--,--,1 - 2,--
+8/26/2014,"USA, California (aftershock)",3.9,12,V ,--,--,1,--
+8/28/2014,"Italy, Lombardy",4,3,,--,--,1,--
+8/31/2014,Morocco,4.5,,,--,--,2,--
+9/1/2014,Netherlands,"[2,6]",,,--,--,1 - 2,--
+9/1/2014,"Indonesia, Sumatra",4.8,,,--,--,2,--
+9/4/2014,Bosnia-Herzegowina (Zenica area),3.5,2,V,5,31,1,--
+9/4/2014,OS Turkey (Alanya / Antalya area),5.2,24,,--,1,1 - 2,--
+9/6/2014,Pakistan,4.5,,,--,12,2,--
+9/6/2014,"China, Hebei",4.3,,,--,--,2,--
+9/10/2014,"Indonesia, Sumatra",5,10,V,--,4,2 - 3,--
+9/12/2014,Dominican Republic,4.7,106,,--,--,1,--
+9/14/2014,"Spain, Andalusia",3.5,2,V,--,--,1,--
+9/14/2014,"OS Indonesia, Nias",5.6,14,V,--,--,2,--
+9/15/2014,Sweden,4.7,5,,--,--,1,--
+9/16/2014,"Japan, Honshu (Greater Tokyo area)",5.6,50,JMA 5-,--,9,2,--
+9/17/2014,OS Guam,6.7,134,VI,--,--,1,--
+9/18/2014,"China, Guizhou","[2,7]",1,,--,--,3,--
+9/18/2014,"Romania, Galati",1.8,5,,--,--,2,--
+9/20/2014,"Philippines, Mindanao",5.2,3,,--,4,3 - 4,--
+9/21/2014,"China, Zhejiang","[3,3]",,,--,--,1,--
+9/22/2014,"OS Indonesia, Nusa Tenggara Barat",4.8,195,,--,--,1,--
+9/23/2014,"China, Zhejiang",[4],5,,--,--,3,--
+9/25/2014,"USA, Alaska",6.2,103,VI,--,--,1 - 2,--
+9/28/2014,"Peru, Cuzco",5.1,8,VI,8,4,3 - 4,--
+9/28/2014,"Afghanistan, Takhar",5.5,,,--,,1,--
+9/29/2014,Azerbaijan,5.5,12,,--,--,2,--
+9/30/2014,Netherlands,"[2,8]",3,,--,--,2,--
+10/1/2014,"China, Sichuan",5,15,,--,1,3 - 4,--
+10/1/2014,Bolivia,4.9,8,,--,--,3,--
+10/2/2014,"China, Qinghai",5.1,16,,--,--,2,--
+10/2/2014,"USA, Kansas","[4,3]",5,,--,--,1 - 2,--
+10/3/2014,"Philippines, Panay",5.7,16,VI,--,1,2,--
+10/6/2014,Bolivia,3.3,,,--,--,2 - 3,--
+10/7/2014,"China, Yunnan",6.6,5,VIII,1,324,5,--
+10/8/2014,Georgia,3.7,,,--,10,1,--
+10/9/2014,"OS Chile, Easter Island",7.1,16,,--,--,--,47 cm
+10/9/2014,"China, Guizhou",3.1,4,,--,--,1 - 2,--
+10/9/2014,"Iran, North Chorasan",4.3,10,,--,--,2,--
+10/10/2014,"USA, Oklahoma","[4,3]",4,V,--,--,1 - 2,--
+10/11/2014,"China, Yunnan (aftershock)",4.7,8,,--,--,1,--
+10/11/2014,"Mexico, Oaxaca",5.6,,,--,--,2,--
+10/13/2014,"Peru, Ayacucho",5.6,108,,--,--,1 - 2,--
+10/14/2014,OS El Salvador,7.3,24,VII,4,1,3,
+10/15/2014,"Iran, Ilam",5.6,10,VII,--,19,3,--
+10/20/2014,Turkey,3.7,,,--,--,1 - 2,--
+10/20/2014,Ecuador,5.9,5,VII,--,--,3,--
+10/21/2014,"Iran, Kerman",4.5,18,,--,--,2,--
+10/22/2014,"India, Madhya Pradesh",2.8,5,,--,--,1,--
+10/22/2014,"Philippines, Mindanao",4.8,6,V,--,--,2,--
+10/22/2014,"China, Anhui",3.1,5,,--,--,1 - 2,--
+10/23/2014,"Mexico, Baja California Sur",2.5,,,--,--,1,--
+10/24/2014,Greece,5.2,16,,--,--,1 - 2,--
+10/25/2014,"China, Zhejiang","[4,2]",7,,--,--,2,--
+10/25/2014,"China, Gansu",4.5,15,,--,--,1 - 2,--
+10/25/2014,"China, Anhui",3.4,18,,--,--,1,--
+10/26/2014,Afghanistan (Kabul area),3.7,,,--,--,1,--
+10/26/2014,"India, Goa",2,,,--,--,1 - 2,--
+10/26/2014,"Peru, Pasco",6,131,IV,--,--,1,--
+10/28/2014,"Indonesia, Sumatra",3,4,,--,--,1 - 2,--
+10/28/2014,"Iran, Fars",4.9,7,,--,--,1 - 2,--
+10/29/2014,"Germany, Hessen",3.5,4,,--,--,1,--
+10/30/2014,"Peru, Arequipa",5.3,20,,--,--,1,--
+10/31/2014,Uganda,4.7,,,,12,3,--
+10/31/2014,Romania,4.8,4,,--,--,1,--
+11/1/2014,Costa Rica (San Jose area),4.3,,V,--,--,1,--
+11/5/2014,Netherlands,[2.9],,,--,--,1 - 2,--
+11/6/2014,Iraq,3.6,10,,--,--,1 - 2,--
+11/7/2014,Greece,4.8,9,,--,--,2 - 3,--
+11/8/2014,OS Greece,5.1,11,,--,--,2,--
+11/9/2014,"Peru, Amazon",4.9,16,,--,--,3,--
+11/10/2014,"Iran, Hormozgan",5.4,12,,--,--,3 - 4,--
+11/12/2014,"USA, Kansas",4.8,3,VI,--,--,2,--
+11/14/2014,Kyrgyzstan,5.6,,VII,--,--,2 - 3,--
+11/14/2014,Czech Republic,"[3,5]",1,,[3],[9],1,--
+11/14/2014,"China, Gansu",4.7,10,,--,--,2 - 3,--
+11/15/2014,"OS Peru, Lima",5.8,35,V,--,--,1,--
+11/15/2014,"OS Indonesia, Sulawesi",7.3,48,V,--,9,2 - 3,9 cm
+11/15/2014,"OS Indonesia, Sulawesi",6.3,59,V,--,--,3,--
+11/15/2014,"Germany, North Rhine-Westphalia","[3,6]",1,V,--,--,1,--
+11/16/2014,"Brazil, Ceará",4.2,,,--,--,2,--
+11/17/2014,Myanmar,5.4,72,,1,--,1,--
+11/17/2014,Greece,5.2,12,,--,--,2,--
+11/21/2014,"OS Indonesia, Sulawesi",6.7,,V,--,--,1,--
+11/22/2014,"China, Sichuan",6.3,18,VIII,5,80,4,--
+11/22/2014,"Japan, Honshu",6.8,5,JMA 6-,--,46,3 - 4,--
+11/22/2014,Romania,5.7,39,VI ,--,14,2 - 3,--
+11/23/2014,"USA, Texas (Dallas Area)",3.3,2,V,--,--,1,--
+11 - 12 / 2014,Cape Verde (Fogo Volcano),,,,--,--,2,--
+11/25/2014,"China, Sichuan (aftershock)",5.8,16,VIII,--,12,3 - 4,--
+11/25/2015,"Colombia, Santander",5.1,143,V,--,--,2,--
+11/25/2014,"China, Liaoning",1.6,,,26,50,1,--
+11/30/2014,"USA, Oklahoma",3.8,,,--,--,1 - 2,--
+11/30/2014,Poland,"[4,2]",,,--,--,2,--
+12/5/2014,"China, Yunnan (aftershock)",5.8,9,,--,7,4,--
+12/6/2014,"OS Greece, Lesbos",5.1,22,,--,--,1 - 2,--
+12/6/2014,"China, Yunnan (aftershock)",5.9,10,,1,15,4,--
+12/6/2014,OS Panama,5.8,,VI,--,--,1 - 2,--
+12/7/2014,OS Guatemala,5.6,18,,1,--,2,--
+,,5.6,32,,,,,--
+12/8/2014,OS Panama,6.4,,,--,--,2,--
+12/12/2014,"Iran, Kohgiluyeh and Boyer Ahmad",5.2,10,,--,,1 - 2,--
+12/14/2014,"Colombia, Cundinamarca",5,140,V,--,--,1,--
+12/16/2014,"OS Russia, Sakhalin",4.6,20,,--,--,2,--
+12/18/2014,Nepal,5,,,--,--,2 - 3,--
+12/19/2014,"India, Karnataka",,,,--,--,1,--
+12/19/2014,"Italy, Tuscany",4.1,7,,--,,1 - 2,--
+12/19/2014,"Algeria, Blida",4.7,,,--,11,2,--
+12/20/2014,"China, Yunnan (Kunming area)",0.9,,,--,--,1,--
+12/21/2014,"Italy, Tuscany",3.6,9,,--,--,1,--
+12/23/2014,"Algeria, Blida",4.9,,,--,13,3,--
+12/25/2014,Bosnia-Herzegowina,3.9,,VI,--,--,1,--
+12/26/2014,"Algeria, Blida",4.7,,,--,12,3,--
+12/30/2014,Netherlands,2.8,3,,--,--,1 - 2,--
+12/30/2014,"Iran, Bushehr",5.3,10,,--,--,3,--
+12/31/2014,"Brazil, Sao Paulo",2.7,,,--,--,1 - 2,--
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

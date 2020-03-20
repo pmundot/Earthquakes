@@ -1,0 +1,338 @@
+Date (UTC),"Country, Region (Epicenter)",Country,Magnitude,Depth (km),Intensity (MMI),Fatalities,Injuries,Damage level,buildings damaged,buildings destroyed,Tsu. height
+1/1/2016,"USA, Oklahoma",USA,"[4,2]",5,V,--,--,1,30,0,--
+1/1/2016,"Ecuador, Esmeraldas",Ecuador,5.3,6,,--,1,2,,1,--
+1/1/2016,"Brazil, Parana",Brazil,1.9,1,,--,--,1,10,0,--
+1/3/2016,"China, Sichuan",China,4.2,13,,--,--,1 - 2,20,0,--
+1/3/2016,"India, Manipur",India,6.7,55,VII,21,517,5,10943,995,--
+,,Bangladesh,,,,,,,,,
+,,Bhutan,,,,,,,,,
+1/4/2016,"China, Xinjiang",China,4.6,10,,--,--,1 - 2,15,0,--
+[06.01.2016],"[North Korea, Hamgyong-Pukto]",,"[5,1]",,,--,--,[1],[1],[0],[--]
+1/7/2016,"USA, Oklahoma",USA,"[4,8]",6,VI,--,--,1 - 2,30,0,--
+1/8/2016,"Afghanistan, Badakhshan (aftershock)",Afghanistan,5.0,219,,--,--,1 - 2,5,0,--
+1/8/2016,"OS Indonesia, West Nusa Tenggara",Indonesia,5.3,89,,--,--,1 - 2,,0,--
+1/9/2016,"Zambia, Southern",Zambia,4.6,,,--,--,1,1,0,--
+1/10/2016,"Turkey, Kirsehir",Turkey,5.0,4,,--,1,1 - 2,20,0,--
+1/10/2016,"Kenya, Tharaka Nithi",Kenya,,,,--,--,1 - 2,,0,--
+1/12/2016,"Afghanistan, Badakhshan (aftershock)",Afghanistan,5.8,220,V,--,3,2,,1,--
+1/12/2016,"Brazil, Parana",Brazil,1.7,1,,--,--,1 - 2,90,0,--
+1/13/2016,"China, Ningxia",China,3.6,6,,--,--,1 - 2,,0,--
+1/13/2016,"Indonesia, East Nusa Tenggara (Mt. Egon)",Indonesia,,,,--,--,1,,0,--
+1/13/2016,"China, Xinjiang",CHina,5.3,5,VII,--,--,1,,0,--
+1/14/2016,"OS Japan, Hokkaido",Japan,6.7,50,JMA 5-,--,2,--,0,0,--
+1/14/2016,"Germany, Lower Saxony",Germany,"[2,7]",5,IV,--,--,1,,0,--
+1/16/2016,"Italy, Molise",Italy,4.3,10,V,--,--,1,1,0,--
+1/16/2016,"OS Indonesia, Molukka",Indonesia,5.6,4,VII,1,22,3 - 4,257,72,--
+1/18/2016,"India, Kerala",India,3.4,,,--,--,1,1,0,--
+1/20/2016,"China, Gansu",China,6.4,10,VIII,--,9,2 - 3,722,2,--
+1/21/2016,"OS Morocco, Oriental",Morocco,4.9,,,--,1,1,2,0,--
+1/21/2016,"Brazil, Parana",Brazil,1.8,,,--,--,2,400,0,--
+1/22/2016,"Poland, Lower Silesia",Poland,[3.5],1,,--,1,,,0,--
+1/22/2016,"Iran, Fars",Iran,5.4,10,,--,--,1 - 2,,0,--
+1/22/2016,"Sri Lanka, Northern Province",Sri Lanka,,0,,--,--,1 - 2,,0,--
+1/23/2016,"China, Guizhou",China,3.0,6,,--,--,1 - 2,30,0,--
+1/24/2016,"USA, Alaska",USA,7.1,123,VII,--,1,2,,4,--
+1/24/2016,"Ethiopia, Southern (Hawasa area)",Ethiopia,4.2,,,--,150,1 - 2,,0,--
+1/25/2016,"OS Morocco, Oriental",Morocco,6.3,,VI,--,41,2,,0,--
+,,Spain,,,,,,,,,
+1/28/2016,"India, Rajasthan",India,3.8,,,--,--,1 - 2,,0,--
+1/31/2016,"Austria, Vorarlberg",Austria,3.6,,,--,--,1,,0,--
+2/1/2016,"China, Guanxi",China,3.2,8,IV,--,--,1,1,0,--
+2/5/2016,"Nepal, Central (aftershock)",Nepal,5.5,,VI,1,66,,,,--
+2/5/2016,"Taiwan, Kaohsiung",Taiwan,6.4,17,VIII,117,559,3,594,12,--
+2/6/2016,"India, Rajasthan",India,,,,--,--,1,,0,--
+2/7/2016,"China, Yunnan",China,4.5,12,,--,--,2,2391,0,--
+2/8/2016,"Italy, Sicily",Italy,4.2,4,V,--,--,1,5,0,--
+2/8/2016,"Canada, New Brunswick",Canada,3.3,1,,--,--,1,1,0,--
+2/8/2016,"Mexico, Puebla",Mexico,4.6,20,,--,--,2 - 3,70,10,--
+2/9/2016,"New Zealand, Marlborough",New Zealand,5.7,48,V,--,--,1,1,0,--
+2/10/2016,"Algeria, Blida",Algeria,4.7,,,--,,1 - 2,,0,--
+2/11/2016,"China, Xinjiang",China,5.0,,,--,--,2 - 3,496,0,--
+2/12/2016,"Indonesia, East Nusa Tenggara  ",Indonesia,6.6,30,VII,--,,2 - 3,,0,--
+2/13/2016,"USA, Oklahoma",USA,"[5,1]",2,VI ,--,--,2,,,--
+2/14/2016,"OS New Zealand, Canterbury (Christchurch area)",New Zealand,5.8,4,VIII,--,,2,9579,0,--
+2/15/2016,"Greece, Peloponnese",Greece,5.2,5,,--,--,2 - 3,83,0,--
+2/16/2016,"USA, California",USA,3.9,3,V,--,--,1,1,0,--
+2/17/2016,"India, Rajasthan",India,,,,--,--,1,1,0,--
+2/20/2016,"Peru, Arequipa (Sabancaya Volcano)",Peru,5.2,8,,--,3,3 - 4,105,28,--
+2/21/2016,"Nepal, Western (aftershock)",Nepal,5.5,10,,--,1,2,,0,--
+2/23/2016,"Brazil, Pernambuco",Brazil,3.8,,,--,--,1 - 2,,0,--
+2/23/2016,"OS Indonesia, Maluku Islands",Indonesia,5.1,10,VI,--,4,2 - 3,182,0,--
+2/24/2016,"Myanmar, Yangon",Myanmar,4.4,,,--,--,1,1,0,--
+2/25/2016,"Netherlands, Groningen",Netherlands,"[2,4]",3,,--,--,1 - 2,186,0,--
+3/2/2016,"OS Indonesia, Mentawai",,7.9,,IV,--,--,--,0,0,10 cm
+3/2/2016,"France, Laguedoc-Rousillion",France,3.8,,,--,--,1,,0,--
+3/5/2016,"China, Yunnan",China,4.6,6,,--,--,2,167,0,--
+3/6/2016,"Brazil, Ceara",Brazil,"[3,4]",,,--,--,1,,0,--
+3/7/2016,"China, Guangxi",China,2.1,5,,--,--,1,2,0,--
+3/7/2016,"China, Yunnan",China,4.3,7,,--,--,2,285,0,--
+3/10/2016,"China, Sichuan",China,4.2,,,--,--,2 - 3,669,0,--
+3/12/2016,"China, Shanxi",China,4.4,5,,--,7,3,,,--
+3/12/2016,"OS Morocco, Oriental (aftershock)",Morocco,4.8,,,--,--,1,,0,--
+3/14/2016,"India, Madhya Pradesh",India,,,,--,--,1,2,0,--
+3/15/2016,"OS Morocco, Oriental (aftershock)",Morocco,5.2,,,--,--,1 - 2,,0,--
+3/15/2016,"Ecuador, Pichincha (Quito area)",Ecuador,4.1,7,,--,--,1,10,0,--
+3/16/2016,"OS Morocco, Oriental (aftershock)",Morocco,4.5,,,--,--,3,,2,--
+3/17/2016,"India, Jammu and Kashmir",India,4.5,,,1,1,1,1,0,--
+3/24/2016,"Iran, East Azerbaijan",Iran,4.4,7,,--,--,1 - 2,,0,--
+3/27/2016,"China, Shandong",China,[3.1],0,,--,--,2 - 3,90,,--
+3/29/2016,"Iran, Hamadan",Iran,4.1,,,--,--,2,33,0,--
+3/31/2016,"Iran, Chaharmahal va Bakhtiari",Iran,5.0,6,,--,--,2,,,--
+3/31/2016,"Indonesia, West Nusa Tenggara",Indonesia,4.5,,,--,--,2,44,0,--
+3/31/2016,"Mexico, Hidalgo",Mexico,2.0,,,--,--,1,,0,--
+4/6/2016,"OS Indonesia, Jawa Barat",Indonesia,6.1,,V,--,--,1 - 2,,0,--
+4/9/2016,"Nepal, Central (aftershock)",Nepal,4.5,,,--,5,1,0,0,--
+4/10/2016,"OS Indonesia, Bengkulu",Indonesia,5.9,67,,--,--,2 - 3,50,,--
+4/10/2016,"Pakistan, Khyber Pakhtunkwar (aftershock)",Pakistan,6.6,200,,10,55,4,,107,--
+,,Afghanistan,,,,,,,,,
+,,India,,,,,,,,,
+,,China,,,,,,,,,
+4/10/2016,"Algeria, Medea",Algeria,5.0,,,--,5,2,77,0,--
+4/11/2016,"Brazil, Minas Gerais",Brazil,3.5,,,--,--,1,1,0,--
+4/13/2016,"Myanmar, Sagaing",Myanmar,6.9,135,VI,2,247,4,,,--
+,,India,,,,,,,,,
+,,Bangladesh,,,,,,,,,
+4/13/2016,"OS Philippines, Zamboanga Peninsula",Philippines,6.0,16,VI,--,3,3,,5,--
+4/14/2016,"Japan, Kumamoto",Japan,6.5,11,X,102,1684,4,136126,13248,--
+4/15/2016,"Japan, Kumamoto",Japan,7.3,12,X,,,5,,,--
+4/15/2016,"Japan, Kumamoto",Japan,5.8,12,JMA 6+,--,--,3,,,--
+4/16/2016,"OS Ecuador, Esmeraldas",Ecuador,7.8,19,VIII,672,16274,5,63000,6998,14 cm
+,,Colombia,,,,,,,,,
+4/18/2016,"Bulgaria, Sliven",Bulgaria,4.2,,,--,--,1,6,0,--
+4/22/2016,"Germany, Lower Saxony",Germany,"[3,2]",5,IV,--,--,1 - 2,200,0,--
+4/25/2016,"Austria, Lower Austria",Austria,4.2,,,--,--,1,,0,--
+4/26/2016,"Iran, Chaharmahal va Bakhtiari",Iran,4.4,12,,--,--,1 - 2,,0,--
+4/27/2016,"Brazil, Mato Grosso",Brazil,3.7,,,--,--,1,1,0,--
+4/28/2016,"France, Poitou-Charentes",France,4.9,,V,--,--,1,,0,--
+4/28/2016,"OS Vanuatu, Malampa",Vanuatu,7.0,27,VII,--,--,2,,,2 cm
+4/29/2016,"South Africa, Gauteng",South Africa,3.5,,,2,--,1,,,--
+5/2/2016,"Brazil, Minas Gerais (Belo Horizonte area)",Brazil,3.7,,,--,--,1 - 2,,0,--
+5/4/2016,"China, Yunnan",China,4.7,10,,--,--,3,164,1,--
+5/8/2016,"Mexico, Oaxaca",Mexico,6.0,35,,--,--,1,2,0,--
+5/10/2016,"Spain, Andalusia",Spain,4.2,10,V,--,--,1 - 2,,1,--
+5/10/2016,"Nigeria, Kaduna",Nigeria,,,,--,--,2,,,--
+5/11/2016,"China, Xizang",China,5.5,7,,--,69,4,,108,--
+5/11/2016,"Nepal, Central (aftershock)",Nepal,4.5,10,,--,3,,,0,--
+5/11/2016,"Mexico, Jalisco (Guadalajara area)",Mexico,4.8,15,,--,1,2,69,2,--
+5/12/2016,"Cyprus, Larnaca",Cyprus,4.2,,,--,--,1,1,0,--
+5/12/2016,"OS Taiwan, Yilan",Taiwan,5.8,17,CWB 6,--,1,1,,0,--
+5/16/2016,"Algeria, Medea",Algeria,4.9,,,--,4,2,,0,--
+5/16/2016,"Japan, Ibaraki",Japan,5.6,40,JMA 5-,--,1,,,0,--
+5/17/2016,"China, Yunnan",China,5.0,15,,--,4,4,37980,192,--
+5/18/2016,"Ecuador, Esmeraldas (aftershock)",Ecuador,6.7,34,,1,162,3,,9,--
+5/18/2016,"Ecuador, Esmeraldas (aftershock)",Ecuador,6.8,31,,,,3,,,--
+5/19/2016,"Argentina, Mendoza",Argentina,3.4,15,,--,--,1,0,1,--
+5/21/2016,"Macedonia, Demir Hisar",Macedonia,4.8,,VI,--,--,2,,,--
+5/22/2016,"China, Xizang",China,5.3,8,,--,--,2,816,0,--
+5/22/2016,"Bolivia, Tarija",Bolivia,5.5,15,,--,--,1,,0,--
+5/22/2016,"China, Liaoning",China,4.6,6,,--,--,1 - 2,,0,--
+5/24/2016,"Yemen, Al-Baida",Yemen,4.8,5,,3,,3 - 4,,18,--
+5/24/2016,"Iran, North Chorasan",Iran,4.8,10,,--,--,2,67,0,--
+5/25/2016,"OS Greece, Crete",Greece,5.3,30,,--,--,1,1,0,--
+5/25/2016,"Sierra Leone, Eastern",Sierra Leone,,,,,2,1,,0,--
+5/28/2016,"Germany, Northrhine Westphalia",Germany,"[3,3]",1,V,--,--,1,3,0,--
+5/28/2016,"India, Andhra Pradesh",India,3.4,,,--,--,1 - 2,,0,--
+5/28/2016,"Algeria, Medea",Algeria,5.3,8,,--,88,3,3740,,--
+5/28/2016,"Australia, Western Australia",Australia,5.1,,,--,--,1,1,0,--
+5/30/2016,"Italy, Umbria",Italy,4.1,15,,--,--,1,,0,--
+6/1/2016,"OS Indonesia, Sumatra Barat",Indonesia,6.5,65,VI,1,18,4,2663,114,--
+6/3/2016,"Poland, Silesia",Poland,"[3,5]",0.7,,--,--,1,1,0,--
+07.06.2016,"OS Indonesia, Northern Molucca",Indonesia,6.5,,,--,--,2 - 3,35,,--
+07.06.2016,"Iran, North Chorasan (aftershock)",Iran,4.0,12,,--,--,1 - 2,,0,--
+08.06.2016,"OS Indonesia, East Nusa Tenggera",Indonesia,6.2,,III,--,--,1,,0,--
+09.06.2016,"Philippines, Nueva Vizcaya",Philippines,5.2,5,VI ,--,--,1,2,0,--
+10.06.2016,"Nicaragua, Chinandega",Nicaragua,5.9,3,VII,--,1,3,286,16,--
+10.06.2016,"Turkey, Bingöl",Turkey,4.4,5,,--,--,1,10,0,--
+15.06.2016,"Guatelama, Retalhuelu",Guatemala,5.2,26,,--,--,1,0,1,--
+16.06.2016,"OS Japan, Hokkaido",Japan,5.3,11,JMA 6-,--,1,1,3,0,--
+21.06.2016,"Peru, Moquega",Peru,4.5,11,III,--,1,--,0,0,--
+22.06.2016,"Iran, West Azerbaijan",Iran,4.5,4,,--,--,1,,0,--
+23.06.2016,"Italy, Tuscany",Italy,4.0,,,--,--,1,,0,--
+24.06.2016,"OS Indonesia, Kalimantan Barat",Indonesia,5.1,,VI,--,--,1 - 2,,0,--
+26.06.2016,"Kyrgyzstan, Osh",Kyrgyzstan,6.1,19,VII,--,,1,6,0,--
+27.06.2016,"Mexico, Oaxaca",Mexico,5.7,20,VI,--,--,1,6,0,--
+29.06.2016,"Nepal, Far Western",Nepal,5.0,,,--,,3,,1,--
+30.06.2016,"Iran, North Chorasan",Iran,5.0,,,--,,2 - 3,,,--
+30.06.2016,"Mexico, Nuevo Leon",Mexico,4.0,20,,--,--,1,3,0,--
+01.07.2016,"Tajikistan, Nohijahoi tobei dschumhurij",Tajikistan,5.4,,VI,,,3 - 4,30,15,--
+02.07.2016,"Nepal, Far Western (aftershock)",Nepal,4.4,,,--,--,1,3,0,--
+03.07.2016,"Costa Rica, Guanacaste",Costa Rica,5.4,20,VI,--,--,3,,6,--
+05.07.2016,"OS South Korea, Ulsan",South Korea,5.0,,,--,--,1,1,0,--
+06.07.2016,"Iran, Chaharmahal va Bakhtiari",Iran,4.4,,,--,--,1 - 2,,0,--
+10.07.2016,"Nigeria, Bayelsa",Nigeria,[ ],,,--,--,2,,0,--
+10.07.2016,"Indonesia, Sumatra Barat",Indonesia,5.4,,,1,--,1,,0,--
+11.07.2016,"Ecuador, Esmeraldas",Ecuador,6.2,,,1,2,1 - 2,,,--
+12.07.2016,"Georgia, Kvemo Kartli",Georgia,4.7,,VI,,,2,,,--
+13.07.2016,"Tanzania, Dodoma",Tanzania,5.1,,,--,--,3 - 4,,60,--
+15.07.2016,"Venezuela, Trujillo",Venezuela,4.1,3,,1,--,1 - 2,,0,--
+17.07.2016,"India, Gujarat",India,4.5,,,--,1,,,,--
+17.07.2016,"Pakistan, Punjab",Pakistan,4.4,,,--,3,2,,,--
+25.07.2016,"Austria, Tyrol",Austria,3.5,10,IV,--,--,1,2,0,--
+25.07.2016,"Chile, Atacama",Chile,6.1,77,VII,--,--,1,,0,--
+26.07.2016,"Philippines, Surigao del Norte",Philippines,5.2,9,VI,--,8,2,,,--
+27.07.2016,"Philippines, Leyte",Philippines,5.2,5,VI,--,,1,,0,--
+29.07.2016,"OS USA, Marianas",,7.7,212,VI,--,--,--,0,0,5 cm
+30.07.2016,"Italy, Piemont",Italy,3.9,,,--,--,1,,0,--
+30.07.2016,"Nigeria, Kaduna",Nigeria,,,,--,10,3,,,--
+31.07.2016,"China, Guangxi",China,5.4,10,VI,--,--,3,201,6,--
+31.07.2016,"Indonesia, West Nusa Tenggara",Indonesia,5.7,22,,--,4,3 - 4,1351,97,--
+01.08.2016,"Azerbaijan, Imisli",Azerbaijan,5.6,22,V,1,3,3 - 4,,,--
+03.08.2016,"China, Hunan",China,3.5,8,,--,--,1,10,0,--
+04.08.2016,"Poland, Lower Silesia",Poland,"[3,3]",1,,--,2,1,,0,--
+07.08.2016,"Ukraine, Donezk",Ukraine,4.9,10,VI,--,--,1 - 2,,0,--
+08.08.2016,"Ecuador, Quito",Ecuador,4.6,7,,--,2,2,47,0,--
+10.08.2016,"USA, California",USA,5.1,18,V,--,--,1,2,0,--
+11.08.2016,"Brazil, Bahia",Brazil,2.7,1,,--,--,1,,0,--
+11.08.2016,"China, Chongqing",China,4.4,10,,--,3,3,873,8,--
+12.08.2016,"OS Vanuatu,   ",Vanuatu,7.2,,,--,--,--,0,0,19 cm
+12.08.2016,"China, Yunnan",China,4.5,8,,--,--,1,,0,--
+12.08.2016,"Brazil, Alagoas",Brazil,2.4,2,,--,--,1,,0,--
+12.08.2016,"China, Xinjiang",China,4.7,8,,--,--,1 - 2,,0,--
+13.08.2016,"Poland, Lower Silesia",Poland,"[4,3]",1,,--,1,,,0,--
+15.08.2016,"Peru, Arequipa (Sabancaya Volcano)",Peru,5.3,8,VI,4,67,4 - 5,3625,693,--
+15.08.2016,"Philippines, Western Visayas",Philippines,5.3,10,V ,--,1,1,2,0,--
+16.08.2016,"Costa Rica, Puntaneras",Costa Rica,3.7,,,--,--,1,,0,--
+17.08.2016,"USA, Oklahoma",USA,[4.0],4,V,--,--,1,,0,--
+17.08.2016,"Costa Rica, Puntarenas",Costa Rica,4.8,,V,--,--,1,,0,--
+17.08.2016,"Venezuela, Barinas",Venezuela,4.2,5,,--,--,1,,0,--
+18.08.2016,"OS Australia, Queensland",Australia,5.8,,,--,--,1,,0,--
+19.08.2016,"OS United Kingdom, South Georgia Island",United Kingdom,7.4,,,--,--,--,0,0,20 cm
+19.08.2016,"OS Peru, Arequipa",Peru,5.2,,IV,--,--,1,2,0,--
+21.08.2016,"Iran, Hormozgan",Iran,4.8,8,,--,5,,,,--
+23.08.2016,"Myanmar, Sagaing",Myanmar,5.5,,,--,--,1,,0,--
+23.08.2016,"India, Haryana",India,3.5,,,--,--,1,1,0,--
+24.08.2016,"Italy, Lazio",Italy,6.0,4,VIII,299,386,4 - 5,876,461,--
+24.08.2016,"Italy, Umbria (aftershock)",Italy,5.4,,,--,1,3,,,--
+24.08.2016,"Myanmar, Magwe",Myanmar,6.8,85,VI,3,23,4,1002,,--
+25.08.2016,"Poland, Silesia",Poland,2.3,1,,1,3,,0,0,--
+25.08.2016,"Italy, Lazio (aftershock)",Italy,4.4,5,,--,--,3,,,--
+26.08.2016,"Ecuador, Manabi (aftershock)",Ecuador,5.2,,,--,--,2,,1,--
+26.08.2016,"Malaysia, Sabah (aftershock)",Malaysia,4.0,,,--,--,1,1,0,--
+26.08.2016,"Italy, Lazio (aftershock)",Italy,4.8,11,,--,--,3,,,--
+27.08.2016,"India, Himachal Pradesh",India,4.6,10,,--,--,2,,,--
+28.08.2016,"India, Odisha",India,,,,--,--,1,,,--
+28.08.2016,"Colombia, Bucaramanga",Colombia,4.4,,,--,--,1 - 2,,0,--
+29.08.2016,Central Mid Atlantic Ridge (OS Sierra Leone),Sierra Leone,7.1,,III,--,--,1 - 2,,0,--
+29.08.2016,"El Salvador, Santa Ana",El Salvador,5.2,2,VII,--,--,2,21,,--
+29.08.2016,"Mexico, Puebla (Popocatepetl Volcano)",Mexico,3.8,,,--,--,1,2,0,--
+31.08.2016,"Japan, Kumamoto (aftershock)",Japan,5.2,,JMA 5-,--,1,--,0,0,--
+31.08.2016,"Italy, Umbria (Aftershock)",Italy,3.8,,,--,--,2,,,--
+31.08.2016,"Spain, Andalusia",Spain,3.5,,,--,--,1,,0,--
+01.09.2016,"OS New Zealand, Gisborne",New Zealand,7.1,22,,--,--,1,,0,30 cm
+02.09.2016,"Netherlands, Groningen",Netherlands,(2.1),3,,--,--,1,45,0,--
+03.09.2016,"Italy, Umbria (aftershock)",Italy,4.3,11,,--,--,2 - 3,,,--
+03.09.2016,"USA, Oklahoma",USA,(5.8),5,VII,--,1,2,,,--
+05.09.2016,"Ecuador, Quito",Ecuador,4.6,5,,--,10,2 - 3,65,,--
+05.09.2016,"Pakistan, Khyber Pakhtunkwar",Pakistan,4.5,15,,--,57,3,,,--
+07.09.2016,"Azerbaijan, Balakan",Azerbaijan,4.4,4,IV,--,--,1,,0,--
+09.09.2016,"OS New Zealand, Marlborough",New Zealand,5.1,80,,--,--,1,2,0,--
+10.09.2016,"Peru, Loreto",Peru,"6,0",114,IV,--,--,1,2,0,--
+10.09.2016,"Tanzania, Kagera",Tanzania,5.8,10,VII,20,613,5,11395,2072,--
+,,Uganda,,,,4,6,,3200,600,
+10.09.2016,"India, Haryana",India,4.1,,,--,--,1 - 2,,0,--
+10.09.2016,"Canada, British Columbia",Canada,3.9,6,,--,--,1,,,--
+11.09.2016,"Macedonia, Skopje",Macedonia,5.3,4,VII,--,131,3,300,,--
+11.09.2016,"Nigeria, Kaduna",Nigeria,2.6,,,,,2,,,--
+12.09.2016,"Turkey, Manisa",Turkey,5.0,14,,,,1,,,--
+12.09.2016,"South Korea, Gyeongsangbuk-do",South Korea,5.8,10,VII,,24,2 - 3,5366,,--
+14.09.2016,"Colombia, Antioquia",Colombia,6.1,,,,,2,,,--
+15.09.2016,"Mexico, Oaxaca",Mexico,5.3,,,,,1,1,0,--
+15.09.2016,"Nicaragua, Leon",Nicaragua,5.9,,,,3,2 - 3,12,,--
+15.09.2016,"Italy, Lazio (aftershock)",,4.2,,,,,,,,--
+19.09.2016,"South Korea, Gyeongsangbuk-do (aftershock)",South Korea,4.5,,,--,--,1,12,,--
+21.09.2016,"Iran, Beluchestan",Iran,4.5,,,--,--,1 - 2,,,--
+22.09.2016,"China, Sichuan",China,5.1,,,--,--,3,1900,100,--
+22.09.2016,"Pakistan, Sindh",Pakistan,4.9,20,,1,9,3,,,--
+23.09.2016,"Burundi, Cibitoke",Burundi,4.8,,,7,84,4,,,--
+,,DR Congo,,,,,,,,,
+,,Rwanda,,,,,,,,,
+23.09.2016,"Romania, Vrancea",Romania,5.4,95,,--,6,2,,,--
+28.09.2016,"Nicaragua, Leon",Nicaragua,5.4,7,,1,10,3,487,8,--
+01.10.2016,"Pakistan, Khyber Pakhtunkwa",Pakistan,5.5,12,,2,23,3,,,--
+09.10.2016,"India, Kerala",India,,,,--,--,1 - 2,,,--
+14.10.2016,"Iran, Kohgiluyeh Va Boyer Ahmad",Iran,4.8,,,--,--,2,300,0,--
+15.10.2016,"Greece, West Macedonia",Greece,5.5,,,--,--,3,,6,--
+15.10.2016,"Venezuela, Zuila (Maracaibo area)",Venezuela,4.3,,,--,--,1,1,0,--
+16.10.2016,"OS Peru, Lambayeque",Peru,5.3,14,IV,1,--,--,,,--
+17.10.2016,"China, Qinghai",China,6.2,9,,2,--,3,3000,,--
+17.10.2016,"Poland, Lower Silesia",Poland,"[4,3]",1,,--,6,1,,0,--
+20.10.2016,"Pakistan, Beluchestan",Pakistan,5.1,36,,--,--,3,,,--
+20.10.2016,"Iran, Kerman",Iran,4.8,10,,--,24,2,,,--
+21.10.2016,"Japan, Tottori",Japan,6.6,10,JMA 6-,--,30,3,12620,12,--
+21.10.2016,"Russia, Krasnodar",Russia,4.3,20,,--,--,1,,0,--
+24.10.2016,"Switzerland, Valais",Switzerland,4.2,9,V,--,--,1,1,0,--
+24.10.2016,"Rwanda, Western Province",Rwanda,4.8,,,--,,3,,5,--
+25.10.2016,"Iran, Ravazi-Chorasan",Iran,4.9,9,,--,--,2,79,0,--
+26.10.2016,"Italy, Marche",Italy,5.4,9,VII,--,3,3,,,--
+26.10.2016,"Italy, Marche",Italy,5.9,8,IX,1,,4,,,--
+28.10.2016,"OS Peru, Callao",Peru,5.0,52,V,--,1,2 - 3,,,--
+28.10.2016,"Iran, Kerman",Iran,4.7,10,,--,10,2,,,--
+30.10.2016,"Italy, Umbria",Italy,6.5,9,IX,--,23,5,,,--
+31.10.2016,"Colombia, Huila",Colombia,5.4,,,--,--,3,32,1,--
+31.10.2016,"Iran, Kerman",Iran,4.6,10,,--,3,2,,,--
+02.11.2016,"USA, Oklahoma",USA,"[4,5]",3,VI,--,--,1,,,--
+02.11.2016,"Turkey, Corum",Turkey,4.7,5,,--,--,1 - 2,,,--
+03.11.2016,"Germany, Baden-Württemberg",Germany,3.0,5,IV,--,--,1,5,,--
+04.11.2016,"Chile, Maule",Chile,6.4,88,VII,--,2,2,,,--
+05.11.2016,"Indonesia, Jawa Barat",Indonesia,4.2,10,,--,1,3,,1,--
+07.11.2016,"USA, Oklahoma",USA,[5.0],5,VII,--,1,2 - 3,,,--
+07.11.2016,"Germany, Thuringia",Germany,[1.9],1,III,--,--,1,1,0,--
+08.11.2016,"OS Chile, Bio-Bio",Chile,5.9,15,VI,--,--,1,,0,--
+13.11.2016,"New Zealand, Canterbury",New Zealand,7.8,15,IX,2,526,4,,,"4,1 m"
+14.11.2016,"Germany, Baden-Württemberg",Germany,2.6,6,IV,--,--,1,1,0,--
+15.11.2016,"Germany, Lower Saxony",Germany,"[2,5]",5,IV,--,--,1,1,0,--
+15.11.2016,"India, Haryana",India,4.4,,,--,--,1,,0,--
+16.11.2016,"OS Indonesia, Jawa Timur",Indonesia,6.2,,,--,1,2,37,1,--
+16.11.2016,"Brazil, Sergipe",Brazil,3.1,5,,--,--,1,,0,--
+17.11.2016,"China, Yunnan",China,4.4,,,--,--,2,3300,0,--
+17.11.2016,"China, Qinghai",China,4.8,5,,--,4,3,421,18,--
+20.11.2016,"China, Xizang",China,3.1,6,,--,--,2,100,0,--
+20.11.2016,"Argentina, San Juan",Argentina,6.4,130,,--,--,2,30,1,--
+21.11.2016,"OS Japan, Fukushima",Japan,7.4,25,JMA 5-,--,20,1,2,,140 cm
+22.11.2016,"New Zealand, Canterbury (aftershock)",New Zealand,5.7,7,VIII,--,--,2 - 3,,1,--
+22.11.2016,"Russia, Buryatia",Russia,4.9,,V  ,--,--,1,3,0,--
+23.11.2016,"China, Yunnan",China,4.2,6,,--,--,1 - 2,400,0,--
+24.11.2016,"OS El Salvador, Usulutan",El Salvador,7.0,,V,1,-- ,1 - 2,,0,8 cm
+25.11.2016,"China, Xinjiang",China,6.7,,VIII,1,--,4,600,252,--
+27.11.2016,"Nepal, Eastern (aftershock)",Nepal,5.6,,,1,2,3,,1,--
+29.11.2016,"Poland, Lower Silesia",Poland,"[4,5]",1.5,,8,20,,,0,--
+01.12.2016,"Costa Rica, Cartago",Costa Rica,5.3,2,,--,1,2 - 3,64,2,--
+01.12.2016,"Iran, Kerman",Iran,5.0,10,,--,1,2 - 3,,,--
+01.12.2016,"India, Uttarakhand",India,5.2,,,--,--,1 - 2,,,--
+01.12.2016,"Peru, Puno",Peru,5.6,11,VI,1,22,4 - 5,1540,597,--
+4.12.2016,"China, Xizang",China,5.1,,,--,--,3,242,5,--
+5.12.2016,"Malawi, Nsanje",Malawi,,,,--,--,2,20,0,--
+6.12.2016,OS Trinidad and Tobago,Trinidad and Tobago,5.9,34,V,--,--,1,,,--
+6.12.2016,"Indonesia, Aceh",Indonesia,6.4,8,VIII,103,857,5,19130,,--
+08.12.2016,"China, Xinjiang",China,6.2,6,VIII,--,2,3,13900,40,--
+08.12.2016,"OS Solomon Islands, Makita",Solomon Islands,7.8,40,VIII,1,1,4,220,246,1 m
+09.12.2016,"Indonesia, Aceh (aftershock)",Indonesia,5.0,,,--,--,,,1,--
+09.12.2016,"Italia, Emilia-Romagna",Italy,4.0,8,,--,--,1,2,0,--
+09.12.2016,"Croatia, Split",Croatia,4.6,,VI,--,--,2,,,--
+09.12.2016,"OS Solomon Islands, Makita (aftershock)",,7.1,40,VIII,,,,,,5 cm
+12.12.2016,"Russia, Amur",Russia,4.4,15,,--,--,1,1,0,--
+12.12.2016,"OS Ecuador, Esmeraldas (aftershock)",Ecuador,5.1,,,--,1,1,1,0,--
+13.12.2016,"Azerbaijan, Quba",Azerbaijan,4.4,,,--,--,1 - 2,,,--
+14.12.2016,"China, Xinjiang",China,5.0,,,--,--,3,100,30,--
+14.12.2016,"Guinea, Labé",Guinea,,,,--,--,1 - 2,,,--
+15.12.2016,"Peru, Puno (aftershock)",Peru,4.5,,V ,--,--,3,,19,--
+15.12.2016,"OS Taiwan, Taitung",Tainan,5.2,,,--,--,1,1,0,--
+16.12.2016,"Poland, Lower Silesia",Poland,4.6,1,VII,--,--,1,,,--
+16.12.2016,"Turkey, Erzincan",Turkey,4.5,5,,--,--,1 - 2,,,--
+17.12.2016,"OS Papua New Guinea, New Ireland",Papua New Guinea,7.9,103,VIII,--,--,1 - 2,,,130 cm
+17.12.2016,"Pakistan, Azad Kashmir",Pakistan,4.6,,,--,1,3,,,--
+18.12.2016,"China, Shanxi",China,4.3,5,,--,--,1,,,--
+19.12.2016,"OS Ecuador, Esmeraldas (aftershock)",Ecuador,5.3,,,3,47,4,700,145,--
+20.12.2016,"China, Xinjiang",China,5.8,,,--,--,3,816,10,--
+22.12.2016,"Germany, Rhineland-Palatine",Germany,2.8,,IV,--,--,1,1,0,--
+23.12.2016,"Netherlands, Drenthe",Netherlands,[2.4],3,,--,--,1,5,0,--
+25.12.2016,"OS Chile, Los Lagos",Chile,7.6,30,VIII,--,1,3,64,36,8 cm
+27.12.2016,"China, Chongqing",China,4.8,10,,--,2,3,409,12,--
+27.12.2016,"Iran, Kerman",Iran,4.7,,,--,--,1 - 2,,,--
+27.12.2016,"Iran, Semnan",Iran,4.9,12,,--,--,3,898,3,--
+27.12.2016,"Romania, Vrancea",Romania,5.4,98,,--,--,1,,,--
+28.12.2016,"Japan, Ibaraki",Japan,6.3,9,JMA 6-,,2,1,5,,--
+28.12.2016,"USA, Nevada",USA,5.7,12,VII,--,--,1,,,--
+29.12.2016,"OS Indonesia, East Nusa Tenggera",Indonesia,6.6,91,VI,1,--,,,0,--
+,,,,,,,,,,,
+,,,,,,,,,,,

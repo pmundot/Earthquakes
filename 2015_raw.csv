@@ -1,0 +1,371 @@
+Date (UTC),"Country, Region (Epicenter)",Magnitude,Depth (km),Intensity (MMI),Fatalities,Injuries,Damage level,buildings damaged,buildings destroyed,Tsunami Height
+1/1/2015,"Hungary, Nógrád",3.9,,,--,--,1 - 2,20,0,--
+1/1/2015,"Iran, Bushehr",5.1,,,--,--,2,40,0,--
+1/1/2015,"Hungary, Nógrád",4.0,,,--,--,1 - 2,10,0,--
+1/3/2015,"USA, Idaho",4.9,8,VI,--,--,1 - 2,10,0,--
+1/4/2015,"USA, Oklahoma","[3,7]",,,--,--,1,1,0,--
+1/5/2015,"Iran, Ilam",4.0,,,--,2,--,0,0,--
+1/5/2015,"New Zealand, West Coast ",5.6,8,VI,--,--,1,17,0,--
+1/6/2015,"Netherlands, Groningen","[2,7]",3,,--,--,1 - 2,186,0,--
+1/6/2015,"USA, Texas (Dallas area)","[3,5]",,V,--,--,1,5,0,--
+1/7/2015,"USA, Texas (Dallas area)","[3,6]",,V,--,--,1,5,0,--
+1/8/2015,"Canada, British Colombia",4.8,25,,--,--,1 - 2,10,0,--
+1/8/2015,"USA, Connecticut",2.3,4,,--,--,1,2,0,--
+1/8/2015,"Turkey, Gaziantep",4.6,9,,--,--,1 - 2,15,0,--
+1/10/2015,China Xinjiang,5.0,10,,--,--,3,560,3,--
+1/10/2015,"Iran, Bushehr",5.0,10,,--,--,1 - 2,10,0,--
+1/10/2015,"OS Philippines, Central Luzon",6.0,85,V,--,--,1,1,0,--
+1/11/2015,"Spain, Valencia",3.2,5,IV,--,--,1,1,0,--
+1/11/2015,"Iran, Bushehr",4.2,12,,--,--,3,,,--
+1/12/2015,"USA, Connecticut",3.3,3,V,--,--,1 - 2,,,--
+1/13/2015,"Dominican Republc, Barahona",4.7,,,--,--,2,3,1,--
+1/13/2015,"USA, Connecticut",2.3,,,--,--,1,1,0,--
+1/14/2015,"China, Sichuan",5.0,,VI,--,17,3 - 4,13355,13,--
+1/14/2015,"Iran, Ilam",4.7,21,,--,--,2,,,--
+1/14/2015,"Dominican Republc, Barahona (aftershock)",3.0,,,2,--,1,0,0,--
+1/16/2015,"Russia, Sakhalin",,,,--,--,1,1,0,--
+1/18/2015,"China, Henan",3.9,7,V,--,--,1 - 2,24,0,--
+1/20/2015,"Peru, Arequipa (Sabancaya volcano)",3.9,7,,--,--,1,3,0,--
+1/20/2015,"China, Xinjiang",4.5,10,,--,--,2 - 3,1530,0,--
+1/21/2015,"Turkey, Van",4.4,4,,--,--,1 - 2,8,0,--
+1/21/2015,Kosovo,4.2,,VI,--,--,1,1,0,--
+1/23/2015,"Italy, Emilia-Romagna",4.1,9,V ,--,--,1,5,0,--
+1/23/2015,"Turkey, Bursa",4.5,5,,--,--,1,,0,--
+1/24/2015,"Ecuador, Carchi (Cerro Negro volcano)",4.6,4,,--,--,2,,0,--
+1/25/2015,"Iran, Hormozgan",5.0,7,,--,--,1 - 2,,0,--
+1/26/2015,"Azerbaijan, Quba",5.0,7,V,--,--,1,3,0,--
+1/26/2015,"Italy, Venetia",3.0,3,,--,--,1,1,0,--
+1/28/2015,"Germany, Baden-Württemberg",3.3,,,--,--,1,1,0,--
+1/28/2015,"England, Rutland",3.8,8,,--,--,1,1,0,--
+1/31/2015,"Honduras, Ocotepeque",4.5,1,,--,--,1 - 2,13,0,--
+1/31/2015,"Nepal, Western",5.5,,,--,1,,,,--
+1/31/2015,"Croatia, Zagreb",2.9,,IV,--,--,1,0,0,--
+2/3/2015,"Ukraine, Poltawa",4.6,,,--,--,2,,0,--
+2/3/2015,"Pakistan, Sindh",,,,--,13,,,,--
+2/4/2015,"China, Xizang",5.2,10,,--,--,2,100,0,--
+2/4/2015,"Peru, Cuzco",3.8,13,,--,--,2 - 3,200,0,--
+2/5/2015,"Brazil, Pernambucu",2.2,,,--,--,1,1,0,--
+2/5/2015,"Venezuela, Táchira",5.2,5,VI,--,--,1,1,0,--
+2/5/2015,"USA, Oklahoma","[4,3]",,,--,--,1,1,0,--
+2/6/2015,"Japan, Tokushima",5.0,,JMA 5+,--,--,1 - 2,1,0,--
+2/6/2015,"China, Sichuan",4.5,,,--,--,2 - 3,3698,0,--
+2/7/2015,"Indonesia, Kepulauan Riau",,,,--,--,1,5,0,--
+2/7/2015,"USA, Oklahoma",[3.9],5,V ,--,--,1,1,0,--
+2/8/2015,"Indonesia, West Sulawesi",5.4,,VI,--,--,2,3,1,--
+2/8/2015,"China, Jilin",4.3,7,,--,--,1,1,0,--
+2/11/2015,"Brazil, Mato Grosso",4.1,,,--,--,1 - 2,10,0,--
+2/13/2015,"OS Taiwan, Taitung",6.1,15,CWB 5,--,--,1,1,0,--
+2/15/2015,"Canada, British Colombia",3.4,3,,--,--,1,1,0,--
+2/15/2015,"Iran, Ilam",4.9,8,,--,3,2,20,0,--
+2/15/2015,"Australia, Queensland",5.1,15,,--,--,1,0,0,--
+2/16/2015,"Turkey, Antalya",4.7,5,,--,--,2,,0,--
+2/16/2015,"OS Japan, Iwate",6.9,,JMA 4,--,--,--,0,0,10 cm
+2/18/2015,"Italy, Tuscany",3.9,7,,--,--,1,5,0,--
+2/19/2015,"Brazil, Alagoas",2.3,0,,--,--,1,,0,--
+2/19/2015,"OS Vanuatu, Malampa",6.5,2,VII,--,,2,,0,cm
+2/20/2015,"OS Thailand, Phang Nga",4.0,2,,--,--,1,1,0,--
+2/20/2015,"China, Yunnan",4.4,6,,--,--,2 - 3,3374,0,--
+2/21/2015,"Bosnia-Herzegowina, Tuzla",3.3,2,V,4,1,1,0,0,--
+2/22/2015,"China, Xinjiang",5.0,4,,--,--,2 - 3 ,1728,0,--
+2/22/2015,"Colombia, Cauca",5.6,146,V,--,--,2,200,0,--
+2/23/2015,"Spain, Castile - La Mancha",5.2,14,,--,--,2,,0,--
+2/25/2015,"India, Karnataka",2.1,,,--,--,1,5,0,--
+2/25/2015,"Iran, Chaharmahal Bakhtiari",4.6,10,,--,--,3,,5,--
+2/25/2015,"Netherlands, Groningen","[2,3]",3,,--,--,1,25,0,--
+2/26/2015,"Pakistan, Khyber Pakhtunkhwa",5.8,32,,--,20,3 - 4,,,--
+2/27/2015,"Indonesia, Nusa Tenggara Timur",7.1,572,,--,--,2 - 3,250,0,--
+2/28/2015,"Peru, Arequipa (Sabancaya volcano)",4.5,,,--,--,3 - 4,560,30,--
+3/1/2015,"Peru, Arequipa (Sabancaya volcano)",4,,,--,1,2 - 3,,0,--
+3/1/2015,"China, Yunnan",5.5,11,VII,--,32,4,64278,103,--
+3/2/2015,"Peru, Arequipa (Sabancaya volcano)",3.9,,,--,--,1 - 2,,0,--
+3/3/2015,"China, Yunnan (aftershock)",4.5,10,,--,18,2,,0,--
+3/6/2015,"Morocco, Oriental",4.1,,,--,--,1 - 2,0,1,--
+3/8/2015,"Serbia, Central Serbia",4.6,3,VI,--,--,2,100,0,--
+3/9/2015,"China, Yunnan",4.5,12,,--,4,3,100,1,--
+3/10/2015,"Colombia, Santander",6.6,161,,--,9,4 - 5,,205,--
+3/12/2015,"Peru, Arequipa (Sabancaya volcano)",3.5,,,--,--,2 - 3,35,0,--
+3/14/2015,"China, Anhui",4.3,10,VI,2,13,4,11079,155,--
+3/15/2015,"China, Shandong",2.4,7,,--,--,2,,0,--
+3/15/2015,"Germany, Hesse",2.8,3,,--,--,1,0,0,--
+3/15/2015,"USA, Virginia",2.8,5,IV,--,--,1,1,0,--
+3/15/2015,"Colombia, Huila",3.4,0,,--,--,1,1,0,--
+3/15/2015,"OS Indonesia, Sulawesi Tengah",6.1,,,--,--,2 - 3,,0,--
+3/16/2015,"Venezuela, Táchira",4,5,,--,--,1,,0,--
+3/18/2015,OS Peru. Arequipa,4.8,45,,--,--,1 - 2,,0,--
+3/18/2015,"Algeria, Batna",3.9,,,--,--,1,1,0,--
+3/20/2015,"Mexico, Puebla",5.4,65,,--,--,1,1,0,--
+3/21/2015,"Algeria, Batna",4.8,,,--,--,2,50,0,--
+3/22/2015,"China, Anhui (aftershock)",3.6,10,,--,--,1 - 2,10,0,--
+3/22/2015,"China, Guizhou",3.3,8,,--,--,1 - 2,10,0,--
+3/23/2015,"Chile, Arica",6.4,121,VII,--,--,1,,0,--
+3/23/2015,"India, Uttar Pradesh",3,,IV,--,--,1 - 2,10,0,--
+3/24/2015,"Netherlands, Groningen","[2,3]",,,--,--,1 - 2,156,0,--
+3/24/2015,"Pakistan, Sindh",3.4,,,--,8,3,,2,--
+3/26/2015,"Brazil, Ceara",3,,,--,--,1 - 2,,0,--
+3/26/2015,"Indonesia, Bali",4.1,10,,--,--,1 - 2,,0,--
+3/29/2015,"Hungary, Borsod-Abaúj-Zemplén",3.2,,,--,--,1 - 2,3,0,--
+3/29/2015,"OS Papua New Guinea, New Britain",7.5,30,VII,--,--,1,,0,50 cm
+3/30/2015,"China, Guizhou",5.5,7,VII,--,4,3,3100,0,--
+3/30/2015,"Philippines, Bohol (aftershock)",4.9,7,,--,--,1,1,0,--
+3/31/2015,"Peru, Arequipa  ",3.5,,,--,--,1,2,0,--
+4/1/2015,"India, Uttarakhand",5.1,,,--,8,3,,,--
+4/2/2015,"OS Indonesia, Bengkulu",5.1,,,--,--,1,1,0,--
+4/7/2015,"China, Xizang",4.9,10,,--,--,2,100,0,--
+4/8/2015,"USA, Oklahoma","[4,3]",5,VI,--,--,1,1,0,--
+4/11/2015,"Colombia, Santander",4.6,9,,--,--,2,52,0,--
+4/12/2015,"Iran, Hormozgan",4.8,10,,--,--,2 - 3,,0,--
+4/13/2015,"China, Yunnan",4.8,6,,--,1,2,,0,--
+4/14/2015,China. Guizhou,2.4,,,--,--,1 - 2,,0,--
+4/15/2015,"China, Gansu",4.5,9,,1,15,4 - 5,21951,182,--
+4/15/2015,"China, Nei Mongol",5.8,10,VII,--,--,3,494,1,--
+4/15/2015,"Cyprus, Paphos",5.5,30,VI ,--,--,1 - 2,10,0,--
+4/15/2015,"Brazil, Ceara",2.5,,,--,--,1,5,0,--
+4/16/2015,"Germany, Saxonia-Anhalt",3.3,21,,--,--,1,2,0,--
+4/17/2015,"Poland, Silesia","[4,2]",1,,2,--,1,1,0,--
+4/20/2015,"OS Taiwan, Yilan",6.3,,4,1,1,1 - 2,1,1,--
+4/21/2015,"Iran, Kohgiluyeh va Boyer Ahmad",3.7,10,,--,--,1 - 2,10,0,--
+4/25/2015,"Nepal, Western",7.8,20,IX,9124,23790,5 +,300000,800000,--
+4/25/2015,"China, Xizang (aftershock Nepal)",5.9,20,,--,--,2,50,0,--
+4/26/2015,"Nepal, Central (aftershock)",6.7,,VII,8,83,4,,,--
+4/27/2015,"Nepal, Eastern",5.1,10,,1,,2 - 3,,0,--
+4/28/2015,"Ecuador, Guayas (Guayaquil area)",5.8,71,V,--,2,2,,0,--
+4/28/2015,"Mexico, Oaxaca",5.5,113,,--,--,1,2,0,--
+4/28/2015,"Germany, Northrhine Westphalia","[2,7]",1,,--,--,1,10,0,--
+4/29/2015,"Iran, Fars",4.9,10,,--,14,2 - 3,,0,--
+4/29/2015,"Poland, Silesia","[3,5]",1,,--,--,1,,0,--
+4/30/2015,"Papua New Guinea, New Britain",6.7,48,VII,--,--,1 - 2,,0,--
+5/1/2015,"Papua New Guinea, New Britain",6.8,57,VII,--,--,3,,,cm
+5/2/2015,"Nepal, Western (aftershock)",5.1,,,4,1,3,,,--
+5/2/2015,"USA, Michigan",4.2,6,,--,--,2,,0,--
+5/2/2015,"OS Japan, Tokyo",5.9,2,not felt,--,--,--,0,0,50 cm
+5/4/2015,"New Zealand, Otago",5.8,,,--,--,1,0,0,--
+5/5/2015,"Papua New Guinea, New Britain",7.5,42,VIII,--,--,2 - 3,,0,cm
+5/5/2015,"Iran, Razavi-Chorasan",5.2,10,,--,64,2 - 3,,0,--
+5/5/2015,"OS Thailand, Phuket",4.6,10,,--,--,1,1,0,--
+5/5/2015,"Nepal, Central (aftershock)",4.0,,,1,--,1,,0,--
+5/7/2015,"USA, Texas  ","[4,0]",3,V,--,--,1,,0,--
+5/8/2015,"OS Indonesia, Sumatra Utara",5.8,,,--,--,1,1,0,--
+5/8/2015,"Iran, Bushehr",4.5,12,,--,--,1 - 2,,0,--
+5/9/2015,"Colombia, La Guajira",4.7,,,--,--,1 - 2,10,0,--
+5/10/2015,"Nepal, Central (aftershock)",4.2,,,1,--,--,,,--
+5/12/2015,"Nepal, Central (aftershock)",7.3,15,VIII,228,3680,5,,,--
+5/12/2015,"OS Japan, Iwate",6.6,50,JMA 5+,--,--,1,,0,--
+5/12/2015,"Nepal, Central (aftershock)",5.9,,,1,--,,,,--
+5/13/2015,"Brazil, Ceara",3.0,,,--,--,1,10,0,--
+5/14/2015,"Peru, Ica",5.2,45,IV,--,2,--,0,0,--
+5/15/2015,"Nepal, Central (aftershock)",5.5,,,1,,,,,--
+5/15/2015,"Italy, Venice",3.5,11,,--,--,1,5,0,--
+5/15/2015,"Indonesia, Bengkulu",6.1,165,,--,--,2,200,0,--
+5/16/2015,"Nepal, Central (aftershock)",5.5,,,4,--,3,,1,--
+May 2015,"Fiji, Eastern Division",,,,--,--,2,,0,--
+5/20/2015,"Tajikistan, Nohijahoi tobei dschumhurij",5.5,,VI,--,--,2 - 3,22,0,--
+5/21/2015,"OS China, Shandong",4.6,10,,--,--,3,,3,--
+5/21/2015,"Iran, Lorestan",4.3,4,,--,--,2 - 3,50,0,--
+5/22/2015,"USA, California",4.1,13,V,--,--,1,0,0,--
+5/22/2015,"England, Kent",4.2,13,V,--,--,1,1,0,--
+5/25/2015,"Japan, Saitama",5.5,56,JMA 5 -,--,2,--,0,0,--
+5/27/2015,"Netherlands, Groningen","[2,0]",3,,--,--,1,9,0,--
+5/27/2015,"Czech Republic, Moravian-Silesian Region","[3,1]",,,--,--,1,1,0,--
+5/30/3015,"OS Japan, Kanagawa",8.1,672,JMA 5+,--,13,1,,0,--
+6/1/2015,"Iran, Bushehr",4.4,10,,--,--,1 - 2,,0,--
+6/1/2015,"New Zealand, Otago",4.7,7,,--,--,1,25,0,--
+6/2/2015,"Greece, Kefalonia",4.3,,,--,2,--,0,0,--
+6/4/2015,"Malaysia, Sabah",5.9,10,VI,18,130,2 - 3,488,0,--
+6/7/2015,"Argentina, La Rioja",5.1,,,--,--,1 - 2,,0,--
+6/20/2015,"OS Chile, Bio-Bio",6.0,23,V,--,--,1,2,0,--
+6/21/2015,"Poland, Silesia","[3,0]",1,,--,--,1,,0,--
+6/22/2015,"Malaysia, Sabah (aftershock)",3.5,,,--,--,1 - 2,1,0,--
+6/24/2015,"China, Xinjiang",5.4,8,,--,--,2 - 3,700,0,--
+6/25/2015,"Indonesia, Java Timur",4.2,,,--,--,2,58,0,--
+6/27/2015,"Egypt, South Sinai",5.2,,,--,--,1 - 2,,0,--
+6/28/2015,"India, Assam",5.6,,,--,4,2,,0,--
+6/28/2015,"Mexico, Oaxaca",5.6,84,,--,--,2,7,0,--
+6/29/2015,"OS Peru, Arequipa",5.8,48,,--,--,2,,3,--
+7/1/2015,"Peru, Huancavelica",4.0,4,V,--,--,3,13,2,--
+7/2/2015,"OS Solomon Islands, Makira",5.8,,,--,--,1,,0,--
+7/3/2015,"China, Xinjiang",6.5,10,VIII,3,214,5,69029,7586,--
+7/3/2015,"OS Philippines, Caraga",6.1,30,V,--,--,1 - 2,5,0,--
+7/6/2015,"Peru, Cuzco",4.7,9,,--,--,2 - 3,,0,--
+7/9/2015,"Japan, Iwate",5.7,88,JMA 5-,--,2,--,0,0,--
+7/10/2015,"OS Solomon Islands, Western Province",6.7,12,,--,--,--,0,0,1 cm
+7/11/2015,"India, Telangana",,,,--,--,1,,0,--
+7/12/2015,"Japan, Oita",5.7,60,JMA 5+,--,3,2,3,1,--
+7/14/2015,"Thailand, Kanchanaburi",4.8,4,VI,--,--,1 - 2,,0,--
+7/16/2015,OS Barbados,6.4,,,--,--,1,1,0,--
+7/18/2015,"OS Solomon Islands, Temotu",7.0,,VIII,--,--,1,,0,20 cm
+7/18/2015,"India, Uttarakhand",4.0,,,--,1,2,,4,--
+7/19/2015,"Ukraine, Oblast Zakarpattia",3.8,5,,--,--,1 - 2,,0,--
+7/19/2015,"China, Gansu",3.3,11,,--,--,1,,0,--
+7/20/2015,"USA, Oklahoma","[4,4]",5,V,--,--,1 - 2,,0,--
+7/23/2015,"India, Maharashtra",3.9,,,--,--,2 - 3,20,0,--
+7/24/2015,"Chile, Tarapaca",5.3,38,VI,--,--,1,0,0,--
+7/24/2015,"Pakistan, Khyber Pakhtunkhwa",5.5,,,3,1,3,,1,--
+7/25/2015,"Brazil, Pernambuco",3.3,,,--,--,1,,0,--
+7/26/2015,"OS Indonesia, Java Timur",5.9,56,IV,--,--,1 - 2,50,0,--
+7/27/2015,"OS USA, Alaska",6.9,29,,--,--,--,0,0,8 cm
+7/27/2015,"USA, Oklahoma","[4,5]",3,VI,--,--,1 - 2,,0,--
+7/27/2015,"Indonesia, Papua",7.2,49,VII,1,--,2,,0,--
+7/29/2015,"Panama, Emberá-Wounaan",5.9,12,VI,--,6,2 - 3,30,0,--
+7/29/2015,"Panama, Emberá-Wounaan (aftershock)",4.1,14,,--,--,2,0,1,--
+7/29/2015,"OS Sweden, Västra Götaland",2.9,,,--,--,1,2,0,--
+7/29/2015,"OS Turkey, Adana",5.2,18,,--,--,1 - 2,10,0,--
+7/31/2015,"Iran, Kerman",5.5,8,,--,27,3,,1,--
+8/1/2015,"Peru, Arequipa (Sabancaya volcano)",4.0,8,,--,--,1,10,0,--
+8/3/2015,"Pakistan, Balochistan",5.5,,,--,--,2,,0,--
+8/4/2015,"China, Liaoning",4.2,5,,--,--,2,200,0,--
+8/7/2015,"DR Congo, South Kivu",5.8,12,VI,3,68,4,,100,--
+8/8/2015,"Benin, Littoral",,,,--,--,1,1,0,--
+8/9/2015,"El Salvador, Usulutan",3.9,7,,--,4,2 - 3,92,0,--
+8/10/2015,"China, Xinjiang",4.6,10,,--,--,1 - 2,25,0,--
+8/10/2015,"Afghanistan, Badakhshan",5.9,224,,--,--,2,,0,--
+8/10/2015,"Iran, Golestan",4.2,,,--,--,2,,0,--
+8/14/2015,"Brazil, Santa Catarina",[ ],,,--,--,1,,0,--
+8/17/2015,"USA, California (San Francisco area)",4.0,5,VI,--,--,1,2,0,--
+8/17/2015,"Indonesia, Maluku",5.0,,,--,--,1,4,0,--
+8/18/2015,"Netherlands, Groningen","[2,0]",3,,--,--,1,7,0,--
+8/20/2015,"Nepal, Central (aftershock)",4.8,,,1,--,1,0,0,--
+8/21/2015,"Colombia, Quindio (Armenia area)",4.2,4,,--,--,1,5,0,--
+8/23/2015,"Chile, Coquimbo",6.0,40,VI,--,--,1,1,0,--
+8/25/2015,"Iran, Tehran",4.6,10,,--,1,1,0,0,--
+8/26/2015,"India, Andhra Pradesh",3.3,15,,--,--,1,5,0,--
+8/28/2015,"Peru, Arequipa (Sabancaya volcano)",4.9,,,--,--,1,,0,--
+8/30/2015,"Iran, North Chorasan",4.7,10,,--,--,1,10,0,--
+9/3/2015,"India, Rajasthan",4.4,,,1,--,1,1,0,--
+9/4/2015,"Azerbaijan, Oghuz",5.9,13,VII,1,2,3,260,3,--
+9/4/2015,"Colombia, Antioquia",3.8,34,,--,--,1,1,0,--
+9/5/2015,"Argentina, Salta",5.2,,,--,--,2,,0,--
+9/6/2015,"China, Sichuan",3.7,14,,--,--,3,1102,3,--
+9/7/2015,"India, Madhya Pradesh",,,,--,--,1 - 2,,0,--
+9/9/2015,"India, Andhra Pradesh",,,,--,--,1,,0,--
+9/11/2015,"Japan, Tokyo",5.3,70,JMA 5-,--,16,1,2,0,--
+9/12/2015,"Nicaragua, Leon",4.3,15,,--,--,2 - 3,20,5,--
+9/14/2015,"China, Hebei",4.2,14,VI,--,--,3,,,--
+9/14/2015,"Nicaragua, Leon",4.9,12,,--,--,3,524,,--
+9/15/2015,"Croatia, Zagreb",2.9,2,V ,--,--,1,2,0,--
+9/16/2015,"Mexico, Sinaloa",4.5,12,,--,--,2,20,0,--
+9/16/2015,"OS Chile, Coquimbo",8.3,25,VIII,16,14,5,4800,2872,"4,75 m"
+9/18/2015,"Colombia, Valle del Cauca",4.7,4,,--,1,1 - 2,5,0,--
+9/20/2015,"Brazil, Rio Grande do Norte",3.6,,,--,--,1,,0,--
+9/22/2015,"China, Sichuan",4.0,11,,--,--,1,2,0,--
+9/24/2015,"Mexico, Chihuahua (Juarez Area)",,,,--,--,1,1,0,--
+9/24/2015,"OS Indonesia, Papua-Barat",6.8,24,VII,--,45,4,2889,,--
+9/25/2015,"USA, Oklahoma","[4,0]",,,--,--,1,3,0,--
+9/25/2015,"Indonesia, Yogjakarta",4.6,5,,--,--,1,7,0,--
+9/26/2015,"India, Madhya Pradesh",,,,--,--,1,,0,--
+9/26/2015,"India, Odisha",3.2,,,--,--,1,,0,--
+9/28/2015,"OS Peru, Tumbes",4.9,,,--,--,2,350,0,--
+9/29/2015,"India, Uttarakhand",4.8,,,--,--,1,,1,--
+9/30/2015,"El Salvador, La Union",4.4,20,V ,--,--,1 - 2,10,0,--
+9/30/2015,"Poland, Lesser Poland","[3,7]",0.6,VI,--,--,2,135,0,--
+9/30/2015,"Mexico, Guerrero",5.5,30,,--,--,1,1,0,--
+9/30/2015,"Netherlands, Groningen","[3,1]",,,--,--,1 - 2,1240,0,--
+9/30/2015,"Netherlands, Drenthe","[2,3]",,,--,--,1,53,0,--
+10/3/2015,"Chile, Coquimbo (aftershock)",6.0,,VI,--,--,1,1,0,--
+10/6/2015,"Turkey, Antalya",5.2,20,,--,--,1,1,0,--
+10/9/2015,"Brazil, Ceara",3.3,,,--,--,1,,0,--
+10/9/2015,"Turkey, Tokat",5.1,,,--,1,2,,0,--
+10/10/2015,"USA, Oklahoma","[4,4]",,V,--,--,1 - 2,,0,--
+10/10/2015,"USA, Oklahoma","[4,5]",,VI,--,--,1 - 2,,0,--
+10/11/2015,"Nicaragua, Leon",4.4,15,,--,--,1,,0,--
+10/12/2015,"China, Qinghai",5.2,,,--,--,1,2,0,--
+10/12/2015,"Turkmenistan, Ahal Welayaty",5.3,6,,,,3,419,14,--
+10/14/2015,"Colombia, Santander",5.3,118,V,--,--,1,,0,--
+10/15/2015,"Ecuador, Canar",5.6,87,,--,--,1 - 2,,0,--
+10/17/2015,"Argentina, Salta",5.9,18,VI,1,53,3 - 4,373,25,--
+10/18/2015,"Iran, Kerman",4.4,10,,--,--,1,,0,--
+10/18/2015,"Russia, Oblast Sverdlovsk","[4,1]",,,--,--,1,2,0,--
+10/20/2015,"USA, California (San Francisco area)",3.6,8,IV,--,--,1,,0,--
+10/20/2015,"Poland, Lesser Poland","[3,7]",0.5,,--,--,1 - 2,76,0,--
+10/22/2015,"OS Indonesia, Java Tengah",5.0,14,,--,,2,,0,--
+10/23/2015,"Pakistan, Punjab",5.3,,,2,1,3,,,--
+10/25/2015,Iran Bushehr,4.0,9,,--,--,1 - 2,,0,--
+10/26/2015,"Afghanistan, Badakhshan",7.5,223,VII,402,2355,5 +,92687,36642,--
+10/26/2015,"China, Xizang",4.2,8,,--,--,1 - 2,,,--
+10/28/2015,"China, Yunnan",4.7,8,,--,--,2 - 3,5314,0,--
+10/29/2015,"Turkey, Van",4.8,5,,--,1,2,,,--
+10/30/2015,"Madagascar, Sava",4.7,,,--,--,1 - 2,,,--
+10/30/2015,"China, Yunnan",5.1,10,VI,--,--,4 - 5,38036,255,--
+11/1/2015,"New Zealand, Manawatu-Wanganui",5.4,39,,--,--,1,2,0,--
+11/1/2015,"Slovenia, Brezice",4.4,5,VI,--,--,1,,0,--
+11/2/2015,"USA, Arizona",4.1,,,--,--,1,,0,--
+11/2/2015,"Pakistan, FATA",5.2,,,--,,2,,,--
+11/3/2015,"Slovakia, Banska Bystrica ",3.2,,,--,--,1,,0,--
+11/3/2015,"Russia, Krasnodar",4.7,,,--,--,1,,0,--
+11/4/2015,"Indonesia, East Nusa Tenggara",6.4,14,,--,3,3 - 4,2075,,--
+11/4/2015,"OS Indonesia, Banten",5.2,,,--,--,1,,0,--
+11/6/2015,"France, Alpes Côte d'Azur",4.4,,V,--,--,1,,0,--
+11/6/2015,"Brazil, Bahia",3.2,,,--,--,1 - 2,,0,--
+11/7/2015,"Venezuela, Merida",5.1,5,,1,4,2 - 3,398,0,--
+11/7/2015,"Chile, Coquimbo",6.8,48,VII,--,--,1 - 2,,0,--
+11/7/2015,"USA, Oklahoma","[4,1]",5,,--,--,1 - 2,,0,--
+11/8/2015,"OS Indonesia, Sumatra Utara",6.0,,,--,--,1,2,0,--
+11/11/2015,"OS Chile, Coquimbo",6.9,,VII,--,--,--,0,0,15 cm
+11/11/2015,"OS Indonesia, Yogyakarta",5.6,,V ,--,1,2,,0,--
+11/13/2015,"Argentina, Cordoba",5.8,,,--,--,2,,0,--
+11/13/2015,"OS Japan, Kagoshima",7.0,,JMA 4,--,--,--,0,0,30 cm
+11/16/2015,"Turkmenistan, Balkan Welayaty",4.5,,,--,--,1 - 2,,,--
+11/17/2015,"OS Greece, Ionian Islands",6.4,5,VII,2,5,3 - 4,120,42,15 cm
+11/17/2015,"Kyrgyzstan, Osh",5.9,,VII,--,--,4 - 5,2919,453,--
+11/17/2015,"Poland, Lesser Poland","[3,7]",1,,--,--,1,17,0,--
+11/19/2015,"USA, Oklahoma","[4,7]",6,VI,--,--,1 - 2,,0,--
+11/20/2015,"Kyrgyzstan, Osh (aftershock)",5.1,,VI,--,--,2,,0,--
+11/20/2015,"Indonesia, North Molukka",4.8,,V,--,1,2 - 3,497,0,--
+10/21/2015,"Kyrgyzstan, Jalalabad",4.4,,V,--,--,1,2,0,--
+11/21/2015,"Indonesia, Central Java",3.2,,III,1,--,--,0,0,--
+11/22/2015,"Afghanistan, Badakhshan",5.8,92,V,2,--,3 - 4,,25,--
+11/22/2015,"Venezuela, Merida",5.1,5,,1,3,2,,1,--
+11/22/2015,"China, Qinghai",5.2,10,,--,--,2,57,0,--
+11/23/2015,"Mexico, Guerrero",5.6,,,2,--,1 - 2,,0,--
+11/23/2015,"Indonesia, North Molukka",4.6,,,--,--,2 - 3,437,,--
+11/24/2015,"Bolivia, Santa Cruz",5.0,,,--,--,1 - 2,13,1,--
+11/24/2015,"Peru, Madre de Dios",7.5,598,VI,--,--,2,70,0,--
+11/25/2015,"Peru, Arequipa  ",4.5,,,--,--,1,0,0,--
+11/25/2015,"Iran, Chuzestan",5.3,12,,--,--,1 - 2,,,--
+11/26/2015,"Dominican Republic, Azua",5.0,,,--,--,1,1,0,--
+11/27/2015,"Brazil, Acre (aftershock)",5.1,627,,--,--,1,1,0,--
+11/27/2015,"Myanmar, Sagaing",5.5,,,,,3,,3,--
+11/28/2015,"OS Indonesia, Banten",5.6,75,,--,--,1 - 2,,0,--
+11/29/2015,"Turkey, Malatya",5.1,5,,--,1,3,873,,--
+11/30/2015,"USA, Oklahoma","[4,7]",5,,--,--,1,,0,--
+12/1/2015,"Kyrgyzstan, Jalalabad",5.3,,VI ,--,--,1 - 2,22,0,--
+12/1/2015,"Indonesia, North Molukka",4.8,,,--,--,3,659,,--
+12/2/2015,"Turkey, Bingol",5.5,5,,--,--,3,584,2,--
+12/4/2015,"Iran, Farashband",5.0,20,,--,3,2,,,--
+12/7/2015,"Tajikistan, Badakhshan",7.2,30,VII,2,10,4,677,237,--
+12/7/2015,"Kyrgyzstan, Naryn",5.5,26,V ,--,--,3,122,20,--
+12/8/2015,"Italy, Sizily (Etna)",3.8,3,,--,--,1,0,0,--
+12/9/2015,"OS Indonesia, Maluku",6.9,40,V,--,--,--,0,0,10 cm
+12/9/2015,"Turkey, Malatya",4.5,5,,--,--,2,,0,--
+12/15/2015,"India, Jharkhand",4.2,,,--,,1 - 2,,0,--
+12/15/2015,"Mexico, Jalisco (Guadalajara area)",4.4,10,,--,--,1,12,0,--
+12/17/2015,"Mexico, Chiapas ",6.6,90,,1,--,2 - 3,,2,--
+12/18/2015,"Nepal, Far Western",5.5,,,,,1 - 2,,,--
+12/20/2015,"Indonesia, Kalimantan Utara",6.1,10,VII,1,10,3,,7,--
+12/21/2015,"South Korea, Jeollabuk-Do",3.9,7,,--,--,1,2,0,--
+12/21/2015,"Bolivia, Santa Cruz",4.5,4,,--,--,1 - 2,10,0,--
+12/22/2015,"Germany, North Rhine Westfalia","[2,4]",1,V,--,--,1,30,0,--
+12/23/2015,"China, Xinjiang",4.2,7,,--,--,1,12,0,--
+12/24/2015,"Vietnam, Thua Thien Hue",3.2,,,--,--,1 - 2,,0,--
+12/25/2015,"China, Shandong",[4],0,,--,--,1,,0,--
+12/25/2015,"Colombia, Cauca (Puracé volcano)",3.9,,,--,--,1,6,0,--
+12/25/2015,"Afghanistan, Badakhshan (aftershock)",6.2,191,,6,119,3 - 4,103,6,--
+12/29/2015,"India, Jammu and Kashmir",3.2,,,--,--,1,1,0,--
+12/29/2015,"USA, Oklahoma",4.3,7,V,--,--,1 - 2,,0,--
+12/29/2015,"New Zealand, Manawatu-Wanganui",4.7,22,,--,--,1,1,0,--
+12/30/2015,"Canada, British Colombia",4.9,38,IV,--,--,1,2,0,--
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
