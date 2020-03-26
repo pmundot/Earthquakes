@@ -1,80 +1,80 @@
 Date (UTC),Country,Region,Magnitude,Depth (km),Intensity (MMI),Fatalities,Injuries,displaced,Impact coefficient (D),buildings damaged,buildings destroyed,Tsunami height
 02.01.2017,Italy,Umbria,4.1,8,V,0,0,30,0.1944,,0,--
 03.01.2017,India,Tripura,5.5,35,,3,49,600,1.6688,1456,166,--
-03.01.2017,Brazil,Maranhao,4.6,,,0,0,0,0.7530,500,0,--
-03.01.2017,Fiji,Western Division (OS),7.2,16,IV,0,0,0,0.0000,0,0,1 cm
+03.01.2017,Brazil,Maranhao,4.6,,,0,0,0,0.753,500,0,--
+03.01.2017,Fiji,Western Division (OS),7.2,16,IV,0,0,0,0,0,0,1 cm
 06.01.2017,Iran,Fars,5.1,4,,4,4,905,1.4479,400,40,--
 08.01.2017,Canada,Nunavut (OS),5.8,17,V ,0,0,0,0.0198,5,0,--
 08.01.2017,India,Maharashtra,2.8,,,0,0,0,0.0387,10,0,--
-09.01.2017,Greece,Western Greece,4.6,4,VI,0,0,0,0.0080,2,0,--
-10.01.2017,Philippines,Sulu (OS),7.3,627,IV,0,0,0,0.0040,1,0,--
-11.01.2017,Madagascar,Antananarivo,5.5,8,VI,2,5,50,0.9290,300,15,--
+09.01.2017,Greece,Western Greece,4.6,4,VI,0,0,0,0.008,2,0,--
+10.01.2017,Philippines,Sulu (OS),7.3,627,IV,0,0,0,0.004,1,0,--
+11.01.2017,Madagascar,Antananarivo,5.5,8,VI,2,5,50,0.929,300,15,--
 15.01.2017,China,Sichuan,4.2,14,,0,0,0,0.0569,15,0,--
 16.01.2017,Indonesia,Sumatra Utara,5.6,,,0,7,50,0.7877,200,17,--
 17.01.2017,Cuba,Santiago de Cuba (OS),5.4,11,VI,0,0,25,0.2805,30,5,--
 17.01.2017,Pakistan,Sindh (Karachi area),3.6,12,,0,0,0,0.0743,20,0,--
-17.01.2017,Angola,Huila,4.0,,,0,0,0,0.0910,25,0,--
+17.01.2017,Angola,Huila,4,,,0,0,0,0.091,25,0,--
 17.01.2017,Iran,Fars,4.8,10,,0,3,0,0.4315,100,0,--
 18.01.2017,Italy,Abruzzo,5.5,9,,2,10,500,1.5465,2000,50,--
-18.01.2017,China,Sichuan,4.3,5,,0,0,0,1.1490,1401,1,--
-19.01.2017,Colombia,Antioquia,4.7,20,,0,0,0,0.0040,1,0,--
+18.01.2017,China,Sichuan,4.3,5,,0,0,0,1.149,1401,1,--
+19.01.2017,Colombia,Antioquia,4.7,20,,0,0,0,0.004,1,0,--
 19.01.2017,Georgia,Samtskhe-Javakheti,4.3,,,0,0,0,0.0387,10,0,--
-20.01.2017,Iran,Fars,4.3,12,,0,10,0,0.6050,50,0,--
-21.01.2017,Russia,Primorje,3.3,,,0,0,0,0.0080,2,0,--
+20.01.2017,Iran,Fars,4.3,12,,0,10,0,0.605,50,0,--
+21.01.2017,Russia,Primorje,3.3,,,0,0,0,0.008,2,0,--
 21.01.2017,Argentina,Mendoza,4.6,22,,0,0,0,0.0387,10,0,--
 22.01.2017,Papua New Guinea,Bougainville,7.9,136,VIII,3,15,200,1.2881,500,100,2 cm
 22.01.2017,Iran,Isfahan,4.5,,,0,0,5,0.1379,30,0,--
-26.01.2017,Germany,Northrhine-Westphalia,1.9,1,IV,0,0,0,0.0040,1,0,--
-27.01.2017,Ethiopia,Oromia,5.2,,,,,,0.0000,,,--
+26.01.2017,Germany,Northrhine-Westphalia,1.9,1,IV,0,0,0,0.004,1,0,--
+27.01.2017,Ethiopia,Oromia,5.2,,,,,,0,,,--
 27.01.2017,Albania,Berat,4.8,3,,0,0,0,0.0844,23,0,--
 27.01.2017,China,Sichuan,4.9,11,VI,0,5,4000,2.3542,14000,571,--
 29.01.2017,Italy,Lazio,3.8,,,0,0,0,0.0135,0,1,--
 31.01.2017,Ecuador,Esmeraldas,5.5,10,VI,0,0,0,0.0159,4,0,--
 31.01.2017,China,Xizang,4.5,5,,0,0,500,1.3704,1400,,--
-01.02.2017,Australia,South Australia,3.7,8,,0,0,0,0.0080,2,0,--
-03.02.2017,Kyrgyzstan,Batken,5.0,,,0,0,0,0.0198,5,0,--
+01.02.2017,Australia,South Australia,3.7,8,,0,0,0,0.008,2,0,--
+03.02.2017,Kyrgyzstan,Batken,5,,,0,0,0,0.0198,5,0,--
 03.02.2017,France,Martinique (OS),5.8,,VII,0,3,0,0.2699,10,0,--
 06.02.2017,Turkey,Canakkale,5.4,8,,0,8,2500,1.8492,504,504,--
-06.02.2017,Colombia,Huila,5.6,37,,0,1,500,1.2610,461,104,--
+06.02.2017,Colombia,Huila,5.6,37,,0,1,500,1.261,461,104,--
 06.02.2017,India,Uttarakhand,5.6,14,,0,2,,0.4408,100,10,--
-07.02.2017,Turkey,Canakkale,5.2,8,,0,0,0,0.3000,100,2,--
-07.02.2017,Pakistan,Balochistan,6.3,,,0,1,300,0.9440,,60,--
+07.02.2017,Turkey,Canakkale,5.2,8,,0,0,0,0.3,100,2,--
+07.02.2017,Pakistan,Balochistan,6.3,,,0,1,300,0.944,,60,--
 08.02.2017,China,Yunnan,4.9,10,,0,5,,0.3955,22,,--
-09.02.2017,Colombia,Huila,4.0,,,0,0,15,0.1246,2,1,--
+09.02.2017,Colombia,Huila,4,,,0,0,15,0.1246,2,1,--
 10.02.2017,Turkey,Canakkale,4.7,,,0,0,0,0.0743,20,0,--
 10.02.2017,Turkey,Agri,4.5,,,0,0,15,0.2189,40,0,--
-10.02.2017,Philippines,Surigao del Norte (OS),6.6,7,VIII,8,249,54735,3.0850,10398,522,--
+10.02.2017,Philippines,Surigao del Norte (OS),6.6,7,VIII,8,249,54735,3.085,10398,522,--
 10.02.2017,Taiwan,Tainan,5.6,18,VII,0,4,0,0.3162,5,0,--
 12.02.2017,Turkey,Canakkale,5.2,8,,0,0,,0.3213,50,20,--
 12.02.2017,China,Zhejiang,3.5,6,,0,0,0,0.0387,10,,--
 13.02.2017,Mexico,Veracruz (OS),4.4,10,,0,0,,0.0777,21,0,--
-13.02.2017,Indonesia,Sumatra Utara,5.2,,,0,0,,0.0000,,,--
+13.02.2017,Indonesia,Sumatra Utara,5.2,,,0,0,,0,,,--
 15.02.2017,Indonesia,Java Barut,5.1,,,0,0,50,0.3704,30,4,--
 16.02.2017,Indonesia,Aceh,5.6,,,0,15,,0.6906,,2,--
-17.02.2017,USA,Alabama,2.6,2,,0,0,0,0.0040,1,0,--
-20.02.2017,France,Aquintaine,3.8,,,0,0,0,0.0040,1,0,--
+17.02.2017,USA,Alabama,2.6,2,,0,0,0,0.004,1,0,--
+20.02.2017,France,Aquintaine,3.8,,,0,0,0,0.004,1,0,--
 22.02.2017,China,Hubei,3.8,7,,0,0,0,0.2133,68,0,--
 23.02.2017,Philippines,Davao del Sur,4.6,,,0,2,0,0.1823,1,0,--
 24.02.2017,Zambia,Northern Province,5.9,,,0,8,50,0.6371,,11,--
-25.02.2017,China,Sichuan (aftershock),4.0,12,,0,0,,0.0387,10,0,--
+25.02.2017,China,Sichuan (aftershock),4,12,,0,0,,0.0387,10,0,--
 27.02.2017,Nepal,Eastern (aftershock),4.7,,,0,0,0,0.0569,15,0,--
 02.03.2017,Turkey,Adiyaman,5.5,,,0,31,3000,2.0515,710,1289,--
-05.03.2017,Algeria,Skikda,4.6,,,0,0,0,0.0120,3,0,--
+05.03.2017,Algeria,Skikda,4.6,,,0,0,0,0.012,3,0,--
 05.03.2017,Philippines,Surigao del Norte (OS),5.9,13,VII,1,47,0,1.1783,0,33,--
 06.03.2017,Switzerland,Schwyz,4.6,5,VI,0,0,0,0.1227,35,0,--
 07.03.2017,Peru,Junin,4.3,50,,0,0,0,0.1808,52,1,--
 07.03.2017,USA,Montana,3.4,11,,0,0,0,0.0312,8,0,--
 08.03.2017,Indonesia,Northern Molucca,5.4,,,0,0,,0.1071,30,0,--
-09.03.2017,Brazil,Ceara,2.7,,,0,1,5,0.1810,1,5,--
-09.03.2017,Venezuela,Falcon (OS),4.8,,,0,0,0,0.0040,1,0,--
-10.03.2017,Spain,Navarra,4.5,,,0,0,0,0.0040,1,0,--
+09.03.2017,Brazil,Ceara,2.7,,,0,1,5,0.181,1,5,--
+09.03.2017,Venezuela,Falcon (OS),4.8,,,0,0,0,0.004,1,0,--
+10.03.2017,Spain,Navarra,4.5,,,0,0,0,0.004,1,0,--
 09.03.2017,Venezuela,Falcon (OS),5.2,,,0,0,0,0.0387,10,0,--
 11.03.2017,Poland,Lower Silesia,3.5,1,,0,0,0,0.0387,10,0,--
 13.03.2017,Myanmar,Yangoon,5.1,5,,0,52,250,1.3328,200,20,--
 17.03.2017,Iran,Fars,4.3,,,0,0,0,0.0198,5,0,--
-21.03.2017,Indonesia,Bali,5.7,,,0,4,,0.7600,400,0,--
+21.03.2017,Indonesia,Bali,5.7,,,0,4,,0.76,400,0,--
 22.03.2017,Philippines,Central Visayas,3.4,,,0,0,0,0.0159,4,0,--
-26.03.2017,China,Yunnan,5.1,12,,0,1,5286,2.2910,6043,1218,--
+26.03.2017,China,Yunnan,5.1,12,,0,1,5286,2.291,6043,1218,--
 27.03.2017,Mexico,Sinaloa (OS),5.7,10,,0,0,0,0.0461,12,0,--
 02.04.2017,India,Karnataka,2.9,,,1,0,0,0.3247,12,0,--
 02.04.2017,Panama,Chiriqui,5.3,10,VII,0,0,30,0.3679,25,17,--
@@ -82,24 +82,24 @@ Date (UTC),Country,Region,Magnitude,Depth (km),Intensity (MMI),Fatalities,Injuri
 03.04.2017,Botswana,Moiyabana,6.5,29,,0,36,,1.0138,11,,--
 04.04.2017,Kazakhstan,Eastern  ,5.4,,,0,0,0,0.0312,8,0,--
 04.04.2017,Philippines,Batangas,5.5,,,0,0,0,0.1377,40,0,--
-05.04.2017,Iran,Ravazi-Chorasan,6.0,6,VIII,1,40,5488,2.3001,4417,1362,--
+05.04.2017,Iran,Ravazi-Chorasan,6,6,VIII,1,40,5488,2.3001,4417,1362,--
 05.04.2017,Greece,Peloponnese,4.5,8,VI ,0,0,0,0.0743,20,0,--
-08.04.2017,Philippines,Batangas,6.0,,VII ,0,6,3578,2.0526,2695,568,--
+08.04.2017,Philippines,Batangas,6,,VII ,0,6,3578,2.0526,2695,568,--
 08.04.2017,Albania,Qark Lezha,5.1,,,0,0,10,0.1263,16,0,--
 10.04.2017,India,Karnataka,,,,0,0,0,0.0387,10,0,--
 10.04.2017,El Salvador,San Salvador,4.8,10,,1,2,,0.6851,250,,--
-11.04.2017,Philippines,Misamis Oriental,6.0,3,VII ,0,1,5027,2.0217,817,52,--
+11.04.2017,Philippines,Misamis Oriental,6,3,VII ,0,1,5027,2.0217,817,52,--
 12.04.2017,China,Zhejiang,4.2,,,0,0,,0.1522,45,0,--
 18.04.2017,India,Karnataka,3.4,,,0,0,0,0.0569,15,0,--
-18.04.2017,Myanmar,Shan State,4.7,,,0,0,0,0.0040,1,0,--
+18.04.2017,Myanmar,Shan State,4.7,,,0,0,0,0.004,1,0,--
 21.04.2017,Turkey,Manisa,5.1,6,,0,0,15,0.1425,8,1,--
 21.04.2017,Turkey,Manisa,5.1,10,,0,0,,0.1227,35,,--
-24.04.2017,Guinea,Labé,,,,0,0,50,0.4120,35,10,--
+24.04.2017,Guinea,Labé,,,,0,0,50,0.412,35,10,--
 24.04.2017,Chile,OS Valparaiso,6.9,25,VII,0,0,0,0.0198,5,0,16 cm
 28.04.2017,Philippines,OS Sarangani,6.8,,VII,0,5,15,0.4606,18,5,20 cm
-29.04.2017,Colombia,Cauca,4.6,,,0,0,0,0.0120,3,0,--
+29.04.2017,Colombia,Cauca,4.6,,,0,0,0,0.012,3,0,--
 29.04.2017,Mexico,Colima,4.6,12,,0,1,20,0.2751,,8,--
-30.04.2017,Chile,Valparaiso (aftershock),4.0,,,0,0,0,0.0135,0,1,--
+30.04.2017,Chile,Valparaiso (aftershock),4,,,0,0,0,0.0135,0,1,--
 30.04.2017,Peru,Arequipa,4.2,,,0,0,,0.1019,25,1,--
 01.05.2017,Canada,British Columbia,6.3,12,VIII,0,0,0,0.0159,4,0,6 cm
 02.05.2017,Iran,Ravazi-Chorasan,5.3,,,0,2,,0.2617,,10,--
@@ -109,7 +109,7 @@ Date (UTC),Country,Region,Magnitude,Depth (km),Intensity (MMI),Fatalities,Injuri
 05.05.2017,Tajikistan,Nohiyahoi tobei jumhur?,5.8,,VII,0,2,4000,1.9773,516,423,--
 10.05.2017,China,Xinjiang,5.5,8,VII,8,31,9200,2.3159,,537,--
 11.05.2017,Azerbaijan,Saatli,5.3,48,V,0,20,,0.8398,85,,--
-11.05.2017,Turkey,Erzurum,5.0,4,,0,0,,0.0910,25,,--
+11.05.2017,Turkey,Erzurum,5,4,,0,0,,0.091,25,,--
 13.05.2017,Iran,North Chorazan,5.7,11,VII,3,417,5100,2.6544,9580,4929,--
 15.05.2017,India,Karnataka,,,,0,0,0,0.0569,15,0,--
 16.05.2017,Peru,Ayacucho,5.4,10,VI ,0,0,45,0.4053,51,7,--
@@ -121,68 +121,68 @@ Date (UTC),Country,Region,Magnitude,Depth (km),Intensity (MMI),Fatalities,Injuri
 25.05.2017,Tanzania,Mwanza,4.4,,,1,19,0,0.8367,0,0,--
 27.05.2017,Netherlands,Groningen,2.6,3,,0,0,0,0.1347,39,0,--
 27.05.2017,Turkey,Manisa,5.2,8,,0,1,500,1.3308,404,222,--
-28.05.2017,Indonesia,Aceh,5.0,,,0,0,1,0.1239,30,1,--
+28.05.2017,Indonesia,Aceh,5,,,0,0,1,0.1239,30,1,--
 29.05.2017,Poland,Silesia,3.3,0.6,,0,4,0,0.3063,,,--
 29.05.2017,Indonesia,Sulawesi,6.6,11,VII,0,25,900,1.4956,180,168,--
-29.05.2017,China,Hubei,3.5,8,,0,0,0,0.0910,25,0,--
-01.06.2017,Guatemala,Santa Rosa,,,,0,0,0,0.0040,1,0,--
-01.06.2017,India,Haryana,4.7,,,0,0,0,0.0910,25,,--
-04.06.2017,China,Nei Mongol,5.0,15,,0,0,510,1.1634,220,61,--
+29.05.2017,China,Hubei,3.5,8,,0,0,0,0.091,25,0,--
+01.06.2017,Guatemala,Santa Rosa,,,,0,0,0,0.004,1,0,--
+01.06.2017,India,Haryana,4.7,,,0,0,0,0.091,25,,--
+04.06.2017,China,Nei Mongol,5,15,,0,0,510,1.1634,220,61,--
 05.06.2017,Peru,Piura,6.2,18,V,0,3,7,0.3356,15,4,--
 06.06.2017,Iran,Kohgiluyeh va Boyer Ahmad,4.7,,,0,0,,0.0743,20,0,--
 09.06.2017,India,Jammu and Kashmir,3.2,,,0,0,,0.0569,15,0,--
 12.06.2017,Greece,OS North Aegean,6.3,11,VIII,1,15,1000,1.5747,246,337,40 cm
 14.06.2017,Guatemala,San Marcos,6.9,112,VI ,5,66,801,1.9818,4442,524,
 16.06.2017,China,Hubei,4.3,8,,0,0,163,0.7622,184,0,--
-20.06.2017,USA,Georgia,3.2,13,,0,0,0,0.0040,1,0,--
+20.06.2017,USA,Georgia,3.2,13,,0,0,0,0.004,1,0,--
 21.06.2017,Nepal,Central,3.2,,,1,1,0,0.3534,0,0,--
 22.06.2017,Guatemala,OS Escuintla,6.8,46,VI,0,4,42,0.5939,82,11,--
 24.06.2017,Mozambique,Sofala,5.8,,,0,4,,0.3196,,2,--
-24.06.2017,Peru,Arequipa,6.0,100,V ,0,0,0,0.0387,10,,--
+24.06.2017,Peru,Arequipa,6,100,V ,0,0,0,0.0387,10,,--
 24.06.2017,Japan,Nagano,5.6,7,Shindo 5+,0,2,0,0.2349,22,0,--
 26.06.2017,Iran,Ardabil,4.3,8,,0,2,0,0.2056,10,0,--
 30.06.2017,Mexico,Guanajuato,3.9,2,,0,0,0,0.0743,20,0,--
 30.06.2017,Ecuador,Manabi,6.3,9,VII,0,5,240,0.8799,81,1,--
-01.07.2017,Japan,Hokkaido,5.3,23,Shindo 5-,0,1,0,0.0990,0,0,--
-01.07.2017,Japan,Kumamoto,4.5,8,Shindo 5-,0,0,0,0.0040,1,0,--
+01.07.2017,Japan,Hokkaido,5.3,23,Shindo 5-,0,1,0,0.099,0,0,--
+01.07.2017,Japan,Kumamoto,4.5,8,Shindo 5-,0,0,0,0.004,1,0,--
 02.07.2017,Mexico,OS Guerrero,4.6,,,0,0,0,0.0569,15,0,--
-02.07.2017,China,Yunnan,4.1,5,,0,1,3,0.2130,31,1,--
-02.07.2017,Macedonia,Ohrid,4.0,3,V ,0,0,0,0.0080,2,0,--
-03.07.2017,Macedonia,Ohrid,5.0,5,VII,0,0,0,0.4665,200,2,--
+02.07.2017,China,Yunnan,4.1,5,,0,1,3,0.213,31,1,--
+02.07.2017,Macedonia,Ohrid,4,3,V ,0,0,0,0.008,2,0,--
+03.07.2017,Macedonia,Ohrid,5,5,VII,0,0,0,0.4665,200,2,--
 06.07.2017,USA,Montana,5.8,4,VII,0,0,0,0.0198,5,0,--
 06.07.2017,Philippines,Leyte,6.5,7,VII,3,493,16052,2.6982,2155,1484,--
-10.07.2017,Iran,Chuzestan,4.6,,,0,0,0,0.0040,1,0,--
+10.07.2017,Iran,Chuzestan,4.6,,,0,0,0,0.004,1,0,--
 11.07.2017,Japan,Kagoshima,5.2,,Shindo 5+,0,1,0,0.1054,2,0,--
-11.07.2017,Czech Republic,Karlovarsky Kraj,3.1,9,IV,0,0,0,0.0040,1,0,--
-14.07.2017,Indonesia,Sumatra Utara,5.5,,,0,1,,0.3500,48,17,--
-15.07.2017,China,Guangxi,4.0,,V,0,0,,0.0387,10,,--
-15.07.2017,Greece,OS Crete,5.3,,V,0,0,0,0.0040,1,0,--
+11.07.2017,Czech Republic,Karlovarsky Kraj,3.1,9,IV,0,0,0,0.004,1,0,--
+14.07.2017,Indonesia,Sumatra Utara,5.5,,,0,1,,0.35,48,17,--
+15.07.2017,China,Guangxi,4,,V,0,0,,0.0387,10,,--
+15.07.2017,Greece,OS Crete,5.3,,V,0,0,0,0.004,1,0,--
 16.07.2017,China,Sichuan,4.9,21,,0,,,0.1634,49,0,--
-17.07.2017,Russia,OS Kamtchatka,7.7,11,VIII,0,0,0,0.0000,0,0,9 cm
+17.07.2017,Russia,OS Kamtchatka,7.7,11,VIII,0,0,0,0,0,0,9 cm
 18.07.2017,Peru,OS Arequipa,6.3,28,V,1,9,0,0.6359,2,0,--
 18.07.2017,Indonesia,Jawa Barat,3.7,,,0,0,,0.2197,47,7,--
 20.07.2017,Greece,OS Dodecanese,6.5,10,VII,2,520,,2.1393,,52,150 cm
 22.07.2017,China,Jilin,4.9,12,,0,1,400,1.8554,6512,69,--
 23.07.2017,Iran,Kerman,5.4,10,VII,0,1,,0.1503,,5,--
 "28.07,2017",Iran,Hamadan,4.7,2,,0,15,,0.7499,50,10,--
-30.07.2017,Iran,Chaharmahal and Bakhtiari,5.0,,,0,25,,0.9209,100,,--
-02.08.2017,Chile,Santiago,5.5,88,VI,1,0,,0.3010,0,0,--
+30.07.2017,Iran,Chaharmahal and Bakhtiari,5,,,0,25,,0.9209,100,,--
+02.08.2017,Chile,Santiago,5.5,88,VI,1,0,,0.301,0,0,--
 05.08.2017,China,Guizhou,3.3,10,,0,0,0,0.0387,10,0,--
 05.08.2017,Philippines,South Cotabato,5.9,70,V ,0,0,0,0.0569,15,0,--
-05.08.2017,Philippines,Misamis,5.0,11,VI,0,2,8,0.3664,71,,--
-08.08.2017,Turkey,Mugla,5.2,,,0,0,,0.0080,2,0,--
+05.08.2017,Philippines,Misamis,5,11,VI,0,2,8,0.3664,71,,--
+08.08.2017,Turkey,Mugla,5.2,,,0,0,,0.008,2,0,--
 08.08.2017,China,Sichuan,6.5,9,IX,25,525,23477,3.1278,73671,1680,--
-08.08.2017,China,Xinjiang,6.3,11,VIII,0,32,2000,2.0410,5469,384,--
-09.08.2017,Croatia,Primorje,4.2,3,V,0,0,0,0.0080,2,0,--
-11.08.2017,Peru,OS Arequipa,6.0,44,V,1,2,,0.4017,1,,--
+08.08.2017,China,Xinjiang,6.3,11,VIII,0,32,2000,2.041,5469,384,--
+09.08.2017,Croatia,Primorje,4.2,3,V,0,0,0,0.008,2,0,--
+11.08.2017,Peru,OS Arequipa,6,44,V,1,2,,0.4017,1,,--
 13.08.2017,Indonesia,OS Bengkulu,6.6,55,VI,0,0,,0.0159,4,,--
-15.08.2017,China,Guangxi,4.0,6,,0,0,0,0.0120,3,0,--
-17.08.2017,Peru,Arequipa,4.5,183,,0,0,0,0.0040,1,0,--
+15.08.2017,China,Guangxi,4,6,,0,0,0,0.012,3,0,--
+17.08.2017,Peru,Arequipa,4.5,183,,0,0,0,0.004,1,0,--
 18.08.2017,Iraq,Dhi Qar,4.5,,,0,0,,0.0569,15,,--
-21.08.2017,Italy,Campania,4.0,2,VIII,2,42,1800,1.6919,100,20,--
+21.08.2017,Italy,Campania,4,2,VIII,2,42,1800,1.6919,100,20,--
 22.08.2017,Philippines,Leyte,5.1,5,,2,0,5,0.5583,56,,--
 23.08.2017,Iraq,Sulaimaniyya,5.6,8,VII,,17,,0.7287,,,--
-23.08.2017,India,Jammu and Kashmir,5.0,,,0,0,,0.1662,50,,--
+23.08.2017,India,Jammu and Kashmir,5,,,0,0,,0.1662,50,,--
 24.08.2017,Peru,Arequipa,4.3,,IV,0,0,0,0.0604,16,0,--
 27.08.2017,Iran,East Azerbaijan,4.9,6,,0,20,800,1.5845,330,450,--
 28.08.2017,Peru,Puno,4.7,17,,0,0,8,0.3409,105,2,--
@@ -192,12 +192,12 @@ Date (UTC),Country,Region,Magnitude,Depth (km),Intensity (MMI),Fatalities,Injuri
 31.08.2017,Indonesia,OS Sumatra Barat,6.3,45,,0,0,,0.0461,12,,--
 01.09.2017,China,Ningxia,4.6,10,,0,0,27,0.7684,400,20,--
 02.09.2017,Haiti,Boucan-Carré,4.3,,,0,1,0,0.1719,1,7,--
-05.09.2017,Poland,Katowice,3.2,1,V,0,7,,0.4460,,,--
-05.09.2017,Iran,South Chorasan,4.7,,,0,0,,0.0910,25,0,--
+05.09.2017,Poland,Katowice,3.2,1,V,0,7,,0.446,,,--
+05.09.2017,Iran,South Chorasan,4.7,,,0,0,,0.091,25,0,--
 06.09.2017,Brazil,Minas Gerais,2.1,,,0,0,0,0.0604,16,0,--
-08.09.2017,Mexico,OS Chiapas,8.1,69,IX,102,304,458392,4.1000,211497,57510,175 cm
+08.09.2017,Mexico,OS Chiapas,8.1,69,IX,102,304,458392,4.1,211497,57510,175 cm
 09.09.2017,Germany,Bavaria,2.1,,IV,0,0,0,0.0639,17,0,--
-11.09.2017,Greece,Thessalia,4.8,,,0,0,0,0.0040,1,0,--
+11.09.2017,Greece,Thessalia,4.8,,,0,0,0,0.004,1,0,--
 12.09.2017,China,Sichuan,4.4,12,,0,0,16,0.2586,55,0,--
 14.09.2017,Peru,Lima,4.8,40,IV,0,1,0,0.1619,21,0,--
 16.09.2017,China,Xinjiang,5.7,6,,0,0,0,0.1798,55,0,--
@@ -205,38 +205,37 @@ Date (UTC),Country,Region,Magnitude,Depth (km),Intensity (MMI),Fatalities,Injuri
 19.09.2017,Mexico,Puebla,7.1,51,VIII,369,7289,193546,3.8447,54473,19261,--
 23.09.2017,Mexico,Oaxaca,6.1,9,VII,4,7,0,,3,12,--
 23.09.2017,Philippines,Bukidnon,5.4,4,VI,0,11,8809,2.2735,1735,62,--
-Swarm,Indonesia,Northern Molucca,4.9,5,,0,2,10165,2.3240,1448,145,--
-30.09.2017,China,Sichuan,5.4,13,,0,3,42,0.4080,,,--
-September ,Mexico,several large earthquakes,"8,1 ; 7,1",,,/475,/7600,/=458392+193546,#VALUE!,/180731,/50610,
+Swarm,Indonesia,Northern Molucca,4.9,5,,0,2,10165,2.324,1448,145,--
+30.09.2017,China,Sichuan,5.4,13,,0,3,42,0.408,,,--
 01.10.2017,Colombia,Santander,5.7,128,,0,,,0.0275,7,,--
 07.10.2017,Indonesia,Bali (Mt. Agung),,,,0,0,20,0.1897,15,1,--
-08.10.2017,Mexico,Oaxaca,4.7,,,0,0,0,0.0080,2,0,--
-08.10.2017,Mexico,Coahuila,4.2,5,,0,0,0,0.0120,3,,
+08.10.2017,Mexico,Oaxaca,4.7,,,0,0,0,0.008,2,0,--
+08.10.2017,Mexico,Coahuila,4.2,5,,0,0,0,0.012,3,,
 10.10.2017,Indonesia,East Nusa Tenggara,4.9,,,0,0,874,1.2933,101,40,--
 10.10.2017,Chile,Arica,6.3,99,VII,0,7,,0.4489,2,,--
 14.10.2017,India,Andhra Pradesh,,,,0,0,0,0.0569,15,0,--
-15.10.2017,France,Vendée,3.6,6,,0,0,0,0.0040,1,0,--
+15.10.2017,France,Vendée,3.6,6,,0,0,0,0.004,1,0,--
 16.10.2017,Indonesia,Bengkulu,3.3,1,V,0,0,10,0.1202,14,,--
 17.10.2017,Indonesia,Bali  ,3.1,10,,0,0,2,0.0402,3,1,--
-17.10.2017,Iran,North Chorasan,4.7,,,0,0,0,0.0910,25,0,--
+17.10.2017,Iran,North Chorasan,4.7,,,0,0,0,0.091,25,0,--
 18.10.2017,Iran,East Azerbaijan,4.3,,,0,0,0,0.0743,20,0,--
 20.10.2017,Indonesia,Bengkulu,3.1,1,IV,0,0,0,0.0159,4,0,--
 21.10.2017,India,Telangana (Hyderabad area),,,,0,0,0,0.0312,8,0,--
 23.10.2017,Iran,Hormozgan,5.5,20,,0,0,0,0.1071,30,0,--
-23.10.2017,Indonesia,OS Java Barat,4.6,30,,0,0,0,0.0040,1,0,--
+23.10.2017,Indonesia,OS Java Barat,4.6,30,,0,0,0,0.004,1,0,--
 Swarm,Indonesia,Bali (Mt. Agung),,,,0,0,0,0.3356,125,0,--
-30.10.2017,Mexico,Coahuila,4.0,,,0,0,0,0.0080,2,0,--
-31.10.2017,France,OS New Caledonia,6.8,11,V,0,0,0,0.0000,0,0,13 cm
+30.10.2017,Mexico,Coahuila,4,,,0,0,0,0.008,2,0,--
+31.10.2017,France,OS New Caledonia,6.8,11,V,0,0,0,0,0,0,13 cm
 31.10.2017,Indonesia,OS Molucca,6.1,16,VII,1,5,,0.5704,47,,--
-01.11.2017,France,OS New Caledonia,6.6,10,V,0,0,0,0.0000,0,0,10 cm
+01.11.2017,France,OS New Caledonia,6.6,10,V,0,0,0,0,0,0,10 cm
 03.11.2017,Austria,Tyrol,3.8,11,IV,0,0,0,0.1662,50,0,--
-08.11.2017,Indonesia,Bali,5.0,,VI ,0,1,,0.1449,15,,--
-10.11.2017,Poland,Lower Silesia,4.3,1,,0,1,,0.0990,0,0,--
+08.11.2017,Indonesia,Bali,5,,VI ,0,1,,0.1449,15,,--
+10.11.2017,Poland,Lower Silesia,4.3,1,,0,1,,0.099,0,0,--
 10.11.2017,Austria,Lower Austria,3.7,,,0,0,0,0.0743,20,0,--
-11.11.2017,Argentina,Salta,5.0,,,0,0,,0.0635,,5,--
+11.11.2017,Argentina,Salta,5,,,0,0,,0.0635,,5,--
 12.11.2017,Iran,Kermanschah,7.3,23,VIII,629,15249,840000,4.3341,79000,16000,--
 13.11.2017,Costa Rica,Puntarenas,6.5,20,VI,3,,,0.6095,4,1,--
-15.11.2017,South Korea,Yeongnam,5.4,10,,0,82,1124,1.8830,3389,52,--
+15.11.2017,South Korea,Yeongnam,5.4,10,,0,82,1124,1.883,3389,52,--
 15.11.2017,Azerbaijan,Agdam,5.2,30,VI,0,7,20,0.7609,265,4,--
 17.11.2017,Azerbaijan,Agdam,4.7,25,IV,0,0,0,0.0387,10,0,--
 17.11.2017,Ecuador,Guayas,5.2,78,IV,0,3,0,0.2521,2,0,--
@@ -245,40 +244,36 @@ Swarm,Indonesia,Bali (Mt. Agung),,,,0,0,0,0.3356,125,0,--
 18.11.2017,India,Rajasthan,4.2,,,0,0,0,0.0743,20,0,--
 18.11.2017,Venezuela,Tachira,4.8,5,,0,0,0,0.0569,15,0,--
 18.11.2017,Indonesia,OS North Maluku,5.8,,,0,30,581,1.4192,155,165,--
-19.11.2017,Italy,Emilia-Romagna,4.4,32,,0,0,0,0.0080,2,0,--
-19.11.2017,France,OS New Caledonia,7.0,,VII,0,0,0,0.0000,0,0,25 cm
+19.11.2017,Italy,Emilia-Romagna,4.4,32,,0,0,0,0.008,2,0,--
+19.11.2017,France,OS New Caledonia,7,,VII,0,0,0,0,0,0,25 cm
 20.11.2017,Iraq,Al Wasit,5.3,,,0,0,0,0.1662,50,0,--
-22.11.2017,Turkey,Mugla,5.0,5,,0,0,0,0.0975,27,0,--
-23.11.2017,China,Chongqing,5.0,10,VI,0,10,145,1.6326,3729,59,--
+22.11.2017,Turkey,Mugla,5,5,,0,0,0,0.0975,27,0,--
+23.11.2017,China,Chongqing,5,10,VI,0,10,145,1.6326,3729,59,--
 23.11.2017,Mexico,Durango,4.5,,,0,0,0,0.0743,20,0,--
 23.11.2017,Iran,Lorestan,4.3,11,,0,34,0,0.9913,10,0,--
 24.11.2017,Turkey,Mugla,5.1,6,,0,0,0,0.1295,17,6,--
 25.11.2017,Indonesia ,Sulawesi Tengah,5.1,,,0,0,0,0.0275,7,0,--
-28.11.2017,Ecuador,Guayas,5.0,80,,0,0,0,0.0198,5,0,--
-30.11.2017,Congo,Sud-Kivu,5.0,,,0,,,0.1283,20,5,--
+28.11.2017,Ecuador,Guayas,5,80,,0,0,0,0.0198,5,0,--
+30.11.2017,Congo,Sud-Kivu,5,,,0,,,0.1283,20,5,--
 01.12.2017,Iran,Kerman,6.1,10,,0,55,1015,1.7886,900,600,--
-02.12.2017,Iran,West Azerbaijan,4.6,13,,0,0,0,0.0910,25,0,--
-03.12.2017,Ecuador,Manabi,6.0,25,VI,0,6,,0.4410,24,0,--
-04.12.2017,Spain,Castilla-La Mancha,4.0,12,V,0,0,0,0.0198,5,0,--
+02.12.2017,Iran,West Azerbaijan,4.6,13,,0,0,0,0.091,25,0,--
+03.12.2017,Ecuador,Manabi,6,25,VI,0,6,,0.441,24,0,--
+04.12.2017,Spain,Castilla-La Mancha,4,12,V,0,0,0,0.0198,5,0,--
 05.12.2017,Iran,Bushehr,4.9,18,,0,33,,0.9755,,,--
 05.12.2017,Iran,Gilan,4.8,23,,0,30,,0.9745,80,,--
 06.12.2017,India,Uttarakhand,5.1,,,0,0,,0.2303,75,0,--
-06.12.2017,Indonesia,Bengkulu,5.1,,,0,1,100,0.7930,191,41,--
-07.12.2017,Russia,Dagestan,4.5,,,0,0,0,0.0120,3,0,--
-10.12.2017,Czech Republic,Moravskoslezsky Kraj,3.5,12,,0,0,0,0.0040,1,0,--
+06.12.2017,Indonesia,Bengkulu,5.1,,,0,1,100,0.793,191,41,--
+07.12.2017,Russia,Dagestan,4.5,,,0,0,0,0.012,3,0,--
+10.12.2017,Czech Republic,Moravskoslezsky Kraj,3.5,12,,0,0,0,0.004,1,0,--
 11.12.2017,Iran,Kermanschah,5.4,,,0,9,,0.6883,,50,--
-12.12.2017,Iran,Kerman,6.2,,,0,29,,0.9570,,20,--
+12.12.2017,Iran,Kerman,6.2,,,0,29,,0.957,,20,--
 12.12.2017,Iran,Kerman,6.1,,,0,58,720,1.4684,,,--
 14.12.2017,China,Qinghai,4.9,,,,,,0.0387,10,,--
 15.12.2017,Indonesia,Java,6.5,92,VII,4,36,200,1.7683,2839,451,--
 20.12.2017,Iran,Tehran,5.2,7,,2,117,,1.6541,1300,,--
-21.12.2017,Colombia,Cali,4.7,143,,0,0,0,0.0080,2,0,--
+21.12.2017,Colombia,Cali,4.7,143,,0,0,0,0.008,2,0,--
 21.12.2017,Iran,Kerman,5.2,,,0,42,8550,2.3633,500,1700,--
 22.12.2017,Mexico,Veracruz,4.3,,,0,0,0,0.0198,5,0,--
 25.12.2017,Iran,Kerman (aftershock),4.7,7,,0,5,,0.4142,,10,--
 26.12.2017,Iran,Tehran (aftershock),4.2,13,,1,75,0,1.3265,0,0,--
-27.12.2017,Iran,Kerman (aftershock),5.1,9,,0,1,,0.0990,,,--
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
+27.12.2017,Iran,Kerman (aftershock),5.1,9,,0,1,,0.099,,,--
