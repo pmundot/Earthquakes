@@ -5,7 +5,7 @@ Date (UTC),Epicenter,Region (Epicenter),Magnitude,Type,Origin,Depth (km),Intensi
 1/5/2020,Mexico,Oaxaca,5.8,earthquake,tectonic,97,VI,16.42,-94.35,0,0,,0.487387581,225,,--
 1/6/2020,USA,Puerto Rico,5.8,EQ sequence,tectonic,6,,17.87,-66.82,0,0,5,0.294344824,75,6,--
 1/7/2020,Indonesia,Simeulue,6.1,earthquake,tectonic,17,,96.35,2.4,0,0,0,0.027127233,7,0,--
-1/7/2020,USA,Puerto Rico,6.4,EQ sequence,tectonic,7,VII - VIII,17.95,-66.74,4,10,4900,2.077428037,1390,300,17 cm
+1/7/2020,USA,Puerto Rico,6.4,EQ sequence,tectonic,7,VIII,17.95,-66.74,4,10,4900,2.077428037,1390,300,17 cm
 1/8/2020,Iran,Bushehr,4.7,earthquake,tectonic,9,,29.19,51.31,0,10,,0.570093951,20,,--
 1/8/2020,Indonesia,Jawa Barat,4.8,earthquake,tectonic,,,-8.05,107.91,0,0,0,0.013343139,0,1,--
 1/10/2020,USA,Puerto Rico,5.2,EQ sequence,tectonic,,,17.95,-66.84,0,0,0,0.019547943,5,0,--

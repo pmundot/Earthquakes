@@ -1,4 +1,4 @@
-Date (UTC),Country,Region,Magnitude,Depth (km),Intensity (MMI),Fatalities,Injuries,displaced,Impact coefficient (D),buildings damaged,buildings destroyed,Tsunami height
+Date (UTC),Country,Region,Magnitude,Depth (km),Intensity (MMI / JMA),Fatalities,Injuries,displaced,Impact coefficient (D),buildings damaged,buildings destroyed,Tsunami height
 1/2/2017,Italy,Umbria,4.1,8,V,0,0,30,0.194400945,,0,--
 1/3/2017,India,Tripura,5.5,35,,3,49,600,1.668773823,1456,166,--
 1/3/2017,Brazil,Maranhao,4.6,,,0,0,0,0.752967373,500,0,--
