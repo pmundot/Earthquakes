@@ -9,7 +9,7 @@ Date (UTC),Country (Epicenter),Region (Epicenter),Magnitude,Type,Origin,Depth (k
 1/4/2018,Montenegro,Plov,5.3,Earthquake,tectonic,14,VII,0,0,20,1.226149685,1655,,--
 1/4/2018,China,Jilin,4.3,Earthquake,tectonic,8,,0,0,46,0.324554333,30,0,--
 1/6/2018,Iran,Kermanschah,5.1,Earthquake,aftershock,8,,0,51,,1.145000095,,,--
-1/7/2018,Myanmar,Sagaing,5.5,Earthquake,tectonic, ,,0,0,4,0.042899291,,1,--
+1/7/2018,Myanmar,Sagaing,5.5,Earthquake,tectonic,0,,0,0,4,0.042899291,,1,--
 1/8/2018,Netherlands,Groningen,3.4,Earthquake,gas prod.,3,,0,0,0,1.450587694,2912,0,--
 1/10/2018,OS Honduras,Islas de la Bahia,7.5,Earthquake,tectonic,12,,0,0,0,0.031321879,8,0,
 1/10/2018,OS Honduras,Islas de la Bahia,7.5,Earthquake,tectonic,12,,0,0,0,0.027527973,7,,40 cm
