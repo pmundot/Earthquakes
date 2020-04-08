@@ -1,0 +1,299 @@
+Date (UTC),Country (Epicenter),Region (Epicenter),Magnitude,Type,Origin,Depth (km),Intensity (MMI / JMA),Fatalities,Injuries,displaced,Impact value (D),buildings damaged,buildings destroyed,Tsunami height
+1/2/2018,Greece,North Macedonia,4.7,Earthquake,tectonic,,,0,0,0,0.056989867,15,0,--
+1/2/2018,Canada,Alberta,2,Cryoseism,weather,,,0,0,0,0.012011972,3,0,--
+1/2/2018,India,Maharashtra,3.2,EQ Swarm,tectonic,,,0,0,,0.422472526,176,0,--
+1/2/2018,Algeria,Blida,5.1,Earthquake,tectonic,10,V,0,2,,0.18119397,1,,--
+1/3/2018,El Salvador,OS La Libertad,5.1,Earthquake,tectonic,80,V,0,0,0,0.01594325,4,0,--
+1/3/2018,China,Yunnan,4.6,Earthquake,tectonic,10,,0,0,,0.974876612,727,52,--
+1/4/2018,United States,California,4.4,Earthquake,tectonic,13,V,0,0,0,0.004041018,1,0,--
+1/4/2018,Montenegro,Plov,5.3,Earthquake,tectonic,14,VII,0,0,20,1.226149685,1655,,--
+1/4/2018,China,Jilin,4.3,Earthquake,tectonic,8,,0,0,46,0.324554333,30,0,--
+1/6/2018,Iran,Kermanschah,5.1,Earthquake,aftershock,8,,0,51,,1.145000095,,,--
+1/7/2018,Myanmar,Sagaing,5.5,Earthquake,tectonic,0,,0,0,4,0.042899291,,1,--
+1/8/2018,Netherlands,Groningen,3.4,Earthquake,gas prod.,3,,0,0,0,1.450587694,2912,0,--
+1/10/2018,Honduras,Islas de la Bahia,7.5,Earthquake,tectonic,12,,0,0,0,0.031321879,8,0,
+1/10/2018,Honduras,Islas de la Bahia,7.5,Earthquake,tectonic,12,,0,0,0,0.027527973,7,,40 cm
+1/10/2018,Iran,Kermanschah,4.7,Earthquake,tectonic,,,0,0,,0.051650426,,4,--
+1/11/2018,Iran,Kermanschah,5.6,Earthquake,tectonic,8,,0,5,200,0.88089402,150,10,--
+1/11/2018,Iran,Ilam,5.4,Earthquake,tectonic,,,0,,,0.038811687,10,,--
+1/11/2018,Costa Rica,Alajuela,5.1,EQ Swarm,triggered,3,,0,0,12,0.199071822,12,8,--
+1/11/2018,Myanmar,Bago Division,6,Earthquake,tectonic,,VII,0,,,0.004041018,1,,--
+1/14/2018,Peru,Arequipa,7.1,Earthquake,tectonic,36,VIII,2,139,2000,2.019211859,1720,443,--
+1/15/2018,Portugal,Evora,4.9,Earthquake,tectonic,7,VI,0,0,0,0.008044782,2,0,--
+1/17/2018,Austria,Vorarlberg,3.9,Earthquake,tectonic,6,VI,0,0,0,0.091211432,25,0,--
+1/19/2018,Mexico,Baja California,6.3,Earthquake,tectonic,,,0,,,0.046174513,12,,--
+1/20/2018,China,Xinjiang,4.8,Earthquake,tectonic,24,,0,0,,0.008044782,2,,--
+1/22/2018,India,Madhya Pradesh,3,Earthquake,tectonic,,,0,0,0,0.074437637,20,0,--
+1/23/2018,Iran,Ilam,4.5,Earthquake,tectonic,9,,,,,0.259693439,20,20,--
+1/23/2018,Indonesia,Banten,6,Earthquake,tectonic,45,VI,2,34,3924,2.215086021,5666,906,--
+1/23/2018,United States,Alaska,7.9,Earthquake,tectonic,,V,0,0,0,0.004041018,1,0,21 cm
+1/24/2018,Australia,New South Wales,4.2,Earthquake,tectonic,,,0,0,0,0.019839261,5,0,--
+1/30/2018,Poland,Silesia,2.9,Earthquake,mining,0.7,,0,0,0,0.008044782,2,0,--
+1/31/2018,Pakistan,Beluchistan,4.8,Earthquake,tectonic,23,,1,8,,0.633346979,25,1,--
+1/31/2018,Afghanistan,Badakhstan,6.2,Earthquake,tectonic,185,VI,0,3,,0.456583579,50,20,--
+1/31/2018,Poland,Silesia,2.6,Earthquake,mining,0.7,,0,0,,0.008044782,2,0,--
+1/31/2018,Brazil,Mato Grosso,3.5,Earthquake,tectonic,,,0,0,0,0.008044782,2,0,--
+1/31/2018,Ecuador,Pastaza,5.6,Earthquake,tectonic,,,1,0,0,0.303055205,1,0,--
+2/1/2018,Russia,Chabarowsk,4.1,Earthquake,tectonic,13,,0,0,0,0.019839261,5,0,--
+2/1/2018,Austria,Vorarlberg,3.9,Earthquake,tectonic,4,,0,0,0,0.019839261,5,0,--
+2/2/2018,China,Yunnan,4.3,Earthquake,tectonic,10,,0,0,0,0.042508703,11,0,--
+2/3/2018,Croatia,Split-Dalmatia,4.5,Earthquake,tectonic,,,0,0,0,0.056989867,15,0,--
+2/4/2018,Taiwan,Hualien,6.1,EQ Swarm,tectonic,16,VI,0,0,0,0.004041018,1,0,--
+2/6/2018,Taiwan,Hualien,6.4,EQ Swarm,tectonic,10,IX,17,285,800,2.062720412,1000,41,--
+2/8/2018,Indonesia,Aceh,5.3,Earthquake,tectonic,,,0,2,10,0.298448634,32,0,--
+2/9/2018,Poland,Silesia,2.9,Earthquake,mining,0.7,,0,0,0,0.019839261,5,0,--
+2/9/2018,China,Henan,4.3,Earthquake,tectonic,10,,0,0,,0.188139659,58,0,--
+2/9/2018,Mexico,OS Colima,5.8,Earthquake,tectonic,16,VI,0,0,,0.004041018,1,,--
+2/9/2018,China,Yunnan,4.9,Earthquake,tectonic,12,,0,1,,1.07458823,1136,,--
+2/10/2018,South Korea,Gyeongsangbuk-do,4.6,Earthquake,geothermal,10,,0,40,413,1.307911647,181,0,--
+2/16/2018,Mexico,Oaxaca,7.2,Earthquake,tectonic,30,VII,0,2,5000,2.512984843,15170,2920,--
+2/17/2018,United Kingdom,Wales,4.4,Earthquake,tectonic,7,V,0,0,0,0.023700631,6,0,--
+2/19/2018,Mexico,Durango,4,Earthquake,reservoir?,5,,0,0,0,0.091211432,25,0,--
+2/20/2018,China,Yunnan,4,Earthquake,tectonic,6,,0,0,16,1.473567864,3035,3,--
+2/21/2018,Bulgaria,Plovdiv,4.3,Earthquake,tectonic,14,IV,0,0,0,0.004041018,1,0,--
+2/25/2018,Papua New Guinea,Southern Highlands,7.5,EQ Sequence,tectonic,35,IX,180,500,58300,3.323539368,40000,11761,--
+2/27/2018,Mauritius,,4,Earthquake,tectonic,,,0,0,0,0.004041018,1,0,--
+2/28/2018,Papua New Guinea,Southern Highlands,6.1,Earthquake,aftershock,16,,1,,,0,,,--
+3/3/2018,Brazil,Alagoas,2.4,Earthquake,tectonic,,,0,0,0,0.012011972,3,0,--
+3/4/2018,Papua New Guinea,Southern Highlands,6,Earthquake,aftershock,,,11,,,1.00E-10,,,--
+3/4/2018,United States,Oklahoma,4.2,Earthquake,gas prod.,2,V,0,0,0,0.004041018,1,0,--
+3/6/2018,Papua New Guinea,Southern Highlands,6.7,Earthquake,aftershock,,,25,,,1.00E-10,,,--
+3/7/2018,Iran,Kerman,5.4,Earthquake,tectonic,28,,0,9,,1.738010164,5500,,--
+3/7/2018,Myamnar,Naypyidaw,5.3,Earthquake,tectonic,10,,0,0,,0.113656888,32,,--
+3/7/2018,Vietnam,Quang Nam,3.4,Earthquake,reservoir,8,,0,0,0,0.107361392,30,0,--
+3/8/2018,Honduras,Ocotepeque,4.3,Earthquake,tectonic,,,0,0,10,0.200337713,40,1,--
+3/8/2018,Mozambique,Zambezia,5.6,Earthquake,tectonic,6,,,2,,0.183860735,2,,--
+3/8/2018,Tunisia,Tunis,4.4,Earthquake,tectonic,,,0,0,0,0.004041018,1,0,--
+3/8/2018,Malaysia,Sabah,5.2,Earthquake,tectonic,,,0,0,0,0.019839261,5,0,--
+3/14/2018,China,Yunnan,3.7,Earthquake,tectonic,,,0,0,0,0.004041018,1,0,--
+3/14/2018,Namibia,Kunene,4.8,Earthquake,tectonic,,,0,0,0,0.032745119,5,1,--
+3/14/2018,China,Guizhou,3.2,Earthquake,tectonic,6,,0,0,0,0.019839261,5,0,--
+3/15/2018,Philippines,Bukidnon,5,Earthquake,tectonic,,VI,0,0,147,0.617524711,22,9,--
+3/15/2018,India,Jammu & Kashmir,4.7,Earthquake,tectonic,,,0,0,2,0.028448277,,1,--
+3/16/2018,Austria,Upper Austria,2.5,Earthquake,tectonic,3,V,0,0,0,0.012011972,3,0,--
+3/16/2018,Kenya,Baringo,,Earthquake,tectonic?,,,0,5,10,0.469904142,50,1,--
+3/19/2018,Indonesia,Sukabumi,5.2,Earthquake,tectonic,49,,0,0,7,0.058856278,2,0,--
+3/19/2018,Iran,Kohgiluyeh-Boyerahmad,4.9,Earthquake,tectonic,24,,0,0,,0.074437637,20,,--
+3/23/2018,India,Tamil Nadu,,Earthquake,,,,0,0,0,0.056989867,15,0,--
+3/29/2018,Tajikistan,,5.6,Earthquake,tectonic,4,,0,0,100,0.57369188,77,7,--
+4/1/2018,Iran,Kermanshah,5.3,Earthquake,aftershock,8,,0,53,,1.174335398,50,,--
+4/2/2018,Bolivia,Chuquisaca,6.8,Earthquake,tectonic,550,,0,0,0,0.004041018,1,0,--
+4/2/2018,El Salvador,OS Usulutan,5.9,Earthquake,tectonic,50,,0,0,,0.023700631,6,0,--
+4/3/2018,Ecuador,Quito,4.2,Earthquake,volc/tec,3,,0,0,0,0.004041018,1,0,--
+4/3/2018,Venezuela,Tachira,4.7,Earthquake,tectonic,5,,0,0,9,0.160329501,27,1,--
+4/5/2018,Chile,Tarapaca,5.6,Earthquake,tectonic,35,,0,0,0,0.004041018,1,0,--
+4/5/2018,United States,OS California,5.3,Earthquake,tectonic,11,VI,0,0,0,0.004041018,1,0,--
+4/7/2018,Papua New Guinea,Southern Highlands,6.3,Earthquake,aftershock,,,4,50,,1.319455013,,100,--
+4/8/2018,Japan,Shimane,5.8,Earthquake,tectonic,13,5+,0,9,171,1.185598358,958,0,--
+4/9/2018,India,Jharkhand,,mine collapse,mining,0,,0,1,30,0.297870039,,6,--
+4/10/2018,Italy,Marche,4.6,Earthquake,aftershock,9,VI,0,0,20,0.2911359,50,4,--
+4/10/2018,Chile,Coquimbo,6.2,Earthquake,tectonic,76,VI,0,0,0,0.008044782,2,0,--
+4/10/2018,India,Madhya Pradesh,4.6,Earthquake,mining,,VI,,1,,0.235932391,50,,--
+4/13/2018,Netherlands,Groningen,2.8,Earthquake,gas prod.,3,V,0,0,0,0.074437637,20,0,--
+4/16/2018,Germany,North Rhine Westphalia,2.9,Earthquake,mining,1,IV,0,0,0,0.004041018,1,0,--
+4/18/2018,Indonesia,Java Tengah,4.4,Earthquake,tectonic,4,VI,2,41,2115,1.802183367,481,231,--
+4/19/2018,Iran,Bushehr,5.8,Earthquake,tectonic,10,,0,0,0,0.091211432,25,0,--
+4/21/2018,Indonesia,Java Tengah,3.4,Earthquake,aftershock,1,,0,6,0,0.402285394,0,0,--
+4/23/2018,Colombia,Caldas,5.2,Earthquake,tectonic,113,,0,0,0,0.038811687,10,0,--
+4/24/2018,Turkey,Adiyaman,5.3,Earthquake,tectonic,13,VII,0,39,700,1.427098156,80,77,--
+4/26/2018,Turkey,Gümüshane,3.7,Earthquake,tectonic,5,,0,1,0,0.098363311,0,0,--
+4/26/2018,Spain,Andalusia,4.5,Earthquake,tectonic,11,,0,0,0,0.008044782,2,0,--
+4/27/2018,Venezuela,Caraboro,4.7,Earthquake,tectonic,,,0,0,0,0.019839261,5,0,--
+5/1/2018,Mexico,Michoacan,3.6,Earthquake,tectonic,62,,0,0,0,0.091211432,25,0,--
+5/1/2018,United States,Hawaii,4.2,EQ Swarm,volcanic,,,0,0,0,0.019839261,5,0,--
+5/2/2018,Iran,Kohgiluyeh-Boyerahmad,5.2,Earthquake,tectonic,8,,0,139,5000,2.313897894,3762,1400,--
+5/4/2018,Chile,OS Coquimbo,4.8,Earthquake,tectonic,37,,0,0,0,0.012011972,3,0,--
+5/4/2018,United States,Hawaii,6.9,Earthquake,volcanic,3,VIII,0,0,0,0.091211432,25,0,40 cm
+5/5/2018,Poland,Silesia,4,mine collapse,mining,1,,5,2,0,0.813472893,0,0,--
+5/5/2018,Philippines,Caramines Sur,6,Earthquake,tectonic,20,,0,0,0,0.008044782,2,0,--
+5/5/2018,China,"Yushu, Qinghai",4.8,Earthquake,tectonic,,,,,,0.58029344,300,,
+5/6/2018,China,"Yushu, Qinghai",5.3,Earthquake,tectonic,,,,,,0.753897452,500,,
+5/6/2018,El Salvador,La Union,5.6,EQ Swarm,tectonic,4,VII,0,1,2073,1.621496342,298,11,--
+5/6/2018,Turkey,Agri,4.2,Earthquake,tectonic,17,,0,0,0,0.004041018,1,0,--
+5/6/2018,Iran,Kohgiluyeh-Boyerahmad,4.8,Earthquake,tectonic,5,,0,130,,1.532049403,,,--
+5/7/2018,Venezuela,Carabobo,3.4,Earthquake,tectonic,5,,0,0,0,0.012011972,3,0,--
+5/8/2018,Iran,Kermanshah,4.6,Earthquake,tectonic,10,,0,0,0,0.038811687,10,0,--
+5/9/2018,Pakistan,FATA,5.4,Earthquake,tectonic,,,,26,,0.881324063,,,--
+5/9/2018,Afghanistan,Badakhshan,6.3,Earthquake,tectonic,111,,5,10,5537,2.086973335,501,283,--
+5/10/2018,Iran,Kohgiluyeh-Boyerahmad,4.3,Earthquake,tectonic,,,0,12,0,0.607484963,0,0,--
+5/10/2018,Iran,Ravazi-Khorasan,5,Earthquake,tectonic,,,0,0,,0.107361392,30,,--
+5/12/2018,Japan,Nagano,5.2,Earthquake,tectonic,11,5-,0,0,,0.004041018,1,,--
+5/12/2018,Czech Republic (Czechia),Karjovarsky Kraj,3.5,EQ Swarm,tectonic,8,V,0,0,0,0.019839261,5,0,--
+5/14/2018,Czech Republic (Czechia),Karjovarsky Kraj,3.5,EQ Swarm,tectonic,8,V,0,0,0,0.012011972,3,0,--
+5/16/2018,China,Sichuan,4.3,Earthquake,tectonic,11,,0,0,,1.13892315,1366,,--
+5/16/2018,United States,Hawaii,4.4,Earthquake,volcanic,0,,0,0,,0.019839261,5,0,--
+5/18/2018,United States,Texas,3.5,Earthquake,gas prod.,5,,0,0,0,0.012011972,3,0,--
+5/19/2018,Albania,Vlora,4.5,EQ Swarm,tectonic,,,0,0,6,0.10209134,10,2,--
+5/21/2018,Czech Republic (Czechia),Karjovarsky Kraj,3.8,EQ Swarm,tectonic,8,VI,0,0,0,0.01594325,4,,--
+5/22/2018,Ecuador,Cotacachi,5.4,Earthquake,tectonic,3,VI,0,2,17,0.270022454,5,,--
+5/23/2018,Venezuela,Carabobo,4.2,Earthquake,tectonic,,,0,3,0,0.277252643,14,0,--
+5/25/2018,Namibia,Kunene,4.9,Earthquake,tectonic,,,0,0,,0.038811687,10,0,--
+5/25/2018,Japan,Nagano,5.4,Earthquake,tectonic,10,VI,0,0,0,0.019839261,5,,--
+5/27/2018,China,Jilin,5.1,Earthquake,tectonic,,,0,0,200,2.012798986,4333,1833,--
+5/30/2018,Iran,Chuzestan,4.3,Earthquake,tectonic,9,,0,0,0,0.063193469,10,2,--
+May/June,France,Mayotte,5.9,EQ Swarm,tectonic,,,0,20,45,0.907627025,100,8,--
+6/3/2018,Benin,Mono,,Earthquake,tectonic,,,0,0,0,0.038811687,10,0,--
+6/5/2018,Azerbaijan,Zaqatala,5.2,Earthquake,tectonic,,,1,31,,1.014826981,50,,--
+6/6/2018,Armenia,Lori,4.3,Earthquake,tectonic,,VI,0,84,,1.349497101,1,,--
+6/11/2018,India,Assam,4.9,Earthquake,tectonic,,,0,2,,0.18119397,1,,--
+6/12/2018,Mexico,Puebla,3.4,Earthquake,volcanic,2,,0,0,0,0.008044782,2,0,--
+6/12/2018,Colombia,Narino,4.5,Earthquake,volcanic,,,2,7,3000,1.80038981,110,100,--
+6/13/2018,Panama,Los Santos,5.3,Earthquake,tectonic,,,0,0,0,0.004041018,1,0,--
+6/13/2018,Indonesia,Jawa Timur,4.8,Earthquake,tectonic,12,,0,6,,0.592618232,54,28,--
+6/17/2018,Pakistan,Punjab,5.2,Earthquake,tectonic,,,0,,,0.168376497,,15,--
+6/17/2018,Japan,Gunma,4.7,Earthquake,tectonic,15,5-,0,0,0,0.01594325,4,0,--
+6/17/2018,Japan,Osaka,5.5,Earthquake,tectonic,12,6-,5,462,182,2.832795098,57629,475,--
+6/26/2018,Iran,Kermanschah,4.8,Earthquake,tectonic,,,0,19,,0.809116533,15,15,--
+6/26/2018,Brazil,Mato Grosso,3.1,Earthquake,tectonic,,,0,0,0,0.01594325,4,0,--
+7/2/2018,China,Jiangxi,3.6,Earthquake,tectonic,5,,0,0,0,0.023700631,6,0,--
+7/2/2018,Taiwan,Chiayi,4.6,Earthquake,tectonic,20,,0,0,0,0.01349981,0,1,--
+7/3/2018,Poland,Lower Silesia,4.1,Mine Collapse,mining,1,,0,12,0,0.607484963,0,0,--
+7/4/2018,Israel,Northern District,4.4,EQ Swarm,tectonic,,,0,0,15,0.173033031,20,1,--
+7/4/2018,Albania,Durres,5.1,Earthquake,tectonic,18,VI,0,0,0,0.056989867,15,0,--
+7/6/2018,Russia,Kamchatka,5.4,Earthquake,tectonic,36,,0,0,0,0.008044782,2,0,--
+7/7/2018,Indonesia,Banten,4.6,EQ Swarm,tectonic,5,,0,0,220,0.808553971,55,30,--
+7/8/2018,India,Jaipur,4.3,Earthquake,tectonic,,,0,0,0,0.038811687,10,0,--
+7/10/2018,Mexico,Chihuahua,4,Earthquake,tectonic,,,0,0,0,0.019839261,5,0,--
+7/10/2018,Philippines,Surigao del Norte,5.1,Earthquake,aftershock,15,,0,0,0,0.080398617,15,2,--
+7/11/2018,Taiwan,Tainan,4.3,Earthquake,tectonic,5,5,0,0,0,0.008044782,2,0,--
+7/12/2018,Indonesia,Kalimantan Tenga,4.4,Earthquake,tectonic,5,,0,0,0,0.019839261,5,0,--
+7/12/2018,Tajikistan,,5.1,Earthquake,tectonic,124,,0,0,0,0.193373058,60,0,--
+7/15/2018,Iran,Kermanschah,4.6,Earthquake,aftershock,8,,0,5,,0.382228346,15,,--
+7/15/2018,Indonesia,Banten,4.8,EQ Swarm,tectonic,,,0,0,0,0.038811687,10,0,--
+7/15/2018,Iran,Kerman ,4.7,Earthquake,tectonic,10,,0,0,,0.877587203,700,,--
+7/17/2018,Iran,North Khorasan,4.9,Earthquake,tectonic,9,,0,2,150,0.888451003,52,96,--
+7/19/2018,Colombia,Huila,5.2,Earthquake,tectonic,,,0,0,28,0.251929195,30,0,--
+7/19/2018,Mexico,Oaxaca,5.7,Earthquake,tectonic,55,VI,0,,,0.038811687,10,,--
+7/20/2018,Indonesia,Sumatra Barat,5.2,Earthquake,tectonic,40,,0,0,0,0.046174513,12,0,--
+7/21/2018,Indonesia,Sumatra Barat,5.5,Earthquake,tectonic,10,,1,3,100,0.760683075,67,18,--
+7/22/2018,Iran,Hormozgan,5.7,Earthquake,tectonic,8,,0,0,,0.286640842,100,,--
+7/22/2018,Iran,Kermanshah,5.9,Earthquake,aftershock,8,,0,290,500,1.979917079,850,120,--
+7/22/2018,Iran,Kerman,5.8,Earthquake,tectonic,10,,0,95,,1.439194893,200,15,--
+7/22/2018,China,Sichuan,4.2,Earthquake,tectonic,,,0,2,0,0.2171161,15,0,--
+7/25/2018,Spain,Valencia,3.1,Earthquake,tectonic,12,IV,0,0,0,0.012011972,3,0,--
+7/28/2018,Iran,Lorestan,4.1,Earthquake,tectonic,10,,0,20,0,0.813211798,45,0,--
+7/28/2018,Indonesia,West Nusa Tenggara,6.5,Earthquake,tectonic,24,VIII,20,424,10170,2.85743894,10393,9836,--
+8/1/2018,Germany,Northrhine Westphalia,2.6,Earthquake,mining,1,IV,0,0,0,0.008044782,2,0,--
+8/5/2018,Germany,Northrhine Westphalia,3,Earthquake,mining,1,V,0,0,0,0.004041018,1,0,--
+8/5/2018,Indonesia,West Nusa Tenggara,6.8,Earthquake,tectonic,13,VIII,540,7773,417529,4.058528074,39946,32016,13 cm
+8/7/2018,India,Madhya Pradesh,,Earthquake,mining,,,0,0,0,0.038811687,10,0,--
+8/7/2018,Colombia,Santander,5.8,Earthquake,tectonic,143,,0,0,0,0.012011972,3,0,--
+8/9/2018,Indonesia,West Nusa Tenggara,5.9,Earthquake,aftershock,,VII,3,24,,1.004345385,,,--
+8/11/2018,Poland,Silesia,3.5,Earthquake,mining,1,,0,0,0,0.094489827,26,0,--
+8/11/2018,Albania,Dibër ,5.1,Earthquake,tectonic,24,,0,4,105,0.74642431,178,0,--
+8/12/2018,China,Yunnan,5,doublet EQ,tectonic,7,,0,24,46000,2.980798787,9666,900,--
+8/13/2018,Spain,Valencia,4.3,Earthquake,tectonic,11,V,0,0,0,0.012011972,3,0,--
+8/14/2018,Italy,Molise,4.7,Earthquake,tectonic,,,0,0,0,0.096948056,20,2,--
+8/15/2018,China,Guizhou,4.4,Earthquake,tectonic,10,,0,0,382,0.919663522,44,0,--
+8/16/2018,Germany,Lower Saxony,3,Earthquake,gas prod.,2,IV,0,0,0,0.004041018,1,0,--
+8/16/2018,Italy,Molise,5.2,Earthquake,tectonic,9,VII,0,2,200,0.970343751,350,30,--
+8/17/2018,Mexico,Queretaro,3.7,Earthquake,tectonic,5,,0,0,0,0.019839261,5,0,--
+8/17/2018,Costa Rica,Puntarenas,6.1,Earthquake,tectonic,,VII,0,0,0,0.004041018,1,0,--
+8/19/2018,Indonesia,West Nusa Tenggara,6.3,Earthquake,tectonic,8,VII,2,1,,1.629110644,646,1054,--
+8/19/2018,Indonesia,West Nusa Tenggara,6.8,Earthquake,tectonic,,VIII,18,24,3717,2.191406645,,2000,--
+8/19/2018,Turkey,Adana,4.8,Earthquake,tectonic,,,0,0,,0.038811687,10,,--
+8/21/2018,India,Maharashtra,2.5,EQ Swarm,unknown,,,0,0,100,0.535486997,50,5,--
+8/21/2018,Venezuela,Sucre,7.3,Earthquake,tectonic,120,VII,5,1,200,1.148398576,450,,--
+8/21/2018,Vanuatu,Pentecost,6.5,Earthquake,tectonic,13,VIII,0,1,100,0.665272619,100,20,--
+8/22/2018,Venezuela,Sucre,5.7,Earthquake,aftershock,98,IV,0,0,0,0.004041018,1,0,--
+8/22/2018,Mexico,Guerrero,5.3,Earthquake,tectonic,16,,0,0,0,0.004041018,1,0,--
+8/22/2018,Vanuatu,Pentecost,5.1,Earthquake,aftershock,,,0,0,0,0.008044782,2,0,--
+8/23/2018,Iran,Kerman,4.7,Earthquake,tectonic,50,,0,2,0,0.528662513,200,0,--
+8/23/2018,Iran,Hormozgan,4.9,Earthquake,tectonic,5,,0,1,,0.098363311,,,--
+8/25/2018,Iran,Kermanshah,6,Earthquake,aftershock,,,2,310,,2.164935186,5200,500,--
+8/28/2018,Indonesia,East Nusa Tenggara,6.2,Earthquake,tectonic,,,0,0,0,0.004041018,1,0,--
+8/28/2018,Azerbaijan,Lankaran,5.1,Earthquake,tectonic,15,,0,0,25,0.436355266,120,5,--
+8/28/2018,India,West Bengal,5,Earthquake,tectonic,,,0,0,4,0.060910663,5,1,--
+8/29/2018,France,New Caledonia,7.1,Earthquake,tectonic,27,,0,0,0,0,0,0,27 cm
+8/31/2018,Greece,Thessalia,5.1,Earthquake,tectonic,,,0,0,0,0.166551655,50,0,--
+8/31/2018,Iran,Kermanshah,4.9,Earthquake,aftershock,,,0,0,,0.176869549,20,10,--
+8/31/2018,Indonesia,West Nusa Tenggara,8.6,EQ Sequence,tectonic,,,564,7773,445343,4.105699647,145788,25588,--
+9/3/2018,China,Xinjiang,4.7,Earthquake,tectonic,8,,0,0,0,0.031321879,8,0,--
+9/4/2018,Russia,Cheljabinsk,5.4,Earthquake,tectonic,,,0,0,0,0.703100064,433,0,--
+9/5/2018,Japan,Hokkaido,6.7,Earthquake,tectonic,37,X / 7,42,731,965,2.654046496,15026,2032,--
+9/7/2018,Ecuador,Chimborazo,6.2,Earthquake,tectonic,94,,0,4,1524,1.664713419,489,383,--
+9/7/2018,Iran,Sistan & Beluchestan,5.6,Earthquake,tectonic,10,,1,10,500,1.214250591,300,,--
+9/8/2018,China,Yunnan,5.9,Earthquake,tectonic,11,VIII,0,27,15840,2.707532912,5893,5096,--
+9/8/2018,Philippines,Davao,6.1,Earthquake,tectonic,14,VII,,,,0.130144518,34,1,--
+9/12/2018,India,Assam,5.3,Earthquake,tectonic,,,1,,,0.467581651,100,,--
+9/12/2018,India,Kerala,,Earthquake,,,,0,1,0,0.295347649,77,0,--
+9/12/2018,China,Shaanxi,5.3,Earthquake,tectonic,11,VI,0,3,14,0.825557387,480,6,--
+9/14/2018,Peru,Arequipa,4.5,Earthquake,tectonic,20,,0,0,0,0.004041018,1,0,--
+9/16/2018,Australia,Western Australia,5.7,Earthquake,tectonic,,,0,0,0,0.004041018,1,0,--
+9/17/2018,Poland,Silesia,3,Earthquake,mining,1,,0,1,0,0.098363311,,,--
+9/19/2018,India,Andhra Pradesh,,Earthquake,tectonic,,,0,0,0,0.046174513,12,0,--
+9/23/2018,Dominican Republic,Monte Cristi,5.1,Earthquake,tectonic,14,,0,0,0,0.074437637,20,0,--
+9/28/2018,Indonesia,Sulawesi Tengah,6,Earthquake,tectonic,12,VII,1,10,,0.702506582,50,1,--
+9/28/2018,Indonesia,Sulawesi Tengah,7.4,Earthquake,tectonic,12,VII,4340,14254,222986,4.135198142,66207,32979,11 m
+9/28/2018,France,OS Martinique,5.4,Earthquake,tectonic,,,0,0,0,0.008044782,2,0,--
+10/1/2018,Germany,Lower Saxony,3.6,Earthquake,gas production,5,IV,0,0,0,0.107361392,30,0,--
+10/2/2018,Indonesia,Nusa Tenggara Timur,6,EQ Swarm,tectonic,10,,0,10,,0.586320079,,10,--
+10/2/2018,Peru,La Libertad,3.9,Earthquake,tectonic,54,,0,0,0,0.004041018,1,0,--
+10/2/2018,Iran,,4.6,Earthquake,tectonic,10,,0,2,0,0.2171161,15,0,--
+10/5/2018,Peru,Cuzco,5.2,Earthquake,tectonic,13,,0,0,0,0.107361392,30,0,--
+10/6/2018,Italy,Sicily,4.8,Earthquake,vol/tec,9,VII,0,40,0,1.082872171,100,,--
+10/7/2018,Haiti,Nord Ouest,5.9,Earthquake,tectonic,12,VII,18,548,55670,3.139607342,15932,2102,--
+10/9/2018,Spain,Andalucia,4,EQ Swarm,tectonic,12,IV,0,0,0,0.019839261,5,0,--
+10/10/2018,Indonesia,Java Timur,6,Earthquake,tectonic,,,4,36,60,1.448790648,36,397,--
+10/10/2018,Papua New Guinea,New Britain,7,Earthquake,tectonic,40,VII,1,,,0.301029996,,,--
+10/11/2018,China,Hubei,4.5,Earthquake,reservoir,,,0,0,0,0.074437637,20,0,--
+10/13/2018,Brazil,Pernambuco,,Earthquake,tectonic,,,0,0,0,0.004041018,1,0,--
+10/17/2018,China,Yunnan,4.5,Earthquake,tectonic,,,0,1,,0.098363311,,,--
+10/18/2018,Iran,Hamedan,4.1,Earthquake,tectonic,12,,0,,,0.074437637,20,,--
+10/20/2018,United States,Texas,4,Earthquake,waste water disposal,5,,0,0,0,0.019839261,5,0,--
+10/25/2018,Greece,Ionian Islands,6.8,Earthquake,tectonic,,VIII,0,4,,0.862006576,144,124,30 cm
+10/27/2018,Peru,Puno,4.8,Earthquake,tectonic,12,,0,0,,0.255161768,45,12,--
+10/28/2018,Romania,Buzau,5.8,Earthquake,tectonic,155,,0,0,0,0.004041018,1,0,--
+10/28/2018,Georgia,Samtskhe–Javakheti,4.1,Earthquake,tectonic,,,0,0,0,0.091211432,25,0,--
+10/31/2018,China,Sichuan,5.1,Earthquake,tectonic,19,VI,0,4,3,0.987370364,777,12,--
+11/1/2018,Chile,Tarapaca,6.2,Earthquake,tectonic,104,VI,0,0,0,0.019839261,5,0,--
+11/3/2018,Indonesia,Sulawesi Barat,4.9,EQ Swarm,tectonic,,,0,12,,0.607484963,,,--
+11/4/2018,India,Maharashtra,2.9,EQ Swarm,tectonic,,,0,0,0,0.019839261,5,0,--
+11/5/2018,Philippines,Iloilo,4.9,EQ Swarm,tectonic,3,V,0,11,0,0.590944281,11,0,--
+11/5/2018,Indonesia,Sulawesi Barat,5.5,EQ Swarm,tectonic,,,,,,0,,,--
+11/6/2018,Georgia,Racha-Lechkhumi&Kvemo Svaneti,5.1,Earthquake,tectonic,,,0,0,,0.019839261,5,0,--
+11/6/2018,Indonesia,Sulawesi Utara,5.3,Earthquake,tectonic,,,0,0,0,0.01594325,4,0,--
+11/7/2018,Indonesia,Sulawesi Barat,5.2,EQ Swarm,tectonic,,,0,2,,0.178510728,,,--
+11/8/2018,Poland,Silesia,3.9,Earthquake,mining,1,,0,0,0,0.457827787,200,0,--
+11/11/2018,Peru,Cuzco,4,Earthquake,tectonic,18,,0,0,0,0.008044782,2,0,--
+11/11/2018,India,Maharashtra,3.2,EQ Swarm,tectonic,,,0,0,,0.107361392,30,,--
+11/14/2018,Russia,Kamtchatka,6.1,Earthquake,tectonic,54,VI,0,0,0,0.004041018,1,0,--
+11/14/2018,Indonesia,West Nusa Tenggara,5.1,Earthquake,tectonic,,,1,0,0,0.301029996,0,0,--
+11/14/2018,Indonesia,Sulawesi Barat,5.5,EQ Swarm,tectonic,,,8,6,78,1.196015103,329,22,--
+11/16/2018,Argentina,Neuquen,3.4,Earthquake,tectonic,12,,0,0,0,0.056115912,8,2,--
+11/16/2018,Iran,Kerman,5.1,Earthquake,tectonic,20,,0,0,0,0.523363111,250,0,--
+11/18/2018,Italy,Emilia Romagna,4.2,Earthquake,tectonic,43,,0,0,0,0.004041018,1,0,--
+11/20/2018,Peru,Ancash,5.7,Earthquake,tectonic,36,,0,19,4,0.778324706,4,2,--
+11/20/2018,United States,Idaho,4.1,Earthquake,tectonic,13,,0,0,0,0.004041018,1,0,--
+11/21/2018,France,Rhone-Alpes,4.2,Earthquake,tectonic,12,,0,0,,0.056989867,15,,--
+11/22/2018,Iran,Hormozgan,4.7,Earthquake,tectonic,20,,0,1,,0.098363311,,,--
+11/24/2018,India,Maharashtra,3.3,EQ Swarm,tectonic,,,0,0,0,0.056989867,15,0,--
+11/24/2018,Venezuela,Trujillo,5,Earthquake,tectonic,20,,0,3,100,0.693744189,42,31,--
+11/25/2018,Russia,Krasnodar,4.3,Earthquake,tectonic,,,0,0,0,0.004041018,1,0,--
+11/25/2018,Iran,Kermanshah,6.3,Earthquake,tectonic,,,0,971,2000,2.525829386,3500,600,--
+11/26/2018,Mexico,Coahuila,4.1,Earthquake,tectonic,,,0,0,0,0.019839261,5,0,--
+11/28/2018,Venezuela,Trujillo,4.4,Earthquake,aftershock,,,0,2,0,0.178510728,,0,--
+11/28/2018,Afghanistan,Baglan,4.9,Earthquake,tectonic,22,,0,9,,0.714503034,,60,--
+11/30/2018,Argentina,Buenos Aires,3.8,Earthquake,tectonic,25,,0,0,0,0.019839261,5,0,--
+11/30/2018,United States,Alaska,7.1,Earthquake,tectonic,41,VIII,0,117,,1.983204714,6000,297,--
+12/3/2018,Iran,Isfahan,4.1,Earthquake,tectonic,,,0,0,0,0.019839261,5,0,--
+12/5/2018,France,New Caledonia,7.5,Earthquake,tectonic,10,,0,0,0,0,0,0,2 m
+12/5/2018,Venezuela,Yaracuy,4.6,Earthquake,tectonic,6,,0,0,,0.019839261,5,,--
+12/5/2018,Chile,Valparaiso,5.4,Earthquake,tectonic,38,,0,0,0,0.004041018,1,0,--
+12/6/2018,Indonesia,West Nusa Tenggara,5.3,Earthquake,tectonic,,,,14,,0.662384928,4,,--
+12/12/2018,Taiwan,Hualien,4.9,Earthquake,tectonic,12,6,0,0,0,0.004041018,1,0,--
+12/12/2018,United States,Tennessee,4.4,Earthquake,tectonic,9,V,0,0,0,0.004041018,1,0,--
+12/15/2018,Vanuatu,Ambrym,5.6,EQ swarm,volcanic,5,,0,,685,1.165047151,100,10,--
+12/16/2018,China,Sichuan,5.4,Earthquake,tectonic,12,VII,0,17,663,1.942658346,6693,246,--
+12/16/2018,Indonesia,Sulawesi Selatan,4.2,Earthquake,tectonic,,,0,0,0,0.008044782,2,0,--
+12/17/2018,Pakistan,Beluchistan,4.5,Earthquake,tectonic,,,0,0,0,0.038811687,10,0,--
+12/17/2018,China,Guizhou,2.4,Earthquake,tectonic,,,0,0,0,0.008044782,2,0,--
+12/20/2018,Canada,Quebec,3.8,Earthquake,mining,3,,0,0,0,0.004041018,1,0,--
+12/20/2018,Argentina,Neuquen,3.2,Earthquake,tectonic,,,0,0,0,0.019839261,5,0,--
+12/22/2018,Mozambique,,5.5,Earthquake,tectonic,8,,0,11,500,1.283736715,319,108,--
+12/23/2018,China,Tibet,5.8,Earthquake,tectonic,,,0,,,0.01594325,4,,--
+12/26/2018,Italy,Sicily,4.9,Earthquake,volcanic,1,VIII,0,28,1096,1.959269312,5048,505,--
+12/27/2018,Venezuela,Carabobo,5.5,Earthquake,tectonic,10,VII ,,,,0.286640842,100,,--
+12/28/2018,Indonesia,Papua Barat,5.7,Earthquake,tectonic,41,,0,0,0,0.019839261,5,0,--
+12/29/2018,Mexico,Nuevo Leon,4.2,Earthquake,,,,,,,0.012011972,3,,--
+12/30/2018,Thailand,Kanchanaburi,4.9,Earthquake,tectonic,,,0,0,0,0.004041018,1,0,--

@@ -1,0 +1,81 @@
+Date (UTC),Epicenter,Region (Epicenter),Magnitude,Type,Origin,Depth (km),Intensity (MMI / JMA),Lat,Long,Fatalities,Injuries,displaced,Impact value (D),buildings damaged,buildings destroyed,Tsunami height
+1/2/2020,Iran,Ravazi-Chorasan,5.8,earthquake,tectonic,8,,34.03,60.37,0,1,100,0.609547197,100,2,--
+1/3/2020,India,Gujarat,3.2,earthquake,tectonic,,,22.4,69.95,0,0,0,0.019547943,5,0,--
+1/3/2020,Ecuador,El Oro,5,earthquake,tectonic,60,,-3.29,-80.14,0,0,0,0.003980612,1,0,--
+1/5/2020,Mexico,Oaxaca,5.8,earthquake,tectonic,97,VI,16.42,-94.35,0,0,,0.487387581,225,,--
+1/6/2020,United States,Puerto Rico,5.8,EQ sequence,tectonic,6,,17.87,-66.82,0,0,5,0.294344824,75,6,--
+1/7/2020,Indonesia,Simeulue,6.1,earthquake,tectonic,17,,96.35,2.4,0,0,0,0.027127233,7,0,--
+1/7/2020,United States,Puerto Rico,6.4,EQ sequence,tectonic,7,VIII,17.95,-66.74,4,10,4900,2.077428037,1390,300,17 cm
+1/8/2020,Iran,Bushehr,4.7,earthquake,tectonic,9,,29.19,51.31,0,10,,0.570093951,20,,--
+1/8/2020,Indonesia,Jawa Barat,4.8,earthquake,tectonic,,,-8.05,107.91,0,0,0,0.013343139,0,1,--
+1/10/2020,United States,Puerto Rico,5.2,EQ sequence,tectonic,,,17.95,-66.84,0,0,0,0.019547943,5,0,--
+1/11/2020,United States,Puerto Rico,5.9,EQ sequence,tectonic,,,17.8,-66.84,0,0,,0.248561045,50,10,--
+1/13/2020,Philippines,Calabarzon,4.2,EQ sequence,volcanic (Taal eruption),4,,13.96,120.99,0,0,,1.469310714,1980,328,--
+1/13/2020,Poland,Silesia,3.8,earthquake,mining,1,,50.2,18.75,0,0,0,0.150557639,45,0,--
+1/15/2020,Peru,Ancash,5.4,earthquake,tectonic,32,,-10.39,-78.83,0,1,0,0.113689084,5,0,--
+1/15/2020,Argentina,Mendoza,5,earthquake,tectonic,,,-32.96,-68.6,0,0,0,0.00792507,2,0,--
+1/15/2020,United States,Puerto Rico,5.2,EQ sequence,tectonic,5,,17.91,-67.02,0,0,,0.003980612,1,,--
+1/16/2020,China,Xinjiang,5.6,earthquake,tectonic,16,,41.21,83.6,0,0,,0.218471445,71,,--
+1/17/2020,Mexico,Oaxaca,5.3,earthquake,tectonic,27,,16.66,-94.95,0,0,500,1.337813234,1260,,--
+1/17/2020,China,Xinjiang,5.4,earthquake,tectonic,20,,39.83,77.18,0,0,,0.038253784,10,0,--
+1/19/2020,China,Xinjiang,6.4,earthquake,tectonic,16,,39.83,77.21,1,2,4827,2.001693768,1007,4,--
+1/19/2020,Indonesia,Sulawesi Utara,6.1,earthquake,tectonic,132,,-0.2,123.9,0,0,0,0.019547943,5,0,--
+1/19/2020,United States,Kansas,4.5,earthquake,waste water injection,5,VI,38.01,-97.97,0,0,0,0.011834025,3,,--
+1/20/2020,United States,Tennessee,3.8,earthquake,tectonic,16,,36.41,-84.03,0,0,0,0.003980612,1,0,--
+1/22/2020,Indonesia,Simeulue,4.7,earthquake,tectonic,16,,2.23,96.11,0,0,0,0.003980612,1,0,--
+1/22/2020,Turkey,Manisa,5.4,EQ Sequence,tectonic,9,,39.06,27.84,0,4,1000,1.57107246,802,305,--
+1/22/2020,Iran,Hormozgan,5.2,earthquake,tectonic,21,,28.09,56.87,0,0,,0.038253784,10,,--
+1/23/2020,Turkey,Ankara,4.5,earthquake,tectonic,13,,40.11,33.25,0,0,0,0.00792507,2,0,--
+1/24/2020,Peru,Moquegua,5.4,earthquake,tectonic,78,,-17.46,-70.89,0,0,0,0.011834025,3,0,--
+1/24/2020,Algeria,Jijel,4.9,earthquake,tectonic,10,,36.76,5.61,0,0,0,0.105930634,30,0,--
+1/24/2020,Turkey,Elazig,6.8,earthquake,tectonic,10,VII,39.2,38.36,41,1631,40000,3.161410222,2691,7600,--
+1/25/2020,India,Andhra Pradesh,4.6,earthquake,tectonic,,,16.67,80.02,0,0,,0.073409152,20,,--
+1/27/2020,Iran,Fars,5.4,earthquake,tectonic,7,,29.59,52.09,0,33,500,1.269829055,10,,--
+1/28/2020,Croatia,Krapinsko-Zagorska,3.4,earthquake,tectonic,5,V,45.97,43967,0,0,,0.019547943,5,,--
+1/28/2020,Turkey,Manisa,4.8,EQ Sequence,tectonic,,,39.1,27.84,0,0,,0.038859166,,3,--
+1/28/2020,Cayman Islands,Cayman Islands,7.7,earthquake,tectonic,,,19.37,-78.74,0,0,0,0.599632755,320,1,
+1/29/2020,Iran,West Azerbaijan,4.9,earthquake,tectonic,10,,37.26,45.09,0,0,,0.283478341,100,,--
+1/30/2020,Mexico,Guerrero,5.3,earthquake,tectonic,17,,17,-99.95,0,0,0,0.00792507,2,0,--
+2/2/2020,China,Sichuan,5.1,earthquake,tectonic,21,,30.75,104.58,0,0,208,0.785257394,99,12,--
+2/4/2020,United States,Puerto Rico,5,EQ Sequence,tectonic,7,,17.84,-66.88,0,0,0,0.038253784,10,,--
+2/4/2020,Turkey,Manisa,4.8,EQ Sequence,tectonic,9,,38.97,27.84,0,0,0,0.021030534,2,1,--
+2/6/2020,Greece,Central Greece,4.7,earthquake,tectonic,9,,39.18,21.44,0,0,0,0.019547943,5,0,--
+2/8/2020,India,Uttarakhand,4.7,earthquake,tectonic,20,,30.1,80.06,0,2,,0.194576484,3,1,--
+2/8/2020,Indonesia,Maluku,5.6,earthquake,tectonic,12,,-2.82,129.87,0,0,0,0.086711381,24,0,--
+2/10/2020,Honduras,Comayagua,4.4,earthquake,tectonic,,,14.64,-87.44,0,0,0,0.00792507,2,0,--
+2/12/2020,Iran,Gilan,4.5,earthquake,tectonic,18,,37.09,49.61,0,0,0,0.011834025,3,0,--
+2/13/2020,Russia,Oblast Sachalin,7,earthquake,tectonic,144,,45.63,148.92,0,0,0,0.019547943,5,0,--
+2/15/2020,Indonesia,West Nusa Tenggara,3.3,earthquake,tectonic,10,,-8.29,115.99,0,0,0,0.003980612,1,0,--
+2/15/2020,Iran,Ardabil,4.4,earthquake,tectonic,6,,38.1,48.12,0,27,0,0.896660551,5,0,--
+2/16/2020,Iran,Hormozgan,5.8,earthquake,tectonic,13,,26.93,55.88,0,1,0,0.148503749,10,2,--
+2/16/2020,Iran,West Azerbaijan,4.4,earthquake,tectonic,5,,38.44,44.52,0,0,0,0.191023188,60,0,--
+2/18/2020,China,Shandong,4.1,earthquake,tectonic,10,,36.47,116.64,0,0,0,0.011834025,3,0,--
+2/18/2020,Turkey,Manisa,4.9,EQ Sequence,tectonic,12,,39.11,27.82,0,0,,0.164469321,50,,--
+2/22/2020,Turkey,Konya,4.5,earthquake,tectonic,15,,37.39,31.48,0,8,5,0.509381218,9,1,--
+2/23/2020,Iran,West Azerbaijan,5.7,earthquake,tectonic,6,,38.52,44.59,10,172,16792,2.788815316,6567,6156,--
+2/24/2020,Italy,Calabria,4.4,earthquake,tectonic,10,,39.33,16.21,0,1,0,0.209920492,40,,--
+2/25/2020,Peru,La Libertad,5.3,earthquake,tectonic,32,,-8.06,-79.95,0,0,150,0.655345654,50,10,--
+2/25/2020,Iran,Hormozgan,4.1,aftershock,tectonic,9,,26.77,55.82,0,0,0,0.019547943,5,,--
+2/25/2020,Turkey,Malatya,5,aftershock,tectonic,5,,38.33,38.77,0,6,,0.405998795,3,,--
+2/27/2020,India,Kerala,2.1,earthquake,reservoir induced,,,9.79,76.88,0,0,0,0.056187092,15,,--
+2/28/2020,Pakistan,Khyber Pakhtunkwar,4.7,earthquake,tectonic,16,,35.26,71.79,0,0,0,0.003980612,1,0,--
+3/1/2020,Philippines,Western Visayas,5.3,earthquake,tectonic,9,,11.33,124.54,0,0,0,0.023354122,6,0,--
+3/3/2020,Peru,Arequipa,4.9,earthquake,tectonic,35,,-16.55,-73.5,0,0,0,0.003980612,1,0,--
+3/4/2020,Myanmar,Sagaing,5,earthquake,tectonic,5,,24.44,96.16,0,0,0,0.085247949,10,4,--
+3/5/2020,Argentina,La Rioja,5.5,earthquake,tectonic,115,,-28.41,-67.5,0,0,0,0.019547943,5,0,--
+3/5/2020,India,Kerala,,earthquake,reservoir induced,,,9.79,76.88,0,0,0,0.003980612,1,0,--
+3/6/2020,China,Sichuan,3.9,earthquake,tectonic,13,,32.62,105.39,0,0,0,0.003980612,1,0,--
+3/6/2020,Canada,Quebec,3.3,earthquake,tectonic,12,,45.62,-73.51,0,0,0,0.019547943,5,0,--
+3/6/2020,Iran,West Azerbaijan,4.5,aftershock,tectonic,6,,38.58,44.58,0,0,0,0.038253784,10,0,--
+3/7/2020,Costa Rica,Puntarenas,5.2,earthquake,tectonic,,,44021,-83.15,0,0,0,0.003980612,1,0,--
+3/7/2020,Portugal,Madeira,5.1,earthquake,tectonic,,,32.32,-16.86,0,0,0,0.011834025,3,0,--
+3/8/2020,Iran,Chuzestan,4.8,earthquake,tectonic,9,,32.24,48.8,0,0,0,0.019547943,5,0,--
+3/9/2020,China,Xizang,5,EQ sequence,tectonic,10,,32.84,85.52,0,0,0,0.056187092,15,0,--
+3/10/2020,Indonesia,Jawa Barat,4.9,earthquake,tectonic,10,,-6.81,106.66,0,3,1032,1.419611381,405,60,--
+3/11/2020,Indonesia,Jawa Barat,3.7,earthquake,tectonic,,,-6.73,107.35,0,0,0,0.00792507,2,0,--
+3/12/2020,Japan,Ishikawa,5.2,earthquake,tectonic,8,,37.27,136.86,0,2,0,0.177940277,0,0,--
+3/13/2020,India,Kerala,2.8,earthquake,reservoir induced,,,9.79,76.88,0,0,0,0.038253784,10,0,--
+3/13/2020,Tanzania,Tanga,4.8,earthquake,tectonic,15,,-4.9,38.55,0,0,0,0.00792507,2,0,--
+3/14/2020,Iran,Qom,4,earthquake,tectonic,10,,34.56,50.72,0,0,0,0.038253784,10,0,--
+3/15/2020,Iran,Hormozgan,5.4,earthquake,tectonic,16,,27.2,55.32,0,2,,0.235971879,20,1,--
+3/16/2020,India,Rajasthan,3.1,earthquake,tectonic,,,26.9,75.3,0,0,0,0.00792507,2,0,--
