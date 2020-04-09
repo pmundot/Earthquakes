@@ -63,7 +63,6 @@ Date (UTC),Epicenter,Region (Epicenter),Magnitude,Type,Origin,Depth (km),Intensi
 3/3/2020,Peru,Arequipa,4.9,earthquake,tectonic,35,,-16.55,-73.5,0,0,0,0.003980612,1,0,--
 3/4/2020,Myanmar,Sagaing,5,earthquake,tectonic,5,,24.44,96.16,0,0,0,0.085247949,10,4,--
 3/5/2020,Argentina,La Rioja,5.5,earthquake,tectonic,115,,-28.41,-67.5,0,0,0,0.019547943,5,0,--
-3/5/2020,India,Kerala,,earthquake,reservoir induced,,,9.79,76.88,0,0,0,0.003980612,1,0,--
 3/6/2020,China,Sichuan,3.9,earthquake,tectonic,13,,32.62,105.39,0,0,0,0.003980612,1,0,--
 3/6/2020,Canada,Quebec,3.3,earthquake,tectonic,12,,45.62,-73.51,0,0,0,0.019547943,5,0,--
 3/6/2020,Iran,West Azerbaijan,4.5,aftershock,tectonic,6,,38.58,44.58,0,0,0,0.038253784,10,0,--

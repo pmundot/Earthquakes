@@ -86,7 +86,6 @@ Date (UTC),Country,Region,Magnitude,Depth (km),Intensity (MMI / JMA),Fatalities,
 4/5/2017,Greece,Peloponnese,4.5,8,VI ,0,0,0,0.074259946,20,0,--
 4/8/2017,Philippines,Batangas,6,,VII ,0,6,3578,2.05260713,2695,568,--
 4/8/2017,Albania,Qark Lezha,5.1,,,0,0,10,0.126254857,16,0,--
-4/10/2017,India,Karnataka,,,,0,0,0,0.038715255,10,0,--
 4/10/2017,El Salvador,San Salvador,4.8,10,,1,2,,0.685134632,250,,--
 4/11/2017,Philippines,Misamis Oriental,6,3,VII ,0,1,5027,2.021672926,817,52,--
 4/12/2017,China,Zhejiang,4.2,,,0,0,,0.152158977,45,0,--
@@ -94,7 +93,6 @@ Date (UTC),Country,Region,Magnitude,Depth (km),Intensity (MMI / JMA),Fatalities,
 4/18/2017,Myanmar,Shan State,4.7,,,0,0,0,0.004030572,1,0,--
 4/21/2017,Turkey,Manisa,5.1,6,,0,0,15,0.14250166,8,1,--
 4/21/2017,Turkey,Manisa,5.1,10,,0,0,,0.122654123,35,,--
-4/24/2017,Guinea,Labé,,,,0,0,50,0.411962575,35,10,--
 4/24/2017,Chile,OS Valparaiso,6.9,25,VII,0,0,0,0.019788895,5,0,16 cm
 4/28/2017,Philippines,OS Sarangani,6.8,,VII,0,5,15,0.460610181,18,5,20 cm
 4/29/2017,Colombia,Cauca,4.6,,,0,0,0,0.011981203,3,0,--
@@ -111,7 +109,6 @@ Date (UTC),Country,Region,Magnitude,Depth (km),Intensity (MMI / JMA),Fatalities,
 5/11/2017,Azerbaijan,Saatli,5.3,48,V,0,20,,0.839788756,85,,--
 5/11/2017,Turkey,Erzurum,5,4,,0,0,,0.090997726,25,,--
 5/13/2017,Iran,North Chorazan,5.7,11,VII,3,417,5100,2.654396772,9580,4929,--
-5/15/2017,India,Karnataka,,,,0,0,0,0.056851142,15,0,--
 5/16/2017,Peru,Ayacucho,5.4,10,VI ,0,0,45,0.405296454,51,7,--
 5/19/2017,Iran,North Chorazan (aftershock),4.1,10,,0,2,250,0.941257122,,80,--
 5/22/2017,Peru,Moquegua,4.2,,,0,0,0,0.435355028,185,0,--
@@ -125,7 +122,6 @@ Date (UTC),Country,Region,Magnitude,Depth (km),Intensity (MMI / JMA),Fatalities,
 5/29/2017,Poland,Silesia,3.3,0.6,,0,4,0,0.30631396,,,--
 5/29/2017,Indonesia,Sulawesi,6.6,11,VII,0,25,900,1.495631243,180,168,--
 5/29/2017,China,Hubei,3.5,8,,0,0,0,0.090997726,25,0,--
-6/1/2017,Guatemala,Santa Rosa,,,,0,0,0,0.004030572,1,0,--
 6/1/2017,India,Haryana,4.7,,,0,0,0,0.090997726,25,,--
 6/4/2017,China,Nei Mongol,5,15,,0,0,510,1.163432033,220,61,--
 6/5/2017,Peru,Piura,6.2,18,V,0,3,7,0.335627245,15,4,--
@@ -209,19 +205,15 @@ Date (UTC),Country,Region,Magnitude,Depth (km),Intensity (MMI / JMA),Fatalities,
 9/30/2017,China,Sichuan,5.4,13,,0,3,42,0.408034582,,,--
 9/30/2017,Mexico,N/A,8.1,,,475,7600,651938,4.254540726,180731,50610,
 10/1/2017,Colombia,Santander,5.7,128,,0,,,0.027458696,7,,--
-10/7/2017,Indonesia,Bali (Mt. Agung),,,,0,0,20,0.189693722,15,1,--
 10/8/2017,Mexico,Oaxaca,4.7,,,0,0,0,0.008024081,2,0,--
 10/8/2017,Mexico,Coahuila,4.2,5,,0,0,0,0.011981203,3,,
-10/10/2017,Indonesia,East Nusa Tenggara,4.9,,,0,0,874,1.293340553,101,40,--
 10/10/2017,Chile,Arica,6.3,99,VII,0,7,,0.448936805,2,,--
-10/14/2017,India,Andhra Pradesh,,,,0,0,0,0.056851142,15,0,--
 10/15/2017,France,Vendée,3.6,6,,0,0,0,0.004030572,1,0,--
 10/16/2017,Indonesia,Bengkulu,3.3,1,V,0,0,10,0.120156621,14,,--
 10/17/2017,Indonesia,Bali  ,3.1,10,,0,0,2,0.04023935,3,1,--
 10/17/2017,Iran,North Chorasan,4.7,,,0,0,0,0.090997726,25,0,--
 10/18/2017,Iran,East Azerbaijan,4.3,,,0,0,0,0.074259946,20,0,--
 10/20/2017,Indonesia,Bengkulu,3.1,1,IV,0,0,0,0.015902594,4,0,--
-10/21/2017,India,Telangana (Hyderabad area),,,,0,0,0,0.031243393,8,0,--
 10/23/2017,Iran,Hormozgan,5.5,20,,0,0,0,0.107114296,30,0,--
 10/23/2017,Indonesia,OS Java Barat,4.6,30,,0,0,0,0.004030572,1,0,--
 10/30/2017,Mexico,Coahuila,4,,,0,0,0,0.008024081,2,0,--

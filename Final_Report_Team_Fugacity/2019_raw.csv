@@ -151,7 +151,6 @@ Date (UTC),Country (Epicenter),Region (Epicenter),Magnitude,Type,Origin,Depth (k
 7/10/2019,Philippines,North Cotabato,4.9,aftershock,tectonic,9,V,6.84,125,0,70,0,1.272792586,0,0,--
 7/12/2019,Indonesia,West Nusa Tenggara,5.3,earthquake,tectonic,43,,-9.1,117.85,0,0,0,0.039586121,7,1,--
 7/12/2019,Philippines,Surigao del sur,5.5,earthquake,tectonic,5,VII,9.32,126.01,0,59,9609,2.330528164,2158,67,--
-7/13/2019,India,Andhra Pradesh,,,,,,43692,78.6,0,0,0,0.019565285,5,0,--
 7/14/2019,Australia,Western Australia,6.6,earthquake,tectonic,,,-18347,120285,0,0,0,0.003984207,1,0,--
 7/14/2019,Indonesia,Maluku Utara,7.3,earthquake,tectonic,10,VIII,-0.529,128093,14,129,53076,3.031124695,1609,1256,20 cm
 7/16/2019,Indonesia,Jawa Timur,5.7,earthquake,tectonic,91,VI,-8867,114503,0,10,,0.625617898,68,2,--
@@ -168,7 +167,6 @@ Date (UTC),Country (Epicenter),Region (Epicenter),Magnitude,Type,Origin,Depth (k
 7/29/2019,Germany,Baden-Württemberg,3.7,earthquake,tectonic,4,V,47.75,43778,0,0,0,0.003984207,1,0,--
 7/31/2019,El Salvador,La Paz,5.9,earthquake,tectonic,,V,13.37,-89.17,0,0,0,0.003984207,1,0,--
 7/31/2019,Albania,Korçë,4.7,earthquake,tectonic,13,,40.51,20.79,0,0,0,0.019565285,5,0,--
-7.2019,Botswana,Selebi-Phikwe,,EQ Sequence,mining,1,,-21.95,27.84,0,0,0,0.347476912,133,0,--
 8/1/2019,Australia,Northern Territory,5.4,earthquake,tectonic,,,-19.86,133.76,0,0,0,0.038287006,10,0,--
 8/1/2019,Chile,Libertador General Bernardo O'Higgins,6.6,earthquake,tectonic,20,,-34.23,-72.22,0,0,0,0.038287006,10,0,--
 8/2/2019,Indonesia,Banten,6.9,earthquake,tectonic,53,,-7267,104825,8,2,600,1.460161024,721,55,--
@@ -196,7 +194,6 @@ Date (UTC),Country (Epicenter),Region (Epicenter),Magnitude,Type,Origin,Depth (k
 8/30/2019,Bosnia and Herzegovina,Tuzla,4.9,earthquake,tectonic,10,VI,44634,18537,0,0,,0.038287006,10,,--
 8/31/2019,Myanmar,Sagaing,5.5,earthquake,tectonic,,,22.75,95.53,0,3,,0.475838397,100,10,--
 9/7/2019,China,Sichuan,5.4,earthquake,tectonic,10,,29.55,104.79,1,74,2417,2.075895681,4880,293,--
-9/8/2019,India,Madhya Pradesh,,EQ swarm,reservoir,,,22.71,76.27,0,0,,0.073470426,20,,--
 9/9/2019,Tanzania,Katavi,5.5,earthquake,tectonic,,,-6.47,30.77,,2,,0.293957736,50,,--
 9/9/2019,India,Jammu and Kashmir,4.9,earthquake,tectonic,,,33,76.17,0,0,,0.038287006,10,,--
 9/9/2019,Venezuela,Sucre,5.5,earthquake,tectonic,6,VI,10.55,-64.41,0,0,10,0.090844473,2,1,--
@@ -206,7 +203,6 @@ Date (UTC),Country (Epicenter),Region (Epicenter),Magnitude,Type,Origin,Depth (k
 9/14/2019,Turkey,Cankiri,4.9,earthquake,tectonic,5,,40.73,32.97,0,0,0,0.290599726,100,1,--
 9/14/2019,Iran,West Azerbaijan,4.3,earthquake,tectonic,,,38.92,44.33,0,0,0,0.304012119,110,0,--
 9/16/2019,China,Gansu,5,earthquake,tectonic,11,,38.6,100.35,0,,,0.038287006,10,,--
-9/16/2019,India,Madhya Pradesh,,EQ swarm,reservoir,,,22.71,76.27,0,0,100,0.456976862,,1,--
 9/16/2019,Iran,Gilan,4.7,earthquake,tectonic,,,36.6,50.02,0,1,0,0.113784197,5,0,--
 9/17/2019,Iran,Kurdestan,4.4,earthquake,tectonic,10,,35418,46.4,0,2,,0.178080254,,,--
 9/19/2019,Indonesia,Jawa Timur,6.1,earthquake,tectonic,626,IV,-6.03,111.85,0,0,0,0.007932195,2,0,--
